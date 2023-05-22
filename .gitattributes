@@ -625,6 +625,7 @@
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
+/external/rust/crates/pdl-compiler pdk
 /external/rust/crates/peeking_take_while pdk
 /external/rust/crates/percent-encoding pdk
 /external/rust/crates/pest pdk
