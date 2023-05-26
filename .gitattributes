@@ -1026,6 +1026,7 @@
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/StatsD pdk-fs pdk-cw-fs
 /packages/modules/TestModule
+/packages/modules/ThreadNetwork
 /packages/modules/Uwb pdk-fs pdk-cw-fs
 /packages/modules/Virtualization pdk
 /packages/modules/Wifi pdk-fs pdk-cw-fs

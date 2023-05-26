@@ -4149,6 +4149,10 @@
 	branch = main
 	path = packages/modules/TestModule
 	url = ../../packages/modules/TestModule
+[submodule "platform/packages/modules/ThreadNetwork"]
+	branch = main
+	path = packages/modules/ThreadNetwork
+	url = ../../packages/modules/ThreadNetwork
 [submodule "platform/packages/modules/Uwb"]
 	branch = main
 	path = packages/modules/Uwb
