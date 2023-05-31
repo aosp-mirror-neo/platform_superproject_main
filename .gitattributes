@@ -1184,6 +1184,7 @@
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
 /test/mts
+/test/robolectric-extensions pdk-fs pdk-cw-fs
 /test/suite_harness pdk-fs cts pdk-cw-fs
 /test/vts vts pdk
 /test/vts-testcase/hal vts pdk
