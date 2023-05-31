@@ -2802,6 +2802,10 @@
 	branch = main
 	path = external/rust/crates/smallvec
 	url = ../../external/rust/crates/smallvec
+[submodule "platform/external/rust/crates/smccc"]
+	branch = main
+	path = external/rust/crates/smccc
+	url = ../../external/rust/crates/smccc
 [submodule "platform/external/rust/crates/socket2"]
 	branch = main
 	path = external/rust/crates/socket2

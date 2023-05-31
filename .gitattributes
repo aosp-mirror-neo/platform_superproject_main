@@ -690,6 +690,7 @@
 /external/rust/crates/shlex pdk
 /external/rust/crates/slab pdk
 /external/rust/crates/smallvec pdk
+/external/rust/crates/smccc pdk
 /external/rust/crates/socket2 pdk
 /external/rust/crates/spin pdk
 /external/rust/crates/spki pdk
