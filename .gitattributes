@@ -594,6 +594,8 @@
 /external/rust/crates/libtest-mimic pdk
 /external/rust/crates/libz-sys pdk
 /external/rust/crates/linked-hash-map pdk
+/external/rust/crates/linkme pdk
+/external/rust/crates/linkme-impl pdk
 /external/rust/crates/litrs pdk
 /external/rust/crates/lock_api pdk
 /external/rust/crates/log pdk
