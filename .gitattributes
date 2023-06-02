@@ -408,8 +408,10 @@
 /external/open-dice pdk
 /external/opencensus-java tradefed pdk
 /external/openscreen pdk
+/external/openthread pdk
 /external/openwrt-prebuilts pdk
 /external/oss-fuzz pdk
+/external/ot-br-posix pdk
 /external/ow2-asm pdk
 /external/owasp/java-encoder pdk
 /external/owasp/sanitizer pdk

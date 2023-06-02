@@ -1674,6 +1674,10 @@
 	branch = main
 	path = external/openscreen
 	url = ../../external/openscreen
+[submodule "platform/external/openthread"]
+	branch = main
+	path = external/openthread
+	url = ../../external/openthread
 [submodule "platform/external/openwrt-prebuilts"]
 	branch = main
 	path = external/openwrt-prebuilts
@@ -1682,6 +1686,10 @@
 	branch = main
 	path = external/oss-fuzz
 	url = ../../external/oss-fuzz
+[submodule "platform/external/ot-br-posix"]
+	branch = main
+	path = external/ot-br-posix
+	url = ../../external/ot-br-posix
 [submodule "platform/external/ow2-asm"]
 	branch = main
 	path = external/ow2-asm
