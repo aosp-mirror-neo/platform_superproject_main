@@ -3142,6 +3142,10 @@
 	branch = main
 	path = external/starlark-go
 	url = ../../external/starlark-go
+[submodule "platform/external/stg"]
+	branch = main
+	path = external/stg
+	url = ../../external/stg
 [submodule "platform/external/strace"]
 	branch = main
 	path = external/strace

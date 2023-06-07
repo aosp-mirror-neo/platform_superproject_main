@@ -775,6 +775,7 @@
 /external/squashfs-tools pdk
 /external/stardoc pdk
 /external/starlark-go pdk
+/external/stg pdk
 /external/strace pdk
 /external/stressapptest pdk
 /external/subsampling-scale-image-view pdk
