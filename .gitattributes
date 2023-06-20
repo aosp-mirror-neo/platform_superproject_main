@@ -423,6 +423,7 @@
 /external/pcre pdk
 /external/pdfium pdk
 /external/perfetto pdk
+/external/perfmark pdk
 /external/pffft pdk
 /external/piex pdk
 /external/pigweed pdk
