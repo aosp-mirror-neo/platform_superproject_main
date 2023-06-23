@@ -380,6 +380,7 @@
 /external/mobly-snippet-lib pdk
 /external/mockftpserver pdk
 /external/mockito pdk
+/external/mockito-kotlin pdk
 /external/mockwebserver pdk
 /external/modp_b64 pdk
 /external/mp4parser pdk

@@ -1562,6 +1562,10 @@
 	branch = main
 	path = external/mockito
 	url = ../../external/mockito
+[submodule "platform/external/mockito-kotlin"]
+	branch = main
+	path = external/mockito-kotlin
+	url = ../../external/mockito-kotlin
 [submodule "platform/external/mockwebserver"]
 	branch = main
 	path = external/mockwebserver
