@@ -536,6 +536,7 @@
 /external/rust/crates/crossbeam-utils pdk
 /external/rust/crates/csv pdk
 /external/rust/crates/csv-core pdk
+/external/rust/crates/data-encoding pdk
 /external/rust/crates/der pdk
 /external/rust/crates/der-oid-macro pdk
 /external/rust/crates/der-parser pdk
@@ -580,6 +581,8 @@
 /external/rust/crates/hashlink pdk
 /external/rust/crates/heck pdk
 /external/rust/crates/hex pdk
+/external/rust/crates/http pdk
+/external/rust/crates/httparse pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
 /external/rust/crates/instant pdk
@@ -722,6 +725,7 @@
 /external/rust/crates/tracing pdk
 /external/rust/crates/tracing-attributes pdk
 /external/rust/crates/tracing-core pdk
+/external/rust/crates/tungstenite pdk
 /external/rust/crates/ucd-trie pdk
 /external/rust/crates/unicode-bidi pdk
 /external/rust/crates/unicode-ident pdk
@@ -733,6 +737,7 @@
 /external/rust/crates/url pdk
 /external/rust/crates/userfaultfd pdk
 /external/rust/crates/userfaultfd-sys pdk
+/external/rust/crates/utf-8 pdk
 /external/rust/crates/uuid pdk
 /external/rust/crates/virtio-drivers pdk
 /external/rust/crates/vsock pdk
