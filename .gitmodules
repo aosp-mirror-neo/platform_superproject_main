@@ -1970,6 +1970,10 @@
 	branch = main
 	path = external/rootdev
 	url = ../../external/rootdev
+[submodule "platform/external/rust/autocxx"]
+	branch = main
+	path = external/rust/autocxx
+	url = ../../external/rust/autocxx
 [submodule "platform/external/rust/crates/aarch64-paging"]
 	branch = main
 	path = external/rust/crates/aarch64-paging
@@ -1994,6 +1998,10 @@
 	branch = main
 	path = external/rust/crates/anes
 	url = ../../external/rust/crates/anes
+[submodule "platform/external/rust/crates/annotate-snippets"]
+	branch = main
+	path = external/rust/crates/annotate-snippets
+	url = ../../external/rust/crates/annotate-snippets
 [submodule "platform/external/rust/crates/anyhow"]
 	branch = main
 	path = external/rust/crates/anyhow
@@ -2502,6 +2510,14 @@
 	branch = main
 	path = external/rust/crates/merge_derive
 	url = ../../external/rust/crates/merge_derive
+[submodule "platform/external/rust/crates/miette"]
+	branch = main
+	path = external/rust/crates/miette
+	url = ../../external/rust/crates/miette
+[submodule "platform/external/rust/crates/miette-derive"]
+	branch = main
+	path = external/rust/crates/miette-derive
+	url = ../../external/rust/crates/miette-derive
 [submodule "platform/external/rust/crates/minimal-lexical"]
 	branch = main
 	path = external/rust/crates/minimal-lexical
@@ -2510,6 +2526,10 @@
 	branch = main
 	path = external/rust/crates/mio
 	url = ../../external/rust/crates/mio
+[submodule "platform/external/rust/crates/moveit"]
+	branch = main
+	path = external/rust/crates/moveit
+	url = ../../external/rust/crates/moveit
 [submodule "platform/external/rust/crates/named-lock"]
 	branch = main
 	path = external/rust/crates/named-lock
@@ -2586,6 +2606,10 @@
 	branch = main
 	path = external/rust/crates/paste
 	url = ../../external/rust/crates/paste
+[submodule "platform/external/rust/crates/pathdiff"]
+	branch = main
+	path = external/rust/crates/pathdiff
+	url = ../../external/rust/crates/pathdiff
 [submodule "platform/external/rust/crates/pdl-compiler"]
 	branch = main
 	path = external/rust/crates/pdl-compiler

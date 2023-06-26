@@ -482,12 +482,14 @@
 /external/roboto-flex-fonts pdk
 /external/roboto-fonts pdk
 /external/rootdev pdk
+/external/rust/autocxx pdk
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/ahash pdk
 /external/rust/crates/aho-corasick pdk
 /external/rust/crates/android_log-sys pdk
 /external/rust/crates/android_logger pdk
 /external/rust/crates/anes pdk
+/external/rust/crates/annotate-snippets pdk
 /external/rust/crates/anyhow pdk
 /external/rust/crates/arbitrary pdk
 /external/rust/crates/argh pdk
@@ -615,8 +617,11 @@
 /external/rust/crates/memoffset pdk
 /external/rust/crates/merge pdk
 /external/rust/crates/merge_derive pdk
+/external/rust/crates/miette pdk
+/external/rust/crates/miette-derive pdk
 /external/rust/crates/minimal-lexical pdk
 /external/rust/crates/mio pdk
+/external/rust/crates/moveit pdk
 /external/rust/crates/named-lock pdk
 /external/rust/crates/nix pdk
 /external/rust/crates/no-panic pdk
@@ -636,6 +641,7 @@
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
+/external/rust/crates/pathdiff pdk
 /external/rust/crates/pdl-compiler pdk
 /external/rust/crates/peeking_take_while pdk
 /external/rust/crates/percent-encoding pdk
