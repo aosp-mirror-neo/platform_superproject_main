@@ -166,6 +166,19 @@
 	branch = main
 	path = device/google/gs201-sepolicy
 	url = ../../../device/google/gs201-sepolicy
+[submodule "device/google/lynx"]
+	branch = main
+	path = device/google/lynx
+	url = ../../../device/google/lynx
+[submodule "device/google/lynx-kernel"]
+	branch = main
+	shallow = true
+	path = device/google/lynx-kernel
+	url = ../../../device/google/lynx-kernel
+[submodule "device/google/lynx-sepolicy"]
+	branch = main
+	path = device/google/lynx-sepolicy
+	url = ../../../device/google/lynx-sepolicy
 [submodule "device/google/pantah"]
 	branch = main
 	path = device/google/pantah
@@ -222,6 +235,18 @@
 	branch = main
 	path = device/google/sunfish-sepolicy
 	url = ../../../device/google/sunfish-sepolicy
+[submodule "device/google/tangorpro"]
+	branch = main
+	path = device/google/tangorpro
+	url = ../../../device/google/tangorpro
+[submodule "device/google/tangorpro-kernel"]
+	branch = main
+	path = device/google/tangorpro-kernel
+	url = ../../../device/google/tangorpro-kernel
+[submodule "device/google/tangorpro-sepolicy"]
+	branch = main
+	path = device/google/tangorpro-sepolicy
+	url = ../../../device/google/tangorpro-sepolicy
 [submodule "device/google/trout"]
 	branch = main
 	path = device/google/trout
@@ -3122,6 +3147,10 @@
 	branch = main
 	path = external/selinux
 	url = ../../external/selinux
+[submodule "platform/external/setfilters"]
+	branch = main
+	path = external/setfilters
+	url = ../../external/setfilters
 [submodule "platform/external/setupcompat"]
 	branch = main
 	path = external/setupcompat
@@ -3820,6 +3849,10 @@
 	branch = main
 	path = hardware/st/secure_element2
 	url = ../../hardware/st/secure_element2
+[submodule "platform/hardware/synaptics/wlan"]
+	branch = main
+	path = hardware/synaptics/wlan
+	url = ../../hardware/synaptics/wlan
 [submodule "platform/hardware/ti/am57x"]
 	branch = main
 	path = hardware/ti/am57x

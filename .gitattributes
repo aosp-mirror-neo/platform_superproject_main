@@ -39,6 +39,9 @@
 /device/google/gs101-sepolicy slider pdk-gs-arm bluejay device
 /device/google/gs201 device cloudripper
 /device/google/gs201-sepolicy device cloudripper
+/device/google/lynx lynx device
+/device/google/lynx-kernel lynx device
+/device/google/lynx-sepolicy lynx device
 /device/google/pantah device cloudripper
 /device/google/pantah-kernel device cloudripper
 /device/google/pantah-sepolicy device cloudripper
@@ -52,6 +55,9 @@
 /device/google/sunfish sunfish device
 /device/google/sunfish-kernel sunfish device
 /device/google/sunfish-sepolicy sunfish device
+/device/google/tangorpro tangorpro device
+/device/google/tangorpro-kernel tangorpro device
+/device/google/tangorpro-sepolicy tangorpro device
 /device/google/trout pdk trout device gull
 /device/google/vrservices pdk
 /device/google_car pdk
@@ -770,6 +776,7 @@
 /external/scudo pdk
 /external/seccomp-tests pdk
 /external/selinux pdk
+/external/setfilters pdk
 /external/setupcompat pdk
 /external/setupdesign pdk
 /external/sfntly pdk qcom_msm8x26
@@ -944,6 +951,7 @@
 /hardware/st/nfc pdk
 /hardware/st/secure_element pdk
 /hardware/st/secure_element2 pdk
+/hardware/synaptics/wlan pdk
 /hardware/ti/am57x pdk
 /libcore pdk
 /libnativehelper pdk
