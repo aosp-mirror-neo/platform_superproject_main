@@ -241,6 +241,7 @@
 	url = ../../../device/google/tangorpro
 [submodule "device/google/tangorpro-kernel"]
 	branch = main
+	shallow = true
 	path = device/google/tangorpro-kernel
 	url = ../../../device/google/tangorpro-kernel
 [submodule "device/google/tangorpro-sepolicy"]
