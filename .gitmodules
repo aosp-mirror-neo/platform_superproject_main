@@ -142,6 +142,19 @@
 	shallow = true
 	path = device/google/cuttlefish_prebuilts
 	url = ../../../device/google/cuttlefish_prebuilts
+[submodule "device/google/felix"]
+	branch = main
+	path = device/google/felix
+	url = ../../../device/google/felix
+[submodule "device/google/felix-kernel"]
+	branch = main
+	shallow = true
+	path = device/google/felix-kernel
+	url = ../../../device/google/felix-kernel
+[submodule "device/google/felix-sepolicy"]
+	branch = main
+	path = device/google/felix-sepolicy
+	url = ../../../device/google/felix-sepolicy
 [submodule "device/google/fuchsia"]
 	branch = main
 	path = device/google/fuchsia

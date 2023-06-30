@@ -33,6 +33,9 @@
 /device/google/coral-sepolicy generic_fs coral device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
+/device/google/felix felix device
+/device/google/felix-kernel felix device
+/device/google/felix-sepolicy felix device
 /device/google/fuchsia fuchsia device
 /device/google/gs-common slider pdk-gs-arm bluejay device cloudripper
 /device/google/gs101 slider pdk-gs-arm bluejay device
