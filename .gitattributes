@@ -232,7 +232,6 @@
 /external/geojson-jackson pdk
 /external/geonames pdk
 /external/gflags pdk
-/external/gfxstream-protocols pdk
 /external/giflib pdk qcom_msm8x26
 /external/glide pdk
 /external/go-cmp pdk
