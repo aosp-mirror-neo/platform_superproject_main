@@ -651,6 +651,10 @@
 	branch = main
 	path = external/bazelbuild-rules_android
 	url = ../../external/bazelbuild-rules_android
+[submodule "platform/external/bazelbuild-rules_cc"]
+	branch = main
+	path = external/bazelbuild-rules_cc
+	url = ../../external/bazelbuild-rules_cc
 [submodule "platform/external/bazelbuild-rules_go"]
 	branch = main
 	path = external/bazelbuild-rules_go

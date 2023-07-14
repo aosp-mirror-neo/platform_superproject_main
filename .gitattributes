@@ -152,6 +152,7 @@
 /external/bazel-skylib pdk
 /external/bazelbuild-kotlin-rules pdk
 /external/bazelbuild-rules_android pdk
+/external/bazelbuild-rules_cc pdk
 /external/bazelbuild-rules_go pdk
 /external/bazelbuild-rules_java pdk
 /external/bazelbuild-rules_license pdk
