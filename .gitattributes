@@ -910,9 +910,11 @@
 /hardware/knowles/athletico/sound_trigger_hal generic_fs coral
 /hardware/libhardware pdk
 /hardware/libhardware_legacy pdk
+/hardware/nxp/keymint pdk
 /hardware/nxp/nfc pdk
 /hardware/nxp/secure_element pdk
 /hardware/nxp/uwb pdk
+/hardware/nxp/weaver pdk
 /hardware/qcom/audio qcom_audio qcom pdk-qcom
 /hardware/qcom/bootctrl pdk-qcom
 /hardware/qcom/bt qcom pdk-qcom
