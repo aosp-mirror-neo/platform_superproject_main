@@ -2389,6 +2389,10 @@
 	branch = main
 	path = external/rust/crates/glob
 	url = ../../external/rust/crates/glob
+[submodule "platform/external/rust/crates/googletest"]
+	branch = main
+	path = external/rust/crates/googletest
+	url = ../../external/rust/crates/googletest
 [submodule "platform/external/rust/crates/grpcio"]
 	branch = main
 	path = external/rust/crates/grpcio
