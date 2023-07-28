@@ -520,6 +520,8 @@
 /external/rust/crates/bitreader pdk
 /external/rust/crates/bstr pdk
 /external/rust/crates/buddy_system_allocator pdk
+/external/rust/crates/bytemuck pdk
+/external/rust/crates/bytemuck_derive pdk
 /external/rust/crates/byteorder pdk
 /external/rust/crates/bytes pdk
 /external/rust/crates/cast pdk

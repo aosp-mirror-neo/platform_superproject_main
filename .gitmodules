@@ -2125,6 +2125,14 @@
 	branch = main
 	path = external/rust/crates/buddy_system_allocator
 	url = ../../external/rust/crates/buddy_system_allocator
+[submodule "platform/external/rust/crates/bytemuck"]
+	branch = main
+	path = external/rust/crates/bytemuck
+	url = ../../external/rust/crates/bytemuck
+[submodule "platform/external/rust/crates/bytemuck_derive"]
+	branch = main
+	path = external/rust/crates/bytemuck_derive
+	url = ../../external/rust/crates/bytemuck_derive
 [submodule "platform/external/rust/crates/byteorder"]
 	branch = main
 	path = external/rust/crates/byteorder
