@@ -4745,6 +4745,10 @@
 	branch = main
 	path = system/apex
 	url = ../../system/apex
+[submodule "platform/system/authgraph"]
+	branch = main
+	path = system/authgraph
+	url = ../../system/authgraph
 [submodule "platform/system/bpf"]
 	branch = main
 	path = system/bpf

@@ -1159,6 +1159,7 @@
 /prebuilts/vndk/v34 pdk
 /sdk pdk-fs pdk-cw-fs
 /system/apex pdk
+/system/authgraph pdk
 /system/bpf pdk
 /system/bpfprogs pdk
 /system/ca-certificates pdk
