@@ -759,6 +759,7 @@
 /external/rust/crates/userfaultfd-sys pdk
 /external/rust/crates/utf-8 pdk
 /external/rust/crates/uuid pdk
+/external/rust/crates/vhost-device-vsock pdk
 /external/rust/crates/virtio-drivers pdk
 /external/rust/crates/vsock pdk
 /external/rust/crates/vulkano pdk
