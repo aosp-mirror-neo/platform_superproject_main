@@ -33,6 +33,7 @@
 /device/google/coral-sepolicy generic_fs coral device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
+/device/google/cuttlefish_vmm pdk device
 /device/google/felix felix device
 /device/google/felix-kernel felix device
 /device/google/felix-sepolicy felix device
