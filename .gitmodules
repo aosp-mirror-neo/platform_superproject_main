@@ -1413,6 +1413,10 @@
 	branch = main
 	path = external/libkmsxx
 	url = ../../external/libkmsxx
+[submodule "platform/external/liblc3"]
+	branch = main
+	path = external/liblc3
+	url = ../../external/liblc3
 [submodule "platform/external/libldac"]
 	branch = main
 	path = external/libldac
