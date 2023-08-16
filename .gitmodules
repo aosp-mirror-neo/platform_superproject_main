@@ -2910,6 +2910,10 @@
 	branch = main
 	path = external/rust/crates/serde_test
 	url = ../../external/rust/crates/serde_test
+[submodule "platform/external/rust/crates/sharded-slab"]
+	branch = main
+	path = external/rust/crates/sharded-slab
+	url = ../../external/rust/crates/sharded-slab
 [submodule "platform/external/rust/crates/shared_child"]
 	branch = main
 	path = external/rust/crates/shared_child

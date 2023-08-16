@@ -716,6 +716,7 @@
 /external/rust/crates/serde_derive pdk
 /external/rust/crates/serde_json pdk
 /external/rust/crates/serde_test pdk
+/external/rust/crates/sharded-slab pdk
 /external/rust/crates/shared_child pdk
 /external/rust/crates/shared_library pdk
 /external/rust/crates/shlex pdk
