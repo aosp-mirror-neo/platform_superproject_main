@@ -652,6 +652,10 @@
 	branch = main
 	path = external/bazelbuild-kotlin-rules
 	url = ../../external/bazelbuild-kotlin-rules
+[submodule "platform/external/bazelbuild-platforms"]
+	branch = main
+	path = external/bazelbuild-platforms
+	url = ../../external/bazelbuild-platforms
 [submodule "platform/external/bazelbuild-rules_android"]
 	branch = main
 	path = external/bazelbuild-rules_android
