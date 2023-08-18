@@ -748,6 +748,7 @@
 /external/rust/crates/tracing pdk
 /external/rust/crates/tracing-attributes pdk
 /external/rust/crates/tracing-core pdk
+/external/rust/crates/tracing-subscriber pdk
 /external/rust/crates/tungstenite pdk
 /external/rust/crates/ucd-trie pdk
 /external/rust/crates/unicode-bidi pdk
