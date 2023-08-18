@@ -738,6 +738,7 @@
 /external/rust/crates/thiserror-impl pdk
 /external/rust/crates/thread_local pdk
 /external/rust/crates/threadpool pdk
+/external/rust/crates/tinyjson pdk
 /external/rust/crates/tinytemplate pdk
 /external/rust/crates/tinyvec pdk
 /external/rust/crates/tinyvec_macros pdk
