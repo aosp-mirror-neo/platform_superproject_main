@@ -2030,6 +2030,10 @@
 	branch = main
 	path = external/rust/autocxx
 	url = ../../external/rust/autocxx
+[submodule "platform/external/rust/beto-rust"]
+	branch = main
+	path = external/rust/beto-rust
+	url = ../../external/rust/beto-rust
 [submodule "platform/external/rust/crates/aarch64-paging"]
 	branch = main
 	path = external/rust/crates/aarch64-paging

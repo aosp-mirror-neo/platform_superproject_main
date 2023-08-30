@@ -496,6 +496,7 @@
 /external/roboto-fonts pdk
 /external/rootdev pdk
 /external/rust/autocxx pdk
+/external/rust/beto-rust pdk
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/ahash pdk
 /external/rust/crates/aho-corasick pdk
