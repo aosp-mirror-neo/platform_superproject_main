@@ -5102,6 +5102,10 @@
 	branch = main
 	path = tools/carrier_settings
 	url = ../../tools/carrier_settings
+[submodule "platform/tools/content_addressed_storage/prebuilts"]
+	branch = main
+	path = tools/content_addressed_storage/prebuilts
+	url = ../../tools/content_addressed_storage/prebuilts
 [submodule "platform/tools/currysrc"]
 	branch = main
 	path = tools/currysrc
