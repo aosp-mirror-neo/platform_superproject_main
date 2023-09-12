@@ -5150,6 +5150,10 @@
 	branch = main
 	path = tools/repohooks
 	url = ../../tools/repohooks
+[submodule "platform/tools/rr_prebuilt"]
+	branch = main
+	path = tools/rr_prebuilt
+	url = ../../tools/rr_prebuilt
 [submodule "platform/tools/security"]
 	branch = main
 	path = tools/security
