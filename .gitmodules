@@ -2070,6 +2070,10 @@
 	branch = main
 	path = external/rust/crates/arbitrary
 	url = ../../external/rust/crates/arbitrary
+[submodule "platform/external/rust/crates/arc-swap"]
+	branch = main
+	path = external/rust/crates/arc-swap
+	url = ../../external/rust/crates/arc-swap
 [submodule "platform/external/rust/crates/argh"]
 	branch = main
 	path = external/rust/crates/argh
@@ -2218,6 +2222,14 @@
 	branch = main
 	path = external/rust/crates/command-fds
 	url = ../../external/rust/crates/command-fds
+[submodule "platform/external/rust/crates/config"]
+	branch = main
+	path = external/rust/crates/config
+	url = ../../external/rust/crates/config
+[submodule "platform/external/rust/crates/configparser"]
+	branch = main
+	path = external/rust/crates/configparser
+	url = ../../external/rust/crates/configparser
 [submodule "platform/external/rust/crates/const-oid"]
 	branch = main
 	path = external/rust/crates/const-oid
@@ -2314,6 +2326,10 @@
 	branch = main
 	path = external/rust/crates/env_logger
 	url = ../../external/rust/crates/env_logger
+[submodule "platform/external/rust/crates/epoll"]
+	branch = main
+	path = external/rust/crates/epoll
+	url = ../../external/rust/crates/epoll
 [submodule "platform/external/rust/crates/fallible-iterator"]
 	branch = main
 	path = external/rust/crates/fallible-iterator
@@ -2470,6 +2486,10 @@
 	branch = main
 	path = external/rust/crates/indexmap
 	url = ../../external/rust/crates/indexmap
+[submodule "platform/external/rust/crates/ini"]
+	branch = main
+	path = external/rust/crates/ini
+	url = ../../external/rust/crates/ini
 [submodule "platform/external/rust/crates/instant"]
 	branch = main
 	path = external/rust/crates/instant
@@ -2494,6 +2514,10 @@
 	branch = main
 	path = external/rust/crates/jni-sys
 	url = ../../external/rust/crates/jni-sys
+[submodule "platform/external/rust/crates/json5"]
+	branch = main
+	path = external/rust/crates/json5
+	url = ../../external/rust/crates/json5
 [submodule "platform/external/rust/crates/kernlog"]
 	branch = main
 	path = external/rust/crates/kernlog
@@ -2854,6 +2878,10 @@
 	branch = main
 	path = external/rust/crates/ring
 	url = ../../external/rust/crates/ring
+[submodule "platform/external/rust/crates/ron"]
+	branch = main
+	path = external/rust/crates/ron
+	url = ../../external/rust/crates/ron
 [submodule "platform/external/rust/crates/rusqlite"]
 	branch = main
 	path = external/rust/crates/rusqlite
@@ -2918,10 +2946,18 @@
 	branch = main
 	path = external/rust/crates/serde_json
 	url = ../../external/rust/crates/serde_json
+[submodule "platform/external/rust/crates/serde_spanned"]
+	branch = main
+	path = external/rust/crates/serde_spanned
+	url = ../../external/rust/crates/serde_spanned
 [submodule "platform/external/rust/crates/serde_test"]
 	branch = main
 	path = external/rust/crates/serde_test
 	url = ../../external/rust/crates/serde_test
+[submodule "platform/external/rust/crates/serde_yaml"]
+	branch = main
+	path = external/rust/crates/serde_yaml
+	url = ../../external/rust/crates/serde_yaml
 [submodule "platform/external/rust/crates/sharded-slab"]
 	branch = main
 	path = external/rust/crates/sharded-slab
@@ -3042,6 +3078,18 @@
 	branch = main
 	path = external/rust/crates/tokio-util
 	url = ../../external/rust/crates/tokio-util
+[submodule "platform/external/rust/crates/toml"]
+	branch = main
+	path = external/rust/crates/toml
+	url = ../../external/rust/crates/toml
+[submodule "platform/external/rust/crates/toml_datetime"]
+	branch = main
+	path = external/rust/crates/toml_datetime
+	url = ../../external/rust/crates/toml_datetime
+[submodule "platform/external/rust/crates/toml_edit"]
+	branch = main
+	path = external/rust/crates/toml_edit
+	url = ../../external/rust/crates/toml_edit
 [submodule "platform/external/rust/crates/tracing"]
 	branch = main
 	path = external/rust/crates/tracing
@@ -3090,6 +3138,10 @@
 	branch = main
 	path = external/rust/crates/unicode-xid
 	url = ../../external/rust/crates/unicode-xid
+[submodule "platform/external/rust/crates/unsafe-libyaml"]
+	branch = main
+	path = external/rust/crates/unsafe-libyaml
+	url = ../../external/rust/crates/unsafe-libyaml
 [submodule "platform/external/rust/crates/untrusted"]
 	branch = main
 	path = external/rust/crates/untrusted
@@ -3114,14 +3166,42 @@
 	branch = main
 	path = external/rust/crates/uuid
 	url = ../../external/rust/crates/uuid
+[submodule "platform/external/rust/crates/vhost"]
+	branch = main
+	path = external/rust/crates/vhost
+	url = ../../external/rust/crates/vhost
 [submodule "platform/external/rust/crates/vhost-device-vsock"]
 	branch = main
 	path = external/rust/crates/vhost-device-vsock
 	url = ../../external/rust/crates/vhost-device-vsock
+[submodule "platform/external/rust/crates/vhost-user-backend"]
+	branch = main
+	path = external/rust/crates/vhost-user-backend
+	url = ../../external/rust/crates/vhost-user-backend
+[submodule "platform/external/rust/crates/virtio-bindings"]
+	branch = main
+	path = external/rust/crates/virtio-bindings
+	url = ../../external/rust/crates/virtio-bindings
 [submodule "platform/external/rust/crates/virtio-drivers"]
 	branch = main
 	path = external/rust/crates/virtio-drivers
 	url = ../../external/rust/crates/virtio-drivers
+[submodule "platform/external/rust/crates/virtio-queue"]
+	branch = main
+	path = external/rust/crates/virtio-queue
+	url = ../../external/rust/crates/virtio-queue
+[submodule "platform/external/rust/crates/virtio-vsock"]
+	branch = main
+	path = external/rust/crates/virtio-vsock
+	url = ../../external/rust/crates/virtio-vsock
+[submodule "platform/external/rust/crates/vm-memory"]
+	branch = main
+	path = external/rust/crates/vm-memory
+	url = ../../external/rust/crates/vm-memory
+[submodule "platform/external/rust/crates/vmm-sys-util"]
+	branch = main
+	path = external/rust/crates/vmm-sys-util
+	url = ../../external/rust/crates/vmm-sys-util
 [submodule "platform/external/rust/crates/vsock"]
 	branch = main
 	path = external/rust/crates/vsock
@@ -3146,6 +3226,10 @@
 	branch = main
 	path = external/rust/crates/which
 	url = ../../external/rust/crates/which
+[submodule "platform/external/rust/crates/winnow"]
+	branch = main
+	path = external/rust/crates/winnow
+	url = ../../external/rust/crates/winnow
 [submodule "platform/external/rust/crates/x509-cert"]
 	branch = main
 	path = external/rust/crates/x509-cert
@@ -3158,6 +3242,10 @@
 	branch = main
 	path = external/rust/crates/xml-rs
 	url = ../../external/rust/crates/xml-rs
+[submodule "platform/external/rust/crates/yaml-rust"]
+	branch = main
+	path = external/rust/crates/yaml-rust
+	url = ../../external/rust/crates/yaml-rust
 [submodule "platform/external/rust/crates/zerocopy"]
 	branch = main
 	path = external/rust/crates/zerocopy
