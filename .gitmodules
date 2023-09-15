@@ -3636,10 +3636,6 @@
 	branch = main
 	path = frameworks/libs/native_bridge_support
 	url = ../../frameworks/libs/native_bridge_support
-[submodule "platform/frameworks/libs/net"]
-	branch = main
-	path = frameworks/libs/net
-	url = ../../frameworks/libs/net
 [submodule "platform/frameworks/libs/service_entitlement"]
 	branch = main
 	path = frameworks/libs/service_entitlement

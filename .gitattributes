@@ -897,7 +897,6 @@
 /frameworks/libs/gsma_services pdk
 /frameworks/libs/modules-utils pdk-fs pdk-cw-fs
 /frameworks/libs/native_bridge_support pdk
-/frameworks/libs/net pdk-fs pdk-cw-fs
 /frameworks/libs/service_entitlement pdk
 /frameworks/libs/systemui pdk-fs pdk-cw-fs
 /frameworks/minikin pdk-fs pdk-cw-fs
