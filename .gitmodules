@@ -4337,6 +4337,10 @@
 	branch = main
 	path = packages/modules/Connectivity
 	url = ../../packages/modules/Connectivity
+[submodule "platform/packages/modules/CrashRecovery"]
+	branch = main
+	path = packages/modules/CrashRecovery
+	url = ../../packages/modules/CrashRecovery
 [submodule "platform/packages/modules/Cronet"]
 	branch = main
 	path = packages/modules/Cronet
@@ -4719,6 +4723,11 @@
 	shallow = true
 	path = prebuilts/module_sdk/Connectivity
 	url = ../../prebuilts/module_sdk/Connectivity
+[submodule "platform/prebuilts/module_sdk/CrashRecovery"]
+	branch = main
+	shallow = true
+	path = prebuilts/module_sdk/CrashRecovery
+	url = ../../prebuilts/module_sdk/CrashRecovery
 [submodule "platform/prebuilts/module_sdk/IPsec"]
 	branch = main
 	shallow = true

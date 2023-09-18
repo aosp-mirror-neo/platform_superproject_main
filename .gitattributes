@@ -1072,6 +1072,7 @@
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
 /packages/modules/CellBroadcastService pdk
 /packages/modules/Connectivity pdk-fs pdk-cw-fs
+/packages/modules/CrashRecovery pdk-fs pdk-cw-fs
 /packages/modules/Cronet pdk-fs pdk-cw-fs
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /packages/modules/ExtServices pdk-fs pdk-cw-fs
@@ -1159,6 +1160,7 @@
 /prebuilts/module_sdk/AppSearch pdk
 /prebuilts/module_sdk/Bluetooth pdk
 /prebuilts/module_sdk/Connectivity pdk
+/prebuilts/module_sdk/CrashRecovery pdk
 /prebuilts/module_sdk/IPsec pdk
 /prebuilts/module_sdk/Media pdk
 /prebuilts/module_sdk/MediaProvider pdk
