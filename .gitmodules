@@ -1297,10 +1297,6 @@
 	branch = main
 	path = external/ktfmt
 	url = ../../external/ktfmt
-[submodule "platform/external/libabigail"]
-	branch = main
-	path = external/libabigail
-	url = ../../external/libabigail
 [submodule "platform/external/libaom"]
 	branch = main
 	path = external/libaom
