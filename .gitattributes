@@ -810,6 +810,7 @@
 /external/scapy pdk-fs
 /external/scrypt pdk
 /external/scudo pdk
+/external/sdv/vsomeip pdk
 /external/seccomp-tests pdk
 /external/selinux pdk
 /external/setfilters pdk
