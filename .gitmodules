@@ -1982,6 +1982,10 @@
 	branch = main
 	path = external/rappor
 	url = ../../external/rappor
+[submodule "platform/external/regex-re2"]
+	branch = main
+	path = external/regex-re2
+	url = ../../external/regex-re2
 [submodule "platform/external/renderscript-intrinsics-replacement-toolkit"]
 	branch = main
 	path = external/renderscript-intrinsics-replacement-toolkit
