@@ -160,10 +160,6 @@
 	branch = main
 	path = device/google/felix-sepolicy
 	url = ../../../device/google/felix-sepolicy
-[submodule "device/google/fuchsia"]
-	branch = main
-	path = device/google/fuchsia
-	url = ../../../device/google/fuchsia
 [submodule "device/google/gs-common"]
 	branch = main
 	path = device/google/gs-common
@@ -1297,6 +1293,10 @@
 	branch = main
 	path = external/ktfmt
 	url = ../../external/ktfmt
+[submodule "platform/external/leveldb"]
+	branch = main
+	path = external/leveldb
+	url = ../../external/leveldb
 [submodule "platform/external/libaom"]
 	branch = main
 	path = external/libaom
@@ -3880,66 +3880,10 @@
 	branch = main
 	path = hardware/qcom/media
 	url = ../../hardware/qcom/media
-[submodule "platform/hardware/qcom/msm8960"]
-	branch = main
-	path = hardware/qcom/msm8960
-	url = ../../hardware/qcom/msm8960
-[submodule "platform/hardware/qcom/msm8994"]
-	branch = main
-	path = hardware/qcom/msm8994
-	url = ../../hardware/qcom/msm8994
-[submodule "platform/hardware/qcom/msm8996"]
-	branch = main
-	path = hardware/qcom/msm8996
-	url = ../../hardware/qcom/msm8996
-[submodule "platform/hardware/qcom/msm8x09"]
-	branch = main
-	path = hardware/qcom/msm8x09
-	url = ../../hardware/qcom/msm8x09
-[submodule "platform/hardware/qcom/msm8x26"]
-	branch = main
-	path = hardware/qcom/msm8x26
-	url = ../../hardware/qcom/msm8x26
-[submodule "platform/hardware/qcom/msm8x27"]
-	branch = main
-	path = hardware/qcom/msm8x27
-	url = ../../hardware/qcom/msm8x27
-[submodule "platform/hardware/qcom/msm8x84"]
-	branch = main
-	path = hardware/qcom/msm8x84
-	url = ../../hardware/qcom/msm8x84
 [submodule "platform/hardware/qcom/power"]
 	branch = main
 	path = hardware/qcom/power
 	url = ../../hardware/qcom/power
-[submodule "platform/hardware/qcom/sdm845/bt"]
-	branch = main
-	path = hardware/qcom/sdm845/bt
-	url = ../../hardware/qcom/sdm845/bt
-[submodule "platform/hardware/qcom/sdm845/data/ipacfg-mgr"]
-	branch = main
-	path = hardware/qcom/sdm845/data/ipacfg-mgr
-	url = ../../hardware/qcom/sdm845/data/ipacfg-mgr
-[submodule "platform/hardware/qcom/sdm845/display"]
-	branch = main
-	path = hardware/qcom/sdm845/display
-	url = ../../hardware/qcom/sdm845/display
-[submodule "platform/hardware/qcom/sdm845/gps"]
-	branch = main
-	path = hardware/qcom/sdm845/gps
-	url = ../../hardware/qcom/sdm845/gps
-[submodule "platform/hardware/qcom/sdm845/media"]
-	branch = main
-	path = hardware/qcom/sdm845/media
-	url = ../../hardware/qcom/sdm845/media
-[submodule "platform/hardware/qcom/sdm845/thermal"]
-	branch = main
-	path = hardware/qcom/sdm845/thermal
-	url = ../../hardware/qcom/sdm845/thermal
-[submodule "platform/hardware/qcom/sdm845/vr"]
-	branch = main
-	path = hardware/qcom/sdm845/vr
-	url = ../../hardware/qcom/sdm845/vr
 [submodule "platform/hardware/qcom/sm7150/gps"]
 	branch = main
 	path = hardware/qcom/sm7150/gps
@@ -4056,10 +4000,6 @@
 	branch = main
 	path = packages/apps/Car/DialerPrebuilt
 	url = ../../packages/apps/Car/DialerPrebuilt
-[submodule "platform/packages/apps/Car/Hvac"]
-	branch = main
-	path = packages/apps/Car/Hvac
-	url = ../../packages/apps/Car/Hvac
 [submodule "platform/packages/apps/Car/LatinIME"]
 	branch = main
 	path = packages/apps/Car/LatinIME
@@ -4208,10 +4148,6 @@
 	branch = main
 	path = packages/apps/OnDeviceAppPrediction
 	url = ../../packages/apps/OnDeviceAppPrediction
-[submodule "platform/packages/apps/OneTimeInitializer"]
-	branch = main
-	path = packages/apps/OneTimeInitializer
-	url = ../../packages/apps/OneTimeInitializer
 [submodule "platform/packages/apps/PhoneCommon"]
 	branch = main
 	path = packages/apps/PhoneCommon
@@ -4337,6 +4273,10 @@
 	branch = main
 	path = packages/modules/CellBroadcastService
 	url = ../../packages/modules/CellBroadcastService
+[submodule "platform/packages/modules/ConfigInfrastructure"]
+	branch = main
+	path = packages/modules/ConfigInfrastructure
+	url = ../../packages/modules/ConfigInfrastructure
 [submodule "platform/packages/modules/Connectivity"]
 	branch = main
 	path = packages/modules/Connectivity
@@ -4349,6 +4289,10 @@
 	branch = main
 	path = packages/modules/Cronet
 	url = ../../packages/modules/Cronet
+[submodule "platform/packages/modules/DeviceLock"]
+	branch = main
+	path = packages/modules/DeviceLock
+	url = ../../packages/modules/DeviceLock
 [submodule "platform/packages/modules/DnsResolver"]
 	branch = main
 	path = packages/modules/DnsResolver
@@ -4365,10 +4309,18 @@
 	branch = main
 	path = packages/modules/Gki
 	url = ../../packages/modules/Gki
+[submodule "platform/packages/modules/HealthFitness"]
+	branch = main
+	path = packages/modules/HealthFitness
+	url = ../../packages/modules/HealthFitness
 [submodule "platform/packages/modules/IPsec"]
 	branch = main
 	path = packages/modules/IPsec
 	url = ../../packages/modules/IPsec
+[submodule "platform/packages/modules/ImsMedia"]
+	branch = main
+	path = packages/modules/ImsMedia
+	url = ../../packages/modules/ImsMedia
 [submodule "platform/packages/modules/IntentResolver"]
 	branch = main
 	path = packages/modules/IntentResolver
@@ -4425,6 +4377,10 @@
 	branch = main
 	path = packages/modules/StatsD
 	url = ../../packages/modules/StatsD
+[submodule "platform/packages/modules/Telephony"]
+	branch = main
+	path = packages/modules/Telephony
+	url = ../../packages/modules/Telephony
 [submodule "platform/packages/modules/TestModule"]
 	branch = main
 	path = packages/modules/TestModule
@@ -4521,6 +4477,10 @@
 	branch = main
 	path = packages/services/Car
 	url = ../../packages/services/Car
+[submodule "platform/packages/services/DeviceAsWebcam"]
+	branch = main
+	path = packages/services/DeviceAsWebcam
+	url = ../../packages/services/DeviceAsWebcam
 [submodule "platform/packages/services/Iwlan"]
 	branch = main
 	path = packages/services/Iwlan
@@ -4722,6 +4682,11 @@
 	shallow = true
 	path = prebuilts/module_sdk/Bluetooth
 	url = ../../prebuilts/module_sdk/Bluetooth
+[submodule "platform/prebuilts/module_sdk/ConfigInfrastructure"]
+	branch = main
+	shallow = true
+	path = prebuilts/module_sdk/ConfigInfrastructure
+	url = ../../prebuilts/module_sdk/ConfigInfrastructure
 [submodule "platform/prebuilts/module_sdk/Connectivity"]
 	branch = main
 	shallow = true
@@ -4732,6 +4697,16 @@
 	shallow = true
 	path = prebuilts/module_sdk/CrashRecovery
 	url = ../../prebuilts/module_sdk/CrashRecovery
+[submodule "platform/prebuilts/module_sdk/DeviceLock"]
+	branch = main
+	shallow = true
+	path = prebuilts/module_sdk/DeviceLock
+	url = ../../prebuilts/module_sdk/DeviceLock
+[submodule "platform/prebuilts/module_sdk/HealthFitness"]
+	branch = main
+	shallow = true
+	path = prebuilts/module_sdk/HealthFitness
+	url = ../../prebuilts/module_sdk/HealthFitness
 [submodule "platform/prebuilts/module_sdk/IPsec"]
 	branch = main
 	shallow = true

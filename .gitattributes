@@ -37,7 +37,6 @@
 /device/google/felix felix device
 /device/google/felix-kernel felix device
 /device/google/felix-sepolicy felix device
-/device/google/fuchsia fuchsia device
 /device/google/gs-common slider pdk-gs-arm bluejay device cloudripper
 /device/google/gs101 slider pdk-gs-arm bluejay device
 /device/google/gs101-sepolicy slider pdk-gs-arm bluejay device
@@ -313,6 +312,7 @@
 /external/ksoap2 pdk
 /external/ksp pdk
 /external/ktfmt pdk
+/external/leveldb pdk
 /external/libaom pdk
 /external/libavc pdk
 /external/libbackup pdk
@@ -958,21 +958,7 @@
 /hardware/qcom/gps qcom pdk-qcom qcom_gps
 /hardware/qcom/keymaster qcom qcom_keymaster pdk-qcom
 /hardware/qcom/media qcom pdk-qcom
-/hardware/qcom/msm8960 qcom_msm8960 pdk-qcom
-/hardware/qcom/msm8994 qcom_msm8994 pdk-qcom
-/hardware/qcom/msm8996 qcom_msm8996 pdk-qcom
-/hardware/qcom/msm8x09 qcom_msm8x09
-/hardware/qcom/msm8x26 qcom_msm8x26 pdk-qcom
-/hardware/qcom/msm8x27 qcom_msm8x27 pdk-qcom
-/hardware/qcom/msm8x84 qcom_msm8x84 pdk-qcom
 /hardware/qcom/power qcom pdk-qcom
-/hardware/qcom/sdm845/bt generic_fs qcom_sdm845
-/hardware/qcom/sdm845/data/ipacfg-mgr generic_fs vendor qcom_sdm845
-/hardware/qcom/sdm845/display generic_fs qcom_sdm845
-/hardware/qcom/sdm845/gps generic_fs qcom_sdm845
-/hardware/qcom/sdm845/media generic_fs qcom_sdm845
-/hardware/qcom/sdm845/thermal generic_fs qcom_sdm845
-/hardware/qcom/sdm845/vr generic_fs qcom_sdm845
 /hardware/qcom/sm7150/gps qcom_sm7150
 /hardware/qcom/sm7250/display qcom_sm7250
 /hardware/qcom/sm7250/gps qcom_sm7250
@@ -1002,7 +988,6 @@
 /packages/apps/Car/Cluster pdk-fs
 /packages/apps/Car/DebuggingRestrictionController pdk-fs
 /packages/apps/Car/DialerPrebuilt pdk-fs
-/packages/apps/Car/Hvac pdk-fs
 /packages/apps/Car/LatinIME pdk-fs
 /packages/apps/Car/Launcher pdk-fs
 /packages/apps/Car/LinkViewer pdk-fs
@@ -1040,7 +1025,6 @@
 /packages/apps/MusicFX pdk-fs
 /packages/apps/Nfc apps_nfc pdk-fs
 /packages/apps/OnDeviceAppPrediction pdk-fs
-/packages/apps/OneTimeInitializer pdk-fs
 /packages/apps/PhoneCommon pdk-fs pdk-cw-fs
 /packages/apps/Protips pdk-fs
 /packages/apps/Provision pdk-fs
@@ -1072,14 +1056,18 @@
 /packages/modules/Bluetooth pdk
 /packages/modules/CaptivePortalLogin pdk-fs pdk-cw-fs
 /packages/modules/CellBroadcastService pdk
+/packages/modules/ConfigInfrastructure pdk-fs pdk-cw-fs
 /packages/modules/Connectivity pdk-fs pdk-cw-fs
 /packages/modules/CrashRecovery pdk-fs pdk-cw-fs
 /packages/modules/Cronet pdk-fs pdk-cw-fs
+/packages/modules/DeviceLock pdk-fs pdk-cw-fs
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /packages/modules/ExtServices pdk-fs pdk-cw-fs
 /packages/modules/GeoTZ pdk-fs pdk-cw-fs
 /packages/modules/Gki pdk-fs pdk-cw-fs
+/packages/modules/HealthFitness pdk-fs
 /packages/modules/IPsec pdk
+/packages/modules/ImsMedia pdk
 /packages/modules/IntentResolver pdk
 /packages/modules/Media pdk
 /packages/modules/ModuleMetadata pdk
@@ -1094,6 +1082,7 @@
 /packages/modules/Scheduling pdk-fs pdk-cw-fs
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/StatsD pdk-fs pdk-cw-fs
+/packages/modules/Telephony pdk-fs pdk-cw-fs
 /packages/modules/TestModule
 /packages/modules/ThreadNetwork
 /packages/modules/Uwb pdk-fs pdk-cw-fs
@@ -1118,6 +1107,7 @@
 /packages/services/AlternativeNetworkAccess pdk-fs pdk-cw-fs
 /packages/services/BuiltInPrintService pdk-fs pdk-cw-fs
 /packages/services/Car pdk-fs pdk-cw-fs
+/packages/services/DeviceAsWebcam pdk-fs pdk-cw-fs
 /packages/services/Iwlan pdk-fs pdk-cw-fs
 /packages/services/Mms pdk-fs pdk-cw-fs
 /packages/services/Mtp pdk-fs pdk-cw-fs
@@ -1160,8 +1150,11 @@
 /prebuilts/module_sdk/AdServices pdk
 /prebuilts/module_sdk/AppSearch pdk
 /prebuilts/module_sdk/Bluetooth pdk
+/prebuilts/module_sdk/ConfigInfrastructure pdk
 /prebuilts/module_sdk/Connectivity pdk
 /prebuilts/module_sdk/CrashRecovery pdk
+/prebuilts/module_sdk/DeviceLock pdk
+/prebuilts/module_sdk/HealthFitness pdk
 /prebuilts/module_sdk/IPsec pdk
 /prebuilts/module_sdk/Media pdk
 /prebuilts/module_sdk/MediaProvider pdk
