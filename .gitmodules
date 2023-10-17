@@ -5178,6 +5178,10 @@
 	branch = main
 	path = tools/currysrc
 	url = ../../tools/currysrc
+[submodule "platform/tools/deviceinfra/prebuilts"]
+	branch = main
+	path = tools/deviceinfra/prebuilts
+	url = ../../tools/deviceinfra/prebuilts
 [submodule "platform/tools/dexter"]
 	branch = main
 	path = tools/dexter

@@ -1266,6 +1266,7 @@
 /tools/carrier_settings tools
 /tools/content_addressed_storage/prebuilts tools
 /tools/currysrc pdk
+/tools/deviceinfra/prebuilts tools
 /tools/dexter pdk-fs tools
 /tools/doc_generation pdk tools
 /tools/external/fat32lib tools
