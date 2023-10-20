@@ -327,6 +327,7 @@
 /external/libcups pdk-fs pdk-cw-fs
 /external/libcxx pdk
 /external/libcxxabi pdk
+/external/libdav1d pdk
 /external/libdivsufsort pdk
 /external/libdrm pdk
 /external/libepoxy pdk

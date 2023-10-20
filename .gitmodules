@@ -1353,6 +1353,10 @@
 	branch = main
 	path = external/libcxxabi
 	url = ../../external/libcxxabi
+[submodule "platform/external/libdav1d"]
+	branch = main
+	path = external/libdav1d
+	url = ../../external/libdav1d
 [submodule "platform/external/libdivsufsort"]
 	branch = main
 	path = external/libdivsufsort
