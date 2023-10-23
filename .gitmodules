@@ -2710,6 +2710,10 @@
 	branch = main
 	path = external/rust/crates/pdl-compiler
 	url = ../../external/rust/crates/pdl-compiler
+[submodule "platform/external/rust/crates/pdl-runtime"]
+	branch = main
+	path = external/rust/crates/pdl-runtime
+	url = ../../external/rust/crates/pdl-runtime
 [submodule "platform/external/rust/crates/peeking_take_while"]
 	branch = main
 	path = external/rust/crates/peeking_take_while
