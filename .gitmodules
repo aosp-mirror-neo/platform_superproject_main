@@ -1333,10 +1333,6 @@
 	branch = main
 	path = external/libchrome-gestures
 	url = ../../external/libchrome-gestures
-[submodule "platform/external/libchromeos-rs"]
-	branch = main
-	path = external/libchromeos-rs
-	url = ../../external/libchromeos-rs
 [submodule "platform/external/libconfig"]
 	branch = main
 	path = external/libconfig
