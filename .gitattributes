@@ -808,6 +808,7 @@
 /external/rust/pica pdk
 /external/ruy pdk
 /external/s2-geometry-library-java pdk
+/external/sandboxed-api pdk
 /external/scapy pdk-fs
 /external/scrypt pdk
 /external/scudo pdk

@@ -3278,6 +3278,10 @@
 	branch = main
 	path = external/s2-geometry-library-java
 	url = ../../external/s2-geometry-library-java
+[submodule "platform/external/sandboxed-api"]
+	branch = main
+	path = external/sandboxed-api
+	url = ../../external/sandboxed-api
 [submodule "platform/external/scapy"]
 	branch = main
 	path = external/scapy
