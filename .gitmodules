@@ -2674,6 +2674,14 @@
 	branch = main
 	path = external/rust/crates/oorandom
 	url = ../../external/rust/crates/oorandom
+[submodule "platform/external/rust/crates/openmls"]
+	branch = main
+	path = external/rust/crates/openmls
+	url = ../../external/rust/crates/openmls
+[submodule "platform/external/rust/crates/openmls_traits"]
+	branch = main
+	path = external/rust/crates/openmls_traits
+	url = ../../external/rust/crates/openmls_traits
 [submodule "platform/external/rust/crates/openssl"]
 	branch = main
 	path = external/rust/crates/openssl
@@ -3054,6 +3062,14 @@
 	branch = main
 	path = external/rust/crates/tinyvec_macros
 	url = ../../external/rust/crates/tinyvec_macros
+[submodule "platform/external/rust/crates/tls_codec"]
+	branch = main
+	path = external/rust/crates/tls_codec
+	url = ../../external/rust/crates/tls_codec
+[submodule "platform/external/rust/crates/tls_codec_derive"]
+	branch = main
+	path = external/rust/crates/tls_codec_derive
+	url = ../../external/rust/crates/tls_codec_derive
 [submodule "platform/external/rust/crates/tokio"]
 	branch = main
 	path = external/rust/crates/tokio
