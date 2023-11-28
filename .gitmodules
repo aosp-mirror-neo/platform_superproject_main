@@ -3492,10 +3492,6 @@
 	branch = main
 	path = external/turbine
 	url = ../../external/turbine
-[submodule "platform/external/ukey2"]
-	branch = main
-	path = external/ukey2
-	url = ../../external/ukey2
 [submodule "platform/external/unicode"]
 	branch = main
 	path = external/unicode
