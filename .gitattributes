@@ -358,6 +358,7 @@
 /external/libtextclassifier pdk
 /external/libtraceevent pdk
 /external/libtracefs pdk
+/external/libultrahdr pdk
 /external/liburing pdk
 /external/libusb pdk
 /external/libutf pdk

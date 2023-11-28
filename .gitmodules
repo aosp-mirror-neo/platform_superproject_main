@@ -1477,6 +1477,10 @@
 	branch = main
 	path = external/libtracefs
 	url = ../../external/libtracefs
+[submodule "platform/external/libultrahdr"]
+	branch = main
+	path = external/libultrahdr
+	url = ../../external/libultrahdr
 [submodule "platform/external/liburing"]
 	branch = main
 	path = external/liburing
