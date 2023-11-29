@@ -5039,6 +5039,10 @@
 	branch = main
 	path = system/nvram
 	url = ../../system/nvram
+[submodule "platform/system/secretkeeper"]
+	branch = main
+	path = system/secretkeeper
+	url = ../../system/secretkeeper
 [submodule "platform/system/security"]
 	branch = main
 	path = system/security

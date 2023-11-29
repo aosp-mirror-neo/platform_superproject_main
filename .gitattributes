@@ -1231,6 +1231,7 @@
 /system/netd pdk
 /system/nfc pdk
 /system/nvram pdk
+/system/secretkeeper pdk
 /system/security pdk
 /system/sepolicy pdk
 /system/server_configurable_flags pdk
