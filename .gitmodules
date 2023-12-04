@@ -5306,6 +5306,7 @@
 	url = ../../../toolchain/benchmark
 [submodule "toolchain/pgo-profiles"]
 	branch = main
+	shallow = true
 	path = toolchain/pgo-profiles
 	url = ../../../toolchain/pgo-profiles
 [submodule "tools/platform-compat"]
