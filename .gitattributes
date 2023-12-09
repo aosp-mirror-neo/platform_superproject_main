@@ -55,6 +55,9 @@
 /device/google/redbull-sepolicy redbull device
 /device/google/redfin redfin device
 /device/google/redfin-sepolicy redfin device
+/device/google/shusky ripcurrent device
+/device/google/shusky-kernel ripcurrent device
+/device/google/shusky-sepolicy ripcurrent device
 /device/google/sunfish sunfish device
 /device/google/sunfish-kernel sunfish device
 /device/google/sunfish-sepolicy sunfish device
@@ -63,6 +66,8 @@
 /device/google/tangorpro-sepolicy tangorpro device
 /device/google/trout pdk trout device gull
 /device/google/vrservices pdk
+/device/google/zuma ripcurrent device
+/device/google/zuma-sepolicy ripcurrent device
 /device/google_car pdk
 /device/linaro/dragonboard dragonboard pdk device
 /device/linaro/dragonboard-kernel dragonboard pdk device
@@ -343,6 +348,7 @@
 /external/libkmsxx pdk
 /external/liblc3 pdk
 /external/libldac pdk
+/external/libmonet pdk
 /external/libmpeg2 pdk
 /external/libnetfilter_conntrack pdk
 /external/libnfnetlink pdk
@@ -940,6 +946,7 @@
 /hardware/google/graphics/common pdk-gs-arm pdk-lassen
 /hardware/google/graphics/gs101 pdk-gs-arm pdk-lassen
 /hardware/google/graphics/gs201 cloudripper
+/hardware/google/graphics/zuma ripcurrent
 /hardware/google/interfaces pdk
 /hardware/google/pixel generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
@@ -1050,6 +1057,7 @@
 /packages/apps/ThemePicker pdk-fs
 /packages/apps/Traceur pdk-fs
 /packages/apps/TvSettings pdk-fs
+/packages/apps/TvSystemUI pdk-fs
 /packages/apps/UniversalMediaPlayer
 /packages/apps/WallpaperPicker pdk-fs
 /packages/apps/WallpaperPicker2 pdk-fs

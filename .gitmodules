@@ -236,6 +236,19 @@
 	branch = main
 	path = device/google/redfin-sepolicy
 	url = ../../../device/google/redfin-sepolicy
+[submodule "device/google/shusky"]
+	branch = main
+	path = device/google/shusky
+	url = ../../../device/google/shusky
+[submodule "device/google/shusky-kernel"]
+	branch = main
+	shallow = true
+	path = device/google/shusky-kernel
+	url = ../../../device/google/shusky-kernel
+[submodule "device/google/shusky-sepolicy"]
+	branch = main
+	path = device/google/shusky-sepolicy
+	url = ../../../device/google/shusky-sepolicy
 [submodule "device/google/sunfish"]
 	branch = main
 	path = device/google/sunfish
@@ -270,6 +283,14 @@
 	branch = main
 	path = device/google/vrservices
 	url = ../../../device/google/vrservices
+[submodule "device/google/zuma"]
+	branch = main
+	path = device/google/zuma
+	url = ../../../device/google/zuma
+[submodule "device/google/zuma-sepolicy"]
+	branch = main
+	path = device/google/zuma-sepolicy
+	url = ../../../device/google/zuma-sepolicy
 [submodule "device/google_car"]
 	branch = main
 	path = device/google_car
@@ -1417,6 +1438,10 @@
 	branch = main
 	path = external/libldac
 	url = ../../external/libldac
+[submodule "platform/external/libmonet"]
+	branch = main
+	path = external/libmonet
+	url = ../../external/libmonet
 [submodule "platform/external/libmpeg2"]
 	branch = main
 	path = external/libmpeg2
@@ -3808,6 +3833,10 @@
 	branch = main
 	path = hardware/google/graphics/gs201
 	url = ../../hardware/google/graphics/gs201
+[submodule "platform/hardware/google/graphics/zuma"]
+	branch = main
+	path = hardware/google/graphics/zuma
+	url = ../../hardware/google/graphics/zuma
 [submodule "platform/hardware/google/interfaces"]
 	branch = main
 	path = hardware/google/interfaces
@@ -4248,6 +4277,10 @@
 	branch = main
 	path = packages/apps/TvSettings
 	url = ../../packages/apps/TvSettings
+[submodule "platform/packages/apps/TvSystemUI"]
+	branch = main
+	path = packages/apps/TvSystemUI
+	url = ../../packages/apps/TvSystemUI
 [submodule "platform/packages/apps/UniversalMediaPlayer"]
 	branch = main
 	path = packages/apps/UniversalMediaPlayer
