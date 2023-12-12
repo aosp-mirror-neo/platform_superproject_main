@@ -2223,6 +2223,10 @@
 	branch = main
 	path = external/rust/crates/clap
 	url = ../../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_complete"]
+	branch = main
+	path = external/rust/crates/clap_complete
+	url = ../../external/rust/crates/clap_complete
 [submodule "platform/external/rust/crates/clap_derive"]
 	branch = main
 	path = external/rust/crates/clap_derive
@@ -2327,6 +2331,10 @@
 	branch = main
 	path = external/rust/crates/derive_arbitrary
 	url = ../../external/rust/crates/derive_arbitrary
+[submodule "platform/external/rust/crates/displaydoc"]
+	branch = main
+	path = external/rust/crates/displaydoc
+	url = ../../external/rust/crates/displaydoc
 [submodule "platform/external/rust/crates/document-features"]
 	branch = main
 	path = external/rust/crates/document-features
