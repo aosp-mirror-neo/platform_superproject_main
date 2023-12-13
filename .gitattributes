@@ -573,6 +573,7 @@
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/displaydoc pdk
 /external/rust/crates/document-features pdk
+/external/rust/crates/downcast pdk
 /external/rust/crates/downcast-rs pdk
 /external/rust/crates/either pdk
 /external/rust/crates/enumn pdk
@@ -587,6 +588,7 @@
 /external/rust/crates/foreign-types pdk
 /external/rust/crates/foreign-types-shared pdk
 /external/rust/crates/form_urlencoded pdk
+/external/rust/crates/fragile pdk
 /external/rust/crates/futures pdk
 /external/rust/crates/futures-channel pdk
 /external/rust/crates/futures-core pdk
@@ -652,6 +654,8 @@
 /external/rust/crates/miette-derive pdk
 /external/rust/crates/minimal-lexical pdk
 /external/rust/crates/mio pdk
+/external/rust/crates/mockall pdk
+/external/rust/crates/mockall_derive pdk
 /external/rust/crates/moveit pdk
 /external/rust/crates/named-lock pdk
 /external/rust/crates/nix pdk
@@ -693,6 +697,9 @@
 /external/rust/crates/plotters-backend pdk
 /external/rust/crates/plotters-svg pdk
 /external/rust/crates/ppv-lite86 pdk
+/external/rust/crates/predicates pdk
+/external/rust/crates/predicates-core pdk
+/external/rust/crates/predicates-tree pdk
 /external/rust/crates/prettyplease pdk
 /external/rust/crates/proc-macro-error pdk
 /external/rust/crates/proc-macro-error-attr pdk
@@ -754,6 +761,7 @@
 /external/rust/crates/synstructure pdk
 /external/rust/crates/tempfile pdk
 /external/rust/crates/termcolor pdk
+/external/rust/crates/termtree pdk
 /external/rust/crates/textwrap pdk
 /external/rust/crates/thiserror pdk
 /external/rust/crates/thiserror-impl pdk

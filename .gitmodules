@@ -2339,6 +2339,10 @@
 	branch = main
 	path = external/rust/crates/document-features
 	url = ../../external/rust/crates/document-features
+[submodule "platform/external/rust/crates/downcast"]
+	branch = main
+	path = external/rust/crates/downcast
+	url = ../../external/rust/crates/downcast
 [submodule "platform/external/rust/crates/downcast-rs"]
 	branch = main
 	path = external/rust/crates/downcast-rs
@@ -2395,6 +2399,10 @@
 	branch = main
 	path = external/rust/crates/form_urlencoded
 	url = ../../external/rust/crates/form_urlencoded
+[submodule "platform/external/rust/crates/fragile"]
+	branch = main
+	path = external/rust/crates/fragile
+	url = ../../external/rust/crates/fragile
 [submodule "platform/external/rust/crates/futures"]
 	branch = main
 	path = external/rust/crates/futures
@@ -2655,6 +2663,14 @@
 	branch = main
 	path = external/rust/crates/mio
 	url = ../../external/rust/crates/mio
+[submodule "platform/external/rust/crates/mockall"]
+	branch = main
+	path = external/rust/crates/mockall
+	url = ../../external/rust/crates/mockall
+[submodule "platform/external/rust/crates/mockall_derive"]
+	branch = main
+	path = external/rust/crates/mockall_derive
+	url = ../../external/rust/crates/mockall_derive
 [submodule "platform/external/rust/crates/moveit"]
 	branch = main
 	path = external/rust/crates/moveit
@@ -2819,6 +2835,18 @@
 	branch = main
 	path = external/rust/crates/ppv-lite86
 	url = ../../external/rust/crates/ppv-lite86
+[submodule "platform/external/rust/crates/predicates"]
+	branch = main
+	path = external/rust/crates/predicates
+	url = ../../external/rust/crates/predicates
+[submodule "platform/external/rust/crates/predicates-core"]
+	branch = main
+	path = external/rust/crates/predicates-core
+	url = ../../external/rust/crates/predicates-core
+[submodule "platform/external/rust/crates/predicates-tree"]
+	branch = main
+	path = external/rust/crates/predicates-tree
+	url = ../../external/rust/crates/predicates-tree
 [submodule "platform/external/rust/crates/prettyplease"]
 	branch = main
 	path = external/rust/crates/prettyplease
@@ -3063,6 +3091,10 @@
 	branch = main
 	path = external/rust/crates/termcolor
 	url = ../../external/rust/crates/termcolor
+[submodule "platform/external/rust/crates/termtree"]
+	branch = main
+	path = external/rust/crates/termtree
+	url = ../../external/rust/crates/termtree
 [submodule "platform/external/rust/crates/textwrap"]
 	branch = main
 	path = external/rust/crates/textwrap
