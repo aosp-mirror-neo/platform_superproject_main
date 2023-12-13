@@ -516,6 +516,9 @@
 /external/rust/crates/argh_derive pdk
 /external/rust/crates/argh_shared pdk
 /external/rust/crates/ash pdk
+/external/rust/crates/asn1-rs pdk
+/external/rust/crates/asn1-rs-derive pdk
+/external/rust/crates/asn1-rs-impl pdk
 /external/rust/crates/async-stream pdk
 /external/rust/crates/async-stream-impl pdk
 /external/rust/crates/async-task pdk

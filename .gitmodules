@@ -2111,6 +2111,18 @@
 	branch = main
 	path = external/rust/crates/ash
 	url = ../../external/rust/crates/ash
+[submodule "platform/external/rust/crates/asn1-rs"]
+	branch = main
+	path = external/rust/crates/asn1-rs
+	url = ../../external/rust/crates/asn1-rs
+[submodule "platform/external/rust/crates/asn1-rs-derive"]
+	branch = main
+	path = external/rust/crates/asn1-rs-derive
+	url = ../../external/rust/crates/asn1-rs-derive
+[submodule "platform/external/rust/crates/asn1-rs-impl"]
+	branch = main
+	path = external/rust/crates/asn1-rs-impl
+	url = ../../external/rust/crates/asn1-rs-impl
 [submodule "platform/external/rust/crates/async-stream"]
 	branch = main
 	path = external/rust/crates/async-stream
