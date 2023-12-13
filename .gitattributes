@@ -610,6 +610,7 @@
 /external/rust/crates/glob pdk
 /external/rust/crates/googletest pdk
 /external/rust/crates/googletest_macro pdk
+/external/rust/crates/gpio-cdev pdk
 /external/rust/crates/grpcio pdk
 /external/rust/crates/grpcio-compiler pdk
 /external/rust/crates/grpcio-sys pdk

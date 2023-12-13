@@ -2487,6 +2487,10 @@
 	branch = main
 	path = external/rust/crates/googletest_macro
 	url = ../../external/rust/crates/googletest_macro
+[submodule "platform/external/rust/crates/gpio-cdev"]
+	branch = main
+	path = external/rust/crates/gpio-cdev
+	url = ../../external/rust/crates/gpio-cdev
 [submodule "platform/external/rust/crates/grpcio"]
 	branch = main
 	path = external/rust/crates/grpcio
