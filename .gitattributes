@@ -469,6 +469,7 @@
 /external/python/httplib2 vts pdk
 /external/python/ipaddress pdk
 /external/python/jinja pdk
+/external/python/mako pdk
 /external/python/markupsafe pdk
 /external/python/mobly pdk
 /external/python/oauth2client vts pdk
