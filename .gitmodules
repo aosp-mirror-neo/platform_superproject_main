@@ -3443,10 +3443,6 @@
 	branch = main
 	path = external/slf4j
 	url = ../../external/slf4j
-[submodule "platform/external/smali"]
-	branch = main
-	path = external/smali
-	url = ../../external/smali
 [submodule "platform/external/snakeyaml"]
 	branch = main
 	path = external/snakeyaml
