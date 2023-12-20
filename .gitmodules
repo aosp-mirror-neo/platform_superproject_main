@@ -2339,10 +2339,6 @@
 	branch = main
 	path = external/rust/crates/der_derive
 	url = ../../external/rust/crates/der_derive
-[submodule "platform/external/rust/crates/derive-getters"]
-	branch = main
-	path = external/rust/crates/derive-getters
-	url = ../../external/rust/crates/derive-getters
 [submodule "platform/external/rust/crates/derive_arbitrary"]
 	branch = main
 	path = external/rust/crates/derive_arbitrary
