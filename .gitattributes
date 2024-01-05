@@ -521,9 +521,6 @@
 /external/rust/crates/argh_derive pdk
 /external/rust/crates/argh_shared pdk
 /external/rust/crates/ash pdk
-/external/rust/crates/asn1-rs pdk
-/external/rust/crates/asn1-rs-derive pdk
-/external/rust/crates/asn1-rs-impl pdk
 /external/rust/crates/async-stream pdk
 /external/rust/crates/async-stream-impl pdk
 /external/rust/crates/async-task pdk
@@ -709,8 +706,6 @@
 /external/rust/crates/predicates-core pdk
 /external/rust/crates/predicates-tree pdk
 /external/rust/crates/prettyplease pdk
-/external/rust/crates/proc-macro-error pdk
-/external/rust/crates/proc-macro-error-attr pdk
 /external/rust/crates/proc-macro2 pdk
 /external/rust/crates/protobuf pdk
 /external/rust/crates/protobuf-codegen pdk
