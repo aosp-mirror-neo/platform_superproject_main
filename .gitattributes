@@ -571,8 +571,6 @@
 /external/rust/crates/csv-core pdk
 /external/rust/crates/data-encoding pdk
 /external/rust/crates/der pdk
-/external/rust/crates/der-oid-macro pdk
-/external/rust/crates/der-parser pdk
 /external/rust/crates/der_derive pdk
 /external/rust/crates/derive_arbitrary pdk
 /external/rust/crates/displaydoc pdk
@@ -672,7 +670,6 @@
 /external/rust/crates/num-traits pdk
 /external/rust/crates/num_cpus pdk
 /external/rust/crates/octets pdk
-/external/rust/crates/oid-registry pdk
 /external/rust/crates/once_cell pdk
 /external/rust/crates/oorandom pdk
 /external/rust/crates/openmls pdk
@@ -732,7 +729,6 @@
 /external/rust/crates/rustc-demangle pdk
 /external/rust/crates/rustc-demangle-capi pdk
 /external/rust/crates/rustc-hash pdk
-/external/rust/crates/rusticata-macros pdk
 /external/rust/crates/rustversion pdk
 /external/rust/crates/ryu pdk
 /external/rust/crates/same-file pdk
@@ -819,7 +815,6 @@
 /external/rust/crates/which pdk
 /external/rust/crates/winnow pdk
 /external/rust/crates/x509-cert pdk
-/external/rust/crates/x509-parser pdk
 /external/rust/crates/xml-rs pdk
 /external/rust/crates/yaml-rust pdk
 /external/rust/crates/zerocopy pdk
