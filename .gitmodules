@@ -2639,6 +2639,10 @@
 	branch = main
 	path = external/rust/crates/lru-cache
 	url = ../../external/rust/crates/lru-cache
+[submodule "platform/external/rust/crates/lz4_flex"]
+	branch = main
+	path = external/rust/crates/lz4_flex
+	url = ../../external/rust/crates/lz4_flex
 [submodule "platform/external/rust/crates/macaddr"]
 	branch = main
 	path = external/rust/crates/macaddr
@@ -3187,6 +3191,10 @@
 	branch = main
 	path = external/rust/crates/tungstenite
 	url = ../../external/rust/crates/tungstenite
+[submodule "platform/external/rust/crates/twox-hash"]
+	branch = main
+	path = external/rust/crates/twox-hash
+	url = ../../external/rust/crates/twox-hash
 [submodule "platform/external/rust/crates/ucd-trie"]
 	branch = main
 	path = external/rust/crates/ucd-trie

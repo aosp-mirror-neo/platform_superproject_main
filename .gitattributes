@@ -647,6 +647,7 @@
 /external/rust/crates/lock_api pdk
 /external/rust/crates/log pdk
 /external/rust/crates/lru-cache pdk
+/external/rust/crates/lz4_flex pdk
 /external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
 /external/rust/crates/memchr pdk
@@ -784,6 +785,7 @@
 /external/rust/crates/tracing-core pdk
 /external/rust/crates/tracing-subscriber pdk
 /external/rust/crates/tungstenite pdk
+/external/rust/crates/twox-hash pdk
 /external/rust/crates/ucd-trie pdk
 /external/rust/crates/unicode-bidi pdk
 /external/rust/crates/unicode-ident pdk
