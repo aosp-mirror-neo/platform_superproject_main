@@ -755,6 +755,8 @@
 /external/rust/crates/spin pdk
 /external/rust/crates/spki pdk
 /external/rust/crates/static_assertions pdk
+/external/rust/crates/strum pdk
+/external/rust/crates/strum_macros pdk
 /external/rust/crates/syn pdk
 /external/rust/crates/syn-mid pdk
 /external/rust/crates/synstructure pdk
