@@ -2763,6 +2763,14 @@
 	branch = main
 	path = external/rust/crates/os_str_bytes
 	url = ../../external/rust/crates/os_str_bytes
+[submodule "platform/external/rust/crates/p9"]
+	branch = main
+	path = external/rust/crates/p9
+	url = ../../external/rust/crates/p9
+[submodule "platform/external/rust/crates/p9_wire_format_derive"]
+	branch = main
+	path = external/rust/crates/p9_wire_format_derive
+	url = ../../external/rust/crates/p9_wire_format_derive
 [submodule "platform/external/rust/crates/parking_lot"]
 	branch = main
 	path = external/rust/crates/parking_lot

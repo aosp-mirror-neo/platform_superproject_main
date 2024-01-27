@@ -678,6 +678,8 @@
 /external/rust/crates/openssl pdk
 /external/rust/crates/openssl-macros pdk
 /external/rust/crates/os_str_bytes pdk
+/external/rust/crates/p9 pdk
+/external/rust/crates/p9_wire_format_derive pdk
 /external/rust/crates/parking_lot pdk
 /external/rust/crates/parking_lot_core pdk
 /external/rust/crates/paste pdk
