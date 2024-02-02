@@ -2655,6 +2655,10 @@
 	branch = main
 	path = external/rust/crates/memchr
 	url = ../../external/rust/crates/memchr
+[submodule "platform/external/rust/crates/memmap2"]
+	branch = main
+	path = external/rust/crates/memmap2
+	url = ../../external/rust/crates/memmap2
 [submodule "platform/external/rust/crates/memoffset"]
 	branch = main
 	path = external/rust/crates/memoffset

@@ -651,6 +651,7 @@
 /external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
 /external/rust/crates/memchr pdk
+/external/rust/crates/memmap2 pdk
 /external/rust/crates/memoffset pdk
 /external/rust/crates/merge pdk
 /external/rust/crates/merge_derive pdk
