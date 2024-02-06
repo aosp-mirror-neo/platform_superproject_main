@@ -1294,7 +1294,7 @@
 /tools/apkzlib tradefed pdk
 /tools/asuite pdk
 /tools/carrier_settings tools
-/tools/content_addressed_storage/prebuilts tools
+/tools/content_addressed_storage/prebuilts pdk tools
 /tools/currysrc pdk
 /tools/deviceinfra/prebuilts tools
 /tools/dexter pdk-fs tools
