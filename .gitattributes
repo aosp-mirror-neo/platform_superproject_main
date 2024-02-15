@@ -1320,6 +1320,5 @@
 /tools/tradefederation/prebuilts tradefed pdk
 /tools/treble pdk tools
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
-/toolchain/benchmark
 /toolchain/pgo-profiles pdk
 /tools/platform-compat pdk-fs pdk-cw-fs pdk

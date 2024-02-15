@@ -5402,10 +5402,6 @@
 	branch = main
 	path = tools/trebuchet
 	url = ../../tools/trebuchet
-[submodule "toolchain/benchmark"]
-	branch = main
-	path = toolchain/benchmark
-	url = ../../../toolchain/benchmark
 [submodule "toolchain/pgo-profiles"]
 	branch = main
 	shallow = true
