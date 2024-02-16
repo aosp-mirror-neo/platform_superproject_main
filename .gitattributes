@@ -521,6 +521,7 @@
 /external/rust/crates/argh pdk
 /external/rust/crates/argh_derive pdk
 /external/rust/crates/argh_shared pdk
+/external/rust/crates/arrayvec trusty
 /external/rust/crates/ash pdk
 /external/rust/crates/async-stream pdk
 /external/rust/crates/async-stream-impl pdk
@@ -651,6 +652,7 @@
 /external/rust/crates/lz4_flex pdk
 /external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
+/external/rust/crates/matches trusty
 /external/rust/crates/memchr pdk
 /external/rust/crates/memmap2 pdk
 /external/rust/crates/memoffset pdk
@@ -1322,3 +1324,27 @@
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
 /toolchain/pgo-profiles pdk
 /tools/platform-compat pdk-fs pdk-cw-fs pdk
+/trusty/user/app/avb trusty
+/trusty/user/app/cast-auth trusty
+/trusty/user/app/confirmationui trusty
+/trusty/user/app/gatekeeper trusty
+/trusty/user/app/keymaster trusty
+/trusty/user/app/keymint trusty
+/trusty/user/app/sample trusty
+/trusty/user/app/secretkeeper trusty
+/trusty/user/app/storage trusty
+/trusty/device/arm/generic-arm64 trusty
+/trusty/device/arm/vexpress-a15 trusty
+/trusty/device/nxp/imx7d trusty
+/trusty/device/x86/generic-x86_64 trusty
+/external/trusty/headers trusty
+/external/trusty/musl trusty
+/external/trusty/arm-trusted-firmware trusty
+/external/trusty/bootloader trusty
+/trusty/host/common trusty
+/trusty/interfaces trusty
+/trusty/user/base trusty
+/external/trusty/lk trusty
+/trusty/hardware/nxp trusty
+/trusty/kernel trusty
+/trusty/vendor/google/aosp trusty

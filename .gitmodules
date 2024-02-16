@@ -2135,6 +2135,10 @@
 	branch = main
 	path = external/rust/crates/argh_shared
 	url = ../../external/rust/crates/argh_shared
+[submodule "platform/external/rust/crates/arrayvec"]
+	branch = main
+	path = external/rust/crates/arrayvec
+	url = ../../external/rust/crates/arrayvec
 [submodule "platform/external/rust/crates/ash"]
 	branch = main
 	path = external/rust/crates/ash
@@ -2655,6 +2659,10 @@
 	branch = main
 	path = external/rust/crates/managed
 	url = ../../external/rust/crates/managed
+[submodule "platform/external/rust/crates/matches"]
+	branch = main
+	path = external/rust/crates/matches
+	url = ../../external/rust/crates/matches
 [submodule "platform/external/rust/crates/memchr"]
 	branch = main
 	path = external/rust/crates/memchr
@@ -5411,3 +5419,99 @@
 	branch = main
 	path = tools/platform-compat
 	url = ../../../tools/platform-compat
+[submodule "trusty/app/avb"]
+	branch = main
+	path = trusty/user/app/avb
+	url = ../../../trusty/app/avb
+[submodule "trusty/app/cast-auth"]
+	branch = main
+	path = trusty/user/app/cast-auth
+	url = ../../../trusty/app/cast-auth
+[submodule "trusty/app/confirmationui"]
+	branch = main
+	path = trusty/user/app/confirmationui
+	url = ../../../trusty/app/confirmationui
+[submodule "trusty/app/gatekeeper"]
+	branch = main
+	path = trusty/user/app/gatekeeper
+	url = ../../../trusty/app/gatekeeper
+[submodule "trusty/app/keymaster"]
+	branch = main
+	path = trusty/user/app/keymaster
+	url = ../../../trusty/app/keymaster
+[submodule "trusty/app/keymint"]
+	branch = main
+	path = trusty/user/app/keymint
+	url = ../../../trusty/app/keymint
+[submodule "trusty/app/sample"]
+	branch = main
+	path = trusty/user/app/sample
+	url = ../../../trusty/app/sample
+[submodule "trusty/app/secretkeeper"]
+	branch = main
+	path = trusty/user/app/secretkeeper
+	url = ../../../trusty/app/secretkeeper
+[submodule "trusty/app/storage"]
+	branch = main
+	path = trusty/user/app/storage
+	url = ../../../trusty/app/storage
+[submodule "trusty/device/arm/generic-arm64"]
+	branch = main
+	path = trusty/device/arm/generic-arm64
+	url = ../../../trusty/device/arm/generic-arm64
+[submodule "trusty/device/arm/vexpress-a15"]
+	branch = main
+	path = trusty/device/arm/vexpress-a15
+	url = ../../../trusty/device/arm/vexpress-a15
+[submodule "trusty/device/nxp/imx7d"]
+	branch = main
+	path = trusty/device/nxp/imx7d
+	url = ../../../trusty/device/nxp/imx7d
+[submodule "trusty/device/x86/generic-x86_64"]
+	branch = main
+	path = trusty/device/x86/generic-x86_64
+	url = ../../../trusty/device/x86/generic-x86_64
+[submodule "trusty/external/headers"]
+	branch = main
+	path = external/trusty/headers
+	url = ../../../trusty/external/headers
+[submodule "trusty/external/musl"]
+	branch = main
+	path = external/trusty/musl
+	url = ../../../trusty/external/musl
+[submodule "trusty/external/trusted-firmware-a"]
+	branch = main
+	path = external/trusty/arm-trusted-firmware
+	url = ../../../trusty/external/trusted-firmware-a
+[submodule "trusty/external/trusty"]
+	branch = main
+	path = external/trusty/bootloader
+	url = ../../../trusty/external/trusty
+[submodule "trusty/host/common"]
+	branch = main
+	path = trusty/host/common
+	url = ../../../trusty/host/common
+[submodule "trusty/interfaces"]
+	branch = main
+	path = trusty/interfaces
+	url = ../../../trusty/interfaces
+[submodule "trusty/lib"]
+	branch = main
+	path = trusty/user/base
+	url = ../../../trusty/lib
+[submodule "trusty/lk/common"]
+	branch = main
+	path = external/trusty/lk
+	url = ../../../trusty/lk/common
+[submodule "trusty/lk/nxp"]
+	branch = main
+	path = trusty/hardware/nxp
+	url = ../../../trusty/lk/nxp
+[submodule "trusty/lk/trusty"]
+	branch = main
+	path = trusty/kernel
+	url = ../../../trusty/lk/trusty
+[submodule "trusty/vendor/google/aosp"]
+	branch = main
+	path = trusty/vendor/google/aosp
+	url = ../../../trusty/vendor/google/aosp
