@@ -765,10 +765,6 @@
 	branch = main
 	path = external/capstone
 	url = ../../external/capstone
-[submodule "platform/external/catch2"]
-	branch = main
-	path = external/catch2
-	url = ../../external/catch2
 [submodule "platform/external/cblas"]
 	branch = main
 	path = external/cblas

@@ -179,7 +179,6 @@
 /external/bzip2 pdk
 /external/caliper pdk
 /external/capstone pdk
-/external/catch2 pdk
 /external/cblas pdk
 /external/cbor-java pdk
 /external/chromium-trace pdk
