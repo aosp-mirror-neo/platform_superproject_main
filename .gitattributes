@@ -13,7 +13,6 @@
 /device/generic/mini-emulator-x86 pdk
 /device/generic/mini-emulator-x86_64 pdk
 /device/generic/opengl-transport pdk
-/device/generic/qemu pdk
 /device/generic/trusty pdk
 /device/generic/uml pdk device
 /device/generic/vulkan-cereal pdk
@@ -137,8 +136,10 @@
 /external/abseil-cpp pdk
 /external/android-key-attestation pdk
 /external/android-nn-driver pdk-gs-arm pdk-lassen
+/external/android_onboarding pdk-fs
 /external/androidplot pdk
 /external/angle pdk
+/external/anonymous-counting-tokens pdk
 /external/ant-glob pdk
 /external/antlr pdk
 /external/apache-commons-bcel pdk
@@ -229,6 +230,7 @@
 /external/fastrpc pdk
 /external/fdlibm pdk
 /external/fec pdk
+/external/federated-compute pdk
 /external/fft2d pdk
 /external/firebase-messaging pdk
 /external/flac pdk
@@ -277,6 +279,7 @@
 /external/gwp_asan pdk
 /external/hamcrest pdk
 /external/harfbuzz_ng pdk qcom_msm8x26
+/external/horologist pdk
 /external/hyphenation-patterns pdk
 /external/icing pdk
 /external/icu pdk
@@ -452,6 +455,7 @@
 /external/pigweed pdk
 /external/ply pdk
 /external/ppp pdk
+/external/private-join-and-compute pdk
 /external/proguard pdk
 /external/protobuf pdk
 /external/psimd pdk
@@ -872,6 +876,7 @@
 /external/testng pdk
 /external/tflite-support pdk
 /external/timezone-boundary-builder pdk
+/external/tink pdk
 /external/tinyalsa pdk
 /external/tinyalsa_new pdk
 /external/tinycompress pdk
@@ -1011,7 +1016,6 @@
 /packages/apps/Browser2 pdk-fs
 /packages/apps/Calendar pdk-fs
 /packages/apps/Camera2 pdk-fs
-/packages/apps/Car/Calendar pdk-fs
 /packages/apps/Car/Cluster pdk-fs
 /packages/apps/Car/DebuggingRestrictionController pdk-fs
 /packages/apps/Car/DialerPrebuilt pdk-fs
@@ -1071,11 +1075,11 @@
 /packages/apps/Test/connectivity pdk
 /packages/apps/ThemePicker pdk-fs
 /packages/apps/Traceur pdk-fs
+/packages/apps/TvFeedbackConsent pdk-fs
 /packages/apps/TvSettings pdk-fs
 /packages/apps/TvSystemUI pdk-fs
 /packages/apps/UniversalMediaPlayer
-/packages/apps/WallpaperPicker pdk-fs
-/packages/apps/WallpaperPicker2 pdk-fs
+/packages/apps/WallpaperPicker2 pdk-fs sysui-studio
 /packages/inputmethods/LatinIME pdk-fs
 /packages/inputmethods/LeanbackIME pdk-fs
 /packages/modules/AdServices pdk-fs

@@ -59,10 +59,6 @@
 	branch = main
 	path = device/generic/opengl-transport
 	url = ../../../device/generic/opengl-transport
-[submodule "device/generic/qemu"]
-	branch = main
-	path = device/generic/qemu
-	url = ../../../device/generic/qemu
 [submodule "device/generic/trusty"]
 	branch = main
 	path = device/generic/trusty
@@ -597,6 +593,10 @@
 	branch = main
 	path = external/android-nn-driver
 	url = ../../external/android-nn-driver
+[submodule "platform/external/android_onboarding"]
+	branch = main
+	path = external/android_onboarding
+	url = ../../external/android_onboarding
 [submodule "platform/external/androidplot"]
 	branch = main
 	path = external/androidplot
@@ -605,6 +605,10 @@
 	branch = main
 	path = external/angle
 	url = ../../external/angle
+[submodule "platform/external/anonymous-counting-tokens"]
+	branch = main
+	path = external/anonymous-counting-tokens
+	url = ../../external/anonymous-counting-tokens
 [submodule "platform/external/ant-glob"]
 	branch = main
 	path = external/ant-glob
@@ -966,6 +970,10 @@
 	branch = main
 	path = external/fec
 	url = ../../external/fec
+[submodule "platform/external/federated-compute"]
+	branch = main
+	path = external/federated-compute
+	url = ../../external/federated-compute
 [submodule "platform/external/fft2d"]
 	branch = main
 	path = external/fft2d
@@ -1158,6 +1166,10 @@
 	branch = main
 	path = external/harfbuzz_ng
 	url = ../../external/harfbuzz_ng
+[submodule "platform/external/horologist"]
+	branch = main
+	path = external/horologist
+	url = ../../external/horologist
 [submodule "platform/external/hyphenation-patterns"]
 	branch = main
 	path = external/hyphenation-patterns
@@ -1859,6 +1871,10 @@
 	branch = main
 	path = external/ppp
 	url = ../../external/ppp
+[submodule "platform/external/private-join-and-compute"]
+	branch = main
+	path = external/private-join-and-compute
+	url = ../../external/private-join-and-compute
 [submodule "platform/external/proguard"]
 	branch = main
 	path = external/proguard
@@ -3541,6 +3557,10 @@
 	shallow = true
 	path = external/timezone-boundary-builder
 	url = ../../external/timezone-boundary-builder
+[submodule "platform/external/tink"]
+	branch = main
+	path = external/tink
+	url = ../../external/tink
 [submodule "platform/external/tinyalsa"]
 	branch = main
 	path = external/tinyalsa
@@ -4097,10 +4117,6 @@
 	branch = main
 	path = packages/apps/Camera2
 	url = ../../packages/apps/Camera2
-[submodule "platform/packages/apps/Car/Calendar"]
-	branch = main
-	path = packages/apps/Car/Calendar
-	url = ../../packages/apps/Car/Calendar
 [submodule "platform/packages/apps/Car/Cluster"]
 	branch = main
 	path = packages/apps/Car/Cluster
@@ -4337,6 +4353,10 @@
 	branch = main
 	path = packages/apps/Traceur
 	url = ../../packages/apps/Traceur
+[submodule "platform/packages/apps/TvFeedbackConsent"]
+	branch = main
+	path = packages/apps/TvFeedbackConsent
+	url = ../../packages/apps/TvFeedbackConsent
 [submodule "platform/packages/apps/TvSettings"]
 	branch = main
 	path = packages/apps/TvSettings
@@ -4349,10 +4369,6 @@
 	branch = main
 	path = packages/apps/UniversalMediaPlayer
 	url = ../../packages/apps/UniversalMediaPlayer
-[submodule "platform/packages/apps/WallpaperPicker"]
-	branch = main
-	path = packages/apps/WallpaperPicker
-	url = ../../packages/apps/WallpaperPicker
 [submodule "platform/packages/apps/WallpaperPicker2"]
 	branch = main
 	path = packages/apps/WallpaperPicker2
