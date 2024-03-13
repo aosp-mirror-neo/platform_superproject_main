@@ -456,7 +456,6 @@
 /external/ply pdk
 /external/ppp pdk
 /external/private-join-and-compute pdk
-/external/proguard pdk
 /external/protobuf pdk
 /external/psimd pdk
 /external/pthreadpool pdk

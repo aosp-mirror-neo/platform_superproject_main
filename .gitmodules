@@ -1875,10 +1875,6 @@
 	branch = main
 	path = external/private-join-and-compute
 	url = ../../external/private-join-and-compute
-[submodule "platform/external/proguard"]
-	branch = main
-	path = external/proguard
-	url = ../../external/proguard
 [submodule "platform/external/protobuf"]
 	branch = main
 	path = external/protobuf
