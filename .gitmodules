@@ -1983,10 +1983,6 @@
 	branch = main
 	path = external/python/pyasn1-modules
 	url = ../../external/python/pyasn1-modules
-[submodule "platform/external/python/pybind11"]
-	branch = main
-	path = external/python/pybind11
-	url = ../../external/python/pybind11
 [submodule "platform/external/python/pycparser"]
 	branch = main
 	path = external/python/pycparser
