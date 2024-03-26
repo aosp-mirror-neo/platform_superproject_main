@@ -1334,6 +1334,10 @@
 	branch = main
 	path = external/kotlinx.metadata
 	url = ../../external/kotlinx.metadata
+[submodule "platform/external/kotlinx.serialization"]
+	branch = main
+	path = external/kotlinx.serialization
+	url = ../../external/kotlinx.serialization
 [submodule "platform/external/ksoap2"]
 	branch = main
 	path = external/ksoap2

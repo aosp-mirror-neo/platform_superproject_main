@@ -321,6 +321,7 @@
 /external/kotlinx.atomicfu pdk
 /external/kotlinx.coroutines pdk
 /external/kotlinx.metadata pdk
+/external/kotlinx.serialization pdk
 /external/ksoap2 pdk
 /external/ksp pdk
 /external/ktfmt pdk
