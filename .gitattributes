@@ -112,7 +112,6 @@
 /build/bazel pdk
 /build/bazel_common_rules pdk
 /build/blueprint tradefed pdk
-/build/orchestrator pdk
 /build/pesto pdk
 /build/release tradefed pdk
 /build/soong tradefed pdk

@@ -497,10 +497,6 @@
 	branch = main
 	path = build/blueprint
 	url = ../../build/blueprint
-[submodule "platform/build/orchestrator"]
-	branch = main
-	path = build/orchestrator
-	url = ../../build/orchestrator
 [submodule "platform/build/pesto"]
 	branch = main
 	path = build/pesto
