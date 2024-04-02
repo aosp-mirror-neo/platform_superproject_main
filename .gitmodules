@@ -2087,6 +2087,10 @@
 	branch = main
 	path = external/rust/crates/aarch64-paging
 	url = ../../external/rust/crates/aarch64-paging
+[submodule "platform/external/rust/crates/acpi"]
+	branch = main
+	path = external/rust/crates/acpi
+	url = ../../external/rust/crates/acpi
 [submodule "platform/external/rust/crates/ahash"]
 	branch = main
 	path = external/rust/crates/ahash
@@ -2183,6 +2187,10 @@
 	branch = main
 	path = external/rust/crates/bindgen-cli
 	url = ../../external/rust/crates/bindgen-cli
+[submodule "platform/external/rust/crates/bit_field"]
+	branch = main
+	path = external/rust/crates/bit_field
+	url = ../../external/rust/crates/bit_field
 [submodule "platform/external/rust/crates/bitflags"]
 	branch = main
 	path = external/rust/crates/bitflags
