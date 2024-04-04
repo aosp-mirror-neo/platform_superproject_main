@@ -2379,6 +2379,18 @@
 	branch = main
 	path = external/rust/crates/downcast-rs
 	url = ../../external/rust/crates/downcast-rs
+[submodule "platform/external/rust/crates/drm"]
+	branch = main
+	path = external/rust/crates/drm
+	url = ../../external/rust/crates/drm
+[submodule "platform/external/rust/crates/drm-ffi"]
+	branch = main
+	path = external/rust/crates/drm-ffi
+	url = ../../external/rust/crates/drm-ffi
+[submodule "platform/external/rust/crates/drm-fourcc"]
+	branch = main
+	path = external/rust/crates/drm-fourcc
+	url = ../../external/rust/crates/drm-fourcc
 [submodule "platform/external/rust/crates/either"]
 	branch = main
 	path = external/rust/crates/either
@@ -2395,6 +2407,10 @@
 	branch = main
 	path = external/rust/crates/epoll
 	url = ../../external/rust/crates/epoll
+[submodule "platform/external/rust/crates/errno"]
+	branch = main
+	path = external/rust/crates/errno
+	url = ../../external/rust/crates/errno
 [submodule "platform/external/rust/crates/fallible-iterator"]
 	branch = main
 	path = external/rust/crates/fallible-iterator
@@ -2479,6 +2495,10 @@
 	branch = main
 	path = external/rust/crates/fxhash
 	url = ../../external/rust/crates/fxhash
+[submodule "platform/external/rust/crates/gbm"]
+	branch = main
+	path = external/rust/crates/gbm
+	url = ../../external/rust/crates/gbm
 [submodule "platform/external/rust/crates/gdbstub"]
 	branch = main
 	path = external/rust/crates/gdbstub
@@ -3007,6 +3027,10 @@
 	branch = main
 	path = external/rust/crates/rustc-hash
 	url = ../../external/rust/crates/rustc-hash
+[submodule "platform/external/rust/crates/rustix"]
+	branch = main
+	path = external/rust/crates/rustix
+	url = ../../external/rust/crates/rustix
 [submodule "platform/external/rust/crates/rustversion"]
 	branch = main
 	path = external/rust/crates/rustversion

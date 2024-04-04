@@ -582,10 +582,14 @@
 /external/rust/crates/document-features pdk
 /external/rust/crates/downcast pdk
 /external/rust/crates/downcast-rs pdk
+/external/rust/crates/drm pdk
+/external/rust/crates/drm-ffi pdk
+/external/rust/crates/drm-fourcc pdk
 /external/rust/crates/either pdk
 /external/rust/crates/enumn pdk
 /external/rust/crates/env_logger pdk
 /external/rust/crates/epoll pdk
+/external/rust/crates/errno pdk
 /external/rust/crates/fallible-iterator pdk
 /external/rust/crates/fallible-streaming-iterator pdk
 /external/rust/crates/fastrand pdk
@@ -607,6 +611,7 @@
 /external/rust/crates/futures-test pdk
 /external/rust/crates/futures-util pdk
 /external/rust/crates/fxhash pdk
+/external/rust/crates/gbm pdk
 /external/rust/crates/gdbstub pdk
 /external/rust/crates/gdbstub_arch pdk
 /external/rust/crates/getrandom pdk
@@ -739,6 +744,7 @@
 /external/rust/crates/rustc-demangle pdk
 /external/rust/crates/rustc-demangle-capi pdk
 /external/rust/crates/rustc-hash pdk
+/external/rust/crates/rustix pdk
 /external/rust/crates/rustversion pdk
 /external/rust/crates/ryu pdk
 /external/rust/crates/same-file pdk
