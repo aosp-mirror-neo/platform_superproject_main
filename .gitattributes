@@ -532,6 +532,7 @@
 /external/rust/crates/atty pdk
 /external/rust/crates/base64 pdk
 /external/rust/crates/bencher pdk
+/external/rust/crates/bincode pdk
 /external/rust/crates/bindgen pdk
 /external/rust/crates/bindgen-cli pdk
 /external/rust/crates/bit_field pdk
