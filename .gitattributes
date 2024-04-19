@@ -692,6 +692,7 @@
 /external/rust/crates/num_cpus pdk
 /external/rust/crates/octets pdk
 /external/rust/crates/once_cell pdk
+/external/rust/crates/oneshot-uniffi pdk
 /external/rust/crates/oorandom pdk
 /external/rust/crates/openmls pdk
 /external/rust/crates/openmls_traits pdk
