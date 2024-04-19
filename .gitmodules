@@ -2597,7 +2597,7 @@
 	url = ../../external/rust/crates/httparse
 [submodule "platform/external/rust/crates/ident_case"]
 	branch = main
-	path = external/rust/crates/indent_case
+	path = external/rust/crates/ident_case
 	url = ../../external/rust/crates/ident_case
 [submodule "platform/external/rust/crates/idna"]
 	branch = main
