@@ -811,6 +811,7 @@
 /external/rust/crates/unicode-segmentation pdk
 /external/rust/crates/unicode-width pdk
 /external/rust/crates/unicode-xid pdk
+/external/rust/crates/uniffi_meta pdk
 /external/rust/crates/unsafe-libyaml pdk
 /external/rust/crates/untrusted pdk
 /external/rust/crates/url pdk
