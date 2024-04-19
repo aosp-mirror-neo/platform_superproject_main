@@ -574,8 +574,12 @@
 /external/rust/crates/crossbeam-utils pdk
 /external/rust/crates/csv pdk
 /external/rust/crates/csv-core pdk
+/external/rust/crates/darling pdk
+/external/rust/crates/darling_core pdk
+/external/rust/crates/darling_macro pdk
 /external/rust/crates/dashmap pdk
 /external/rust/crates/data-encoding pdk
+/external/rust/crates/debug_tree pdk
 /external/rust/crates/der pdk
 /external/rust/crates/der_derive pdk
 /external/rust/crates/derive_arbitrary pdk
@@ -631,6 +635,7 @@
 /external/rust/crates/hex pdk
 /external/rust/crates/http pdk
 /external/rust/crates/httparse pdk
+/external/rust/crates/indent_case pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
 /external/rust/crates/ini pdk
@@ -662,6 +667,7 @@
 /external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
 /external/rust/crates/matches trusty
+/external/rust/crates/maybe-async pdk
 /external/rust/crates/memchr pdk
 /external/rust/crates/memmap2 pdk
 /external/rust/crates/memoffset pdk
@@ -771,6 +777,7 @@
 /external/rust/crates/spin pdk
 /external/rust/crates/spki pdk
 /external/rust/crates/static_assertions pdk
+/external/rust/crates/strsim pdk
 /external/rust/crates/strum pdk
 /external/rust/crates/strum_macros pdk
 /external/rust/crates/syn pdk

@@ -2347,6 +2347,18 @@
 	branch = main
 	path = external/rust/crates/csv-core
 	url = ../../external/rust/crates/csv-core
+[submodule "platform/external/rust/crates/darling"]
+	branch = main
+	path = external/rust/crates/darling
+	url = ../../external/rust/crates/darling
+[submodule "platform/external/rust/crates/darling_core"]
+	branch = main
+	path = external/rust/crates/darling_core
+	url = ../../external/rust/crates/darling_core
+[submodule "platform/external/rust/crates/darling_macro"]
+	branch = main
+	path = external/rust/crates/darling_macro
+	url = ../../external/rust/crates/darling_macro
 [submodule "platform/external/rust/crates/dashmap"]
 	branch = main
 	path = external/rust/crates/dashmap
@@ -2355,6 +2367,10 @@
 	branch = main
 	path = external/rust/crates/data-encoding
 	url = ../../external/rust/crates/data-encoding
+[submodule "platform/external/rust/crates/debug_tree"]
+	branch = main
+	path = external/rust/crates/debug_tree
+	url = ../../external/rust/crates/debug_tree
 [submodule "platform/external/rust/crates/der"]
 	branch = main
 	path = external/rust/crates/der
@@ -2575,6 +2591,10 @@
 	branch = main
 	path = external/rust/crates/httparse
 	url = ../../external/rust/crates/httparse
+[submodule "platform/external/rust/crates/ident_case"]
+	branch = main
+	path = external/rust/crates/indent_case
+	url = ../../external/rust/crates/ident_case
 [submodule "platform/external/rust/crates/idna"]
 	branch = main
 	path = external/rust/crates/idna
@@ -2699,6 +2719,10 @@
 	branch = main
 	path = external/rust/crates/matches
 	url = ../../external/rust/crates/matches
+[submodule "platform/external/rust/crates/maybe-async"]
+	branch = main
+	path = external/rust/crates/maybe-async
+	url = ../../external/rust/crates/maybe-async
 [submodule "platform/external/rust/crates/memchr"]
 	branch = main
 	path = external/rust/crates/memchr
@@ -3135,6 +3159,10 @@
 	branch = main
 	path = external/rust/crates/static_assertions
 	url = ../../external/rust/crates/static_assertions
+[submodule "platform/external/rust/crates/strsim"]
+	branch = main
+	path = external/rust/crates/strsim
+	url = ../../external/rust/crates/strsim
 [submodule "platform/external/rust/crates/strum"]
 	branch = main
 	path = external/rust/crates/strum
