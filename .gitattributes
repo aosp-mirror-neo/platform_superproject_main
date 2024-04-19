@@ -544,6 +544,7 @@
 /external/rust/crates/bytemuck_derive pdk
 /external/rust/crates/byteorder pdk
 /external/rust/crates/bytes pdk
+/external/rust/crates/camino pdk
 /external/rust/crates/cast pdk
 /external/rust/crates/cesu8 pdk
 /external/rust/crates/cexpr pdk

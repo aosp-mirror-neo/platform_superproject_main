@@ -2227,6 +2227,10 @@
 	branch = main
 	path = external/rust/crates/bytes
 	url = ../../external/rust/crates/bytes
+[submodule "platform/external/rust/crates/camino"]
+	branch = main
+	path = external/rust/crates/camino
+	url = ../../external/rust/crates/camino
 [submodule "platform/external/rust/crates/cast"]
 	branch = main
 	path = external/rust/crates/cast
