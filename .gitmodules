@@ -2763,6 +2763,22 @@
 	branch = main
 	path = external/rust/crates/mio
 	url = ../../external/rust/crates/mio
+[submodule "platform/external/rust/crates/mls-rs"]
+	branch = main
+	path = external/rust/crates/mls-rs
+	url = ../../external/rust/crates/mls-rs
+[submodule "platform/external/rust/crates/mls-rs-codec"]
+	branch = main
+	path = external/rust/crates/mls-rs-codec
+	url = ../../external/rust/crates/mls-rs-codec
+[submodule "platform/external/rust/crates/mls-rs-codec-derive"]
+	branch = main
+	path = external/rust/crates/mls-rs-codec-derive
+	url = ../../external/rust/crates/mls-rs-codec-derive
+[submodule "platform/external/rust/crates/mls-rs-core"]
+	branch = main
+	path = external/rust/crates/mls-rs-core
+	url = ../../external/rust/crates/mls-rs-core
 [submodule "platform/external/rust/crates/mockall"]
 	branch = main
 	path = external/rust/crates/mockall

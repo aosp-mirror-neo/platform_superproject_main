@@ -678,6 +678,10 @@
 /external/rust/crates/miette-derive pdk
 /external/rust/crates/minimal-lexical pdk
 /external/rust/crates/mio pdk
+/external/rust/crates/mls-rs pdk
+/external/rust/crates/mls-rs-codec pdk
+/external/rust/crates/mls-rs-codec-derive pdk
+/external/rust/crates/mls-rs-core pdk
 /external/rust/crates/mockall pdk
 /external/rust/crates/mockall_derive pdk
 /external/rust/crates/moveit pdk
