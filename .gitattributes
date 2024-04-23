@@ -1035,6 +1035,7 @@
 /hardware/ti/am57x pdk
 /libcore pdk
 /libnativehelper pdk
+/packages/apps/AvatarPicker pdk-fs
 /packages/apps/BasicSmsReceiver pdk-fs pdk-cw-fs
 /packages/apps/Browser2 pdk-fs
 /packages/apps/Calendar pdk-fs

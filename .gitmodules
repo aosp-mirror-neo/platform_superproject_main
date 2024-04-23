@@ -4193,6 +4193,10 @@
 	branch = main
 	path = libnativehelper
 	url = ../../libnativehelper
+[submodule "platform/packages/apps/AvatarPicker"]
+	branch = main
+	path = packages/apps/AvatarPicker
+	url = ../../packages/apps/AvatarPicker
 [submodule "platform/packages/apps/BasicSmsReceiver"]
 	branch = main
 	path = packages/apps/BasicSmsReceiver
