@@ -3347,6 +3347,10 @@
 	branch = main
 	path = external/rust/crates/unicode-xid
 	url = ../../external/rust/crates/unicode-xid
+[submodule "platform/external/rust/crates/uniffi_checksum_derive"]
+	branch = main
+	path = external/rust/crates/uniffi_checksum_derive
+	url = ../../external/rust/crates/uniffi_checksum_derive
 [submodule "platform/external/rust/crates/uniffi_core"]
 	branch = main
 	path = external/rust/crates/uniffi_core
