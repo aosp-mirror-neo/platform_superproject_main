@@ -1122,6 +1122,10 @@
 	branch = main
 	path = external/google-styleguide
 	url = ../../external/google-styleguide
+[submodule "platform/external/googleapis"]
+	branch = main
+	path = external/googleapis
+	url = ../../external/googleapis
 [submodule "platform/external/googletest"]
 	branch = main
 	path = external/googletest

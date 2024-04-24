@@ -268,6 +268,7 @@
 /external/google-java-format pdk
 /external/google-smali pdk
 /external/google-styleguide pdk
+/external/googleapis tradefed pdk
 /external/googletest pdk
 /external/gptfdisk pdk
 /external/grpc-grpc tradefed pdk
