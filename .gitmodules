@@ -2479,6 +2479,10 @@
 	branch = main
 	path = external/rust/crates/fragile
 	url = ../../external/rust/crates/fragile
+[submodule "platform/external/rust/crates/fs-err"]
+	branch = main
+	path = external/rust/crates/fs-err
+	url = ../../external/rust/crates/fs-err
 [submodule "platform/external/rust/crates/futures"]
 	branch = main
 	path = external/rust/crates/futures

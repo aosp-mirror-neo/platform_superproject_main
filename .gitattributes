@@ -607,6 +607,7 @@
 /external/rust/crates/foreign-types-shared pdk
 /external/rust/crates/form_urlencoded pdk
 /external/rust/crates/fragile pdk
+/external/rust/crates/fs-err pdk
 /external/rust/crates/futures pdk
 /external/rust/crates/futures-channel pdk
 /external/rust/crates/futures-core pdk
