@@ -701,8 +701,6 @@
 /external/rust/crates/once_cell pdk
 /external/rust/crates/oneshot-uniffi pdk
 /external/rust/crates/oorandom pdk
-/external/rust/crates/openmls pdk
-/external/rust/crates/openmls_traits pdk
 /external/rust/crates/openssl pdk
 /external/rust/crates/openssl-macros pdk
 /external/rust/crates/os_str_bytes pdk
@@ -804,8 +802,6 @@
 /external/rust/crates/tinytemplate pdk
 /external/rust/crates/tinyvec pdk
 /external/rust/crates/tinyvec_macros pdk
-/external/rust/crates/tls_codec pdk
-/external/rust/crates/tls_codec_derive pdk
 /external/rust/crates/tokio pdk
 /external/rust/crates/tokio-macros pdk
 /external/rust/crates/tokio-stream pdk
