@@ -642,14 +642,12 @@
 /external/rust/crates/ident_case pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
-/external/rust/crates/ini pdk
 /external/rust/crates/instant pdk
 /external/rust/crates/intrusive-collections pdk
 /external/rust/crates/itertools pdk
 /external/rust/crates/itoa pdk
 /external/rust/crates/jni pdk
 /external/rust/crates/jni-sys pdk
-/external/rust/crates/json5 pdk
 /external/rust/crates/kernlog pdk
 /external/rust/crates/lazy_static pdk
 /external/rust/crates/lazycell pdk
@@ -753,7 +751,6 @@
 /external/rust/crates/remain pdk
 /external/rust/crates/remove_dir_all pdk
 /external/rust/crates/ring pdk
-/external/rust/crates/ron pdk
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rustc-demangle pdk
 /external/rust/crates/rustc-demangle-capi pdk
