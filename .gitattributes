@@ -683,6 +683,7 @@
 /external/rust/crates/mls-rs-codec pdk
 /external/rust/crates/mls-rs-codec-derive pdk
 /external/rust/crates/mls-rs-core pdk
+/external/rust/crates/mls-rs-crypto-traits pdk
 /external/rust/crates/mockall pdk
 /external/rust/crates/mockall_derive pdk
 /external/rust/crates/moveit pdk
