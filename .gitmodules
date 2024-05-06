@@ -3147,6 +3147,10 @@
 	branch = main
 	path = external/rust/crates/shlex
 	url = ../../external/rust/crates/shlex
+[submodule "platform/external/rust/crates/siphasher"]
+	branch = main
+	path = external/rust/crates/siphasher
+	url = ../../external/rust/crates/siphasher
 [submodule "platform/external/rust/crates/slab"]
 	branch = main
 	path = external/rust/crates/slab
