@@ -581,6 +581,10 @@
 	branch = main
 	path = external/abseil-cpp
 	url = ../../external/abseil-cpp
+[submodule "platform/external/accompanist"]
+	branch = main
+	path = external/accompanist
+	url = ../../external/accompanist
 [submodule "platform/external/android-key-attestation"]
 	branch = main
 	path = external/android-key-attestation
