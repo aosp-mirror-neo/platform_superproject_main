@@ -2083,6 +2083,10 @@
 	branch = main
 	path = external/rootdev
 	url = ../../external/rootdev
+[submodule "platform/external/rust/android-crates-io"]
+	branch = main
+	path = external/rust/android-crates-io
+	url = ../../external/rust/android-crates-io
 [submodule "platform/external/rust/autocxx"]
 	branch = main
 	path = external/rust/autocxx
