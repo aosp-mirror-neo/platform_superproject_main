@@ -125,7 +125,6 @@
 /external/ComputeLibrary pdk-gs-arm pdk-lassen
 /external/FP16 pdk
 /external/FXdiv pdk
-/external/ImageMagick pdk
 /external/MPAndroidChart pdk
 /external/OpenCL-CTS
 /external/OpenCSD pdk

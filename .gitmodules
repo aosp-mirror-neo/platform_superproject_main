@@ -549,10 +549,6 @@
 	branch = main
 	path = external/FXdiv
 	url = ../../external/FXdiv
-[submodule "platform/external/ImageMagick"]
-	branch = main
-	path = external/ImageMagick
-	url = ../../external/ImageMagick
 [submodule "platform/external/MPAndroidChart"]
 	branch = main
 	path = external/MPAndroidChart
