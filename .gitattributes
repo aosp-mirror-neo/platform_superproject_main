@@ -754,6 +754,7 @@
 /external/rust/crates/remove_dir_all pdk
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
+/external/rust/crates/rust-stemmers pdk
 /external/rust/crates/rustc-demangle pdk
 /external/rust/crates/rustc-demangle-capi pdk
 /external/rust/crates/rustc-hash pdk
