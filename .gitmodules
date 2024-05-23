@@ -2787,6 +2787,10 @@
 	branch = main
 	path = external/rust/crates/mls-rs-crypto-traits
 	url = ../../external/rust/crates/mls-rs-crypto-traits
+[submodule "platform/external/rust/crates/mls-rs-uniffi"]
+	branch = main
+	path = external/rust/crates/mls-rs-uniffi
+	url = ../../external/rust/crates/mls-rs-uniffi
 [submodule "platform/external/rust/crates/mockall"]
 	branch = main
 	path = external/rust/crates/mockall
