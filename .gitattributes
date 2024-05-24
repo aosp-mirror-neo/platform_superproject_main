@@ -798,6 +798,8 @@
 /external/rust/crates/thiserror-impl pdk
 /external/rust/crates/thread_local pdk
 /external/rust/crates/threadpool pdk
+/external/rust/crates/tikv-jemalloc-sys pdk
+/external/rust/crates/tikv-jemallocator pdk
 /external/rust/crates/tinyjson pdk
 /external/rust/crates/tinytemplate pdk
 /external/rust/crates/tinyvec pdk

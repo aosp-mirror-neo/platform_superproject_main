@@ -3243,6 +3243,14 @@
 	branch = main
 	path = external/rust/crates/threadpool
 	url = ../../external/rust/crates/threadpool
+[submodule "platform/external/rust/crates/tikv-jemalloc-sys"]
+	branch = main
+	path = external/rust/crates/tikv-jemalloc-sys
+	url = ../../external/rust/crates/tikv-jemalloc-sys
+[submodule "platform/external/rust/crates/tikv-jemallocator"]
+	branch = main
+	path = external/rust/crates/tikv-jemallocator
+	url = ../../external/rust/crates/tikv-jemallocator
 [submodule "platform/external/rust/crates/tinyjson"]
 	branch = main
 	path = external/rust/crates/tinyjson
