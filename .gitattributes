@@ -132,7 +132,6 @@
 /external/XNNPACK pdk
 /external/aac pdk
 /external/abseil-cpp pdk
-/external/accessibility-test-framework pdk
 /external/accompanist pdk
 /external/android-key-attestation pdk
 /external/android-nn-driver pdk-gs-arm pdk-lassen
