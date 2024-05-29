@@ -693,6 +693,7 @@
 /external/rust/crates/no-panic pdk
 /external/rust/crates/nom pdk
 /external/rust/crates/num-bigint pdk
+/external/rust/crates/num-complex pdk
 /external/rust/crates/num-derive pdk
 /external/rust/crates/num-integer pdk
 /external/rust/crates/num-traits pdk

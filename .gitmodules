@@ -2823,6 +2823,10 @@
 	branch = main
 	path = external/rust/crates/num-bigint
 	url = ../../external/rust/crates/num-bigint
+[submodule "platform/external/rust/crates/num-complex"]
+	branch = main
+	path = external/rust/crates/num-complex
+	url = ../../external/rust/crates/num-complex
 [submodule "platform/external/rust/crates/num-derive"]
 	branch = main
 	path = external/rust/crates/num-derive
