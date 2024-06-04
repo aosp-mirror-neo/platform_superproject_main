@@ -638,7 +638,9 @@
 /external/rust/crates/heck pdk
 /external/rust/crates/hex pdk
 /external/rust/crates/http pdk
+/external/rust/crates/http-body pdk
 /external/rust/crates/httparse pdk
+/external/rust/crates/httpdate pdk
 /external/rust/crates/ident_case pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk

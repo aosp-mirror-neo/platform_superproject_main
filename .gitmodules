@@ -2603,10 +2603,18 @@
 	branch = main
 	path = external/rust/crates/http
 	url = ../../external/rust/crates/http
+[submodule "platform/external/rust/crates/http-body"]
+	branch = main
+	path = external/rust/crates/http-body
+	url = ../../external/rust/crates/http-body
 [submodule "platform/external/rust/crates/httparse"]
 	branch = main
 	path = external/rust/crates/httparse
 	url = ../../external/rust/crates/httparse
+[submodule "platform/external/rust/crates/httpdate"]
+	branch = main
+	path = external/rust/crates/httpdate
+	url = ../../external/rust/crates/httpdate
 [submodule "platform/external/rust/crates/ident_case"]
 	branch = main
 	path = external/rust/crates/ident_case
