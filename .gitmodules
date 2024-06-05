@@ -557,6 +557,10 @@
 	branch = main
 	path = external/OpenCL-CTS
 	url = ../../external/OpenCL-CTS
+[submodule "platform/external/OpenCL-Headers"]
+	branch = main
+	path = external/OpenCL-Headers
+	url = ../../external/OpenCL-Headers
 [submodule "platform/external/OpenCSD"]
 	branch = main
 	path = external/OpenCSD

@@ -127,6 +127,7 @@
 /external/FXdiv pdk
 /external/MPAndroidChart pdk
 /external/OpenCL-CTS
+/external/OpenCL-Headers
 /external/OpenCSD pdk
 /external/TestParameterInjector pdk
 /external/XNNPACK pdk
