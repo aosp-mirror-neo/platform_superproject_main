@@ -126,6 +126,7 @@
 /external/FP16 pdk
 /external/FXdiv pdk
 /external/MPAndroidChart pdk
+/external/OpenCL-CLHPP
 /external/OpenCL-CTS
 /external/OpenCL-Headers
 /external/OpenCSD pdk

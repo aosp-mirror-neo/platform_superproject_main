@@ -553,6 +553,10 @@
 	branch = main
 	path = external/MPAndroidChart
 	url = ../../external/MPAndroidChart
+[submodule "platform/external/OpenCL-CLHPP"]
+	branch = main
+	path = external/OpenCL-CLHPP
+	url = ../../external/OpenCL-CLHPP
 [submodule "platform/external/OpenCL-CTS"]
 	branch = main
 	path = external/OpenCL-CTS
