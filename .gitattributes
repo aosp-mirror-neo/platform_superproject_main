@@ -855,6 +855,7 @@
 /external/rust/crates/vsock pdk
 /external/rust/crates/vulkano pdk
 /external/rust/crates/walkdir pdk
+/external/rust/crates/want pdk
 /external/rust/crates/weak-table pdk
 /external/rust/crates/webpki pdk
 /external/rust/crates/which pdk

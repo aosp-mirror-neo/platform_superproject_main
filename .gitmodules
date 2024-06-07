@@ -3471,6 +3471,10 @@
 	branch = main
 	path = external/rust/crates/walkdir
 	url = ../../external/rust/crates/walkdir
+[submodule "platform/external/rust/crates/want"]
+	branch = main
+	path = external/rust/crates/want
+	url = ../../external/rust/crates/want
 [submodule "platform/external/rust/crates/weak-table"]
 	branch = main
 	path = external/rust/crates/weak-table
