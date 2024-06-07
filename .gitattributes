@@ -817,6 +817,9 @@
 /external/rust/crates/toml pdk
 /external/rust/crates/toml_datetime pdk
 /external/rust/crates/toml_edit pdk
+/external/rust/crates/tower pdk
+/external/rust/crates/tower-layer pdk
+/external/rust/crates/tower-service pdk
 /external/rust/crates/tracing pdk
 /external/rust/crates/tracing-attributes pdk
 /external/rust/crates/tracing-core pdk

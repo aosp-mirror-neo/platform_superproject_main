@@ -3319,6 +3319,18 @@
 	branch = main
 	path = external/rust/crates/toml_edit
 	url = ../../external/rust/crates/toml_edit
+[submodule "platform/external/rust/crates/tower"]
+	branch = main
+	path = external/rust/crates/tower
+	url = ../../external/rust/crates/tower
+[submodule "platform/external/rust/crates/tower-layer"]
+	branch = main
+	path = external/rust/crates/tower-layer
+	url = ../../external/rust/crates/tower-layer
+[submodule "platform/external/rust/crates/tower-service"]
+	branch = main
+	path = external/rust/crates/tower-service
+	url = ../../external/rust/crates/tower-service
 [submodule "platform/external/rust/crates/tracing"]
 	branch = main
 	path = external/rust/crates/tracing
