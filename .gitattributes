@@ -821,6 +821,7 @@
 /external/rust/crates/tracing-attributes pdk
 /external/rust/crates/tracing-core pdk
 /external/rust/crates/tracing-subscriber pdk
+/external/rust/crates/try-lock pdk
 /external/rust/crates/tungstenite pdk
 /external/rust/crates/twox-hash pdk
 /external/rust/crates/ucd-trie pdk

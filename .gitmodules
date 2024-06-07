@@ -3335,6 +3335,10 @@
 	branch = main
 	path = external/rust/crates/tracing-subscriber
 	url = ../../external/rust/crates/tracing-subscriber
+[submodule "platform/external/rust/crates/try-lock"]
+	branch = main
+	path = external/rust/crates/try-lock
+	url = ../../external/rust/crates/try-lock
 [submodule "platform/external/rust/crates/tungstenite"]
 	branch = main
 	path = external/rust/crates/tungstenite
