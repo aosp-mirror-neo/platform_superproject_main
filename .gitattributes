@@ -1202,6 +1202,7 @@
 /prebuilts/clang-tools pdk
 /prebuilts/clang/host/darwin-x86 pdk darwin
 /prebuilts/clang/host/linux-x86 pdk
+/prebuilts/cmake/linux-x86 pdk
 /prebuilts/cmdline-tools pdk-fs
 /prebuilts/devtools pdk-fs
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 pdk linux
