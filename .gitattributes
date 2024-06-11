@@ -681,6 +681,7 @@
 /external/rust/crates/merge_derive pdk
 /external/rust/crates/miette pdk
 /external/rust/crates/miette-derive pdk
+/external/rust/crates/mime pdk
 /external/rust/crates/minimal-lexical pdk
 /external/rust/crates/mio pdk
 /external/rust/crates/mls-rs pdk
