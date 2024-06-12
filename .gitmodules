@@ -565,6 +565,10 @@
 	branch = main
 	path = external/OpenCL-Headers
 	url = ../../external/OpenCL-Headers
+[submodule "platform/external/OpenCL-ICD-Loader"]
+	branch = main
+	path = external/OpenCL-ICD-Loader
+	url = ../../external/OpenCL-ICD-Loader
 [submodule "platform/external/OpenCSD"]
 	branch = main
 	path = external/OpenCSD
