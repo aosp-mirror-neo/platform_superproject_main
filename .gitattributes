@@ -129,7 +129,6 @@
 /external/OpenCL-CLHPP
 /external/OpenCL-CTS
 /external/OpenCL-Headers
-/external/OpenCL-ICD-Loader
 /external/OpenCSD pdk
 /external/TestParameterInjector pdk
 /external/XNNPACK pdk
