@@ -534,6 +534,8 @@
 /external/rust/crates/async-trait pdk
 /external/rust/crates/atomic pdk
 /external/rust/crates/atty pdk
+/external/rust/crates/axum pdk
+/external/rust/crates/axum-core pdk
 /external/rust/crates/base64 pdk
 /external/rust/crates/bencher pdk
 /external/rust/crates/bincode pdk
@@ -634,6 +636,7 @@
 /external/rust/crates/grpcio pdk
 /external/rust/crates/grpcio-compiler pdk
 /external/rust/crates/grpcio-sys pdk
+/external/rust/crates/h2 pdk
 /external/rust/crates/half pdk
 /external/rust/crates/hashbrown pdk
 /external/rust/crates/hashlink pdk
@@ -643,6 +646,8 @@
 /external/rust/crates/http-body pdk
 /external/rust/crates/httparse pdk
 /external/rust/crates/httpdate pdk
+/external/rust/crates/hyper pdk
+/external/rust/crates/hyper-timeout pdk
 /external/rust/crates/ident_case pdk
 /external/rust/crates/idna pdk
 /external/rust/crates/indexmap pdk
@@ -673,6 +678,7 @@
 /external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
 /external/rust/crates/matches trusty
+/external/rust/crates/matchit pdk
 /external/rust/crates/maybe-async pdk
 /external/rust/crates/memchr pdk
 /external/rust/crates/memmap2 pdk
@@ -795,6 +801,7 @@
 /external/rust/crates/strum_macros pdk
 /external/rust/crates/syn pdk
 /external/rust/crates/syn-mid pdk
+/external/rust/crates/sync_wrapper pdk
 /external/rust/crates/synstructure pdk
 /external/rust/crates/tempfile pdk
 /external/rust/crates/termcolor pdk
@@ -811,6 +818,7 @@
 /external/rust/crates/tinyvec pdk
 /external/rust/crates/tinyvec_macros pdk
 /external/rust/crates/tokio pdk
+/external/rust/crates/tokio-io-timeout pdk
 /external/rust/crates/tokio-macros pdk
 /external/rust/crates/tokio-stream pdk
 /external/rust/crates/tokio-test pdk
@@ -818,6 +826,7 @@
 /external/rust/crates/toml pdk
 /external/rust/crates/toml_datetime pdk
 /external/rust/crates/toml_edit pdk
+/external/rust/crates/tonic pdk
 /external/rust/crates/tower pdk
 /external/rust/crates/tower-layer pdk
 /external/rust/crates/tower-service pdk

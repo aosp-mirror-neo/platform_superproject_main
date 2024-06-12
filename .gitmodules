@@ -2187,6 +2187,14 @@
 	branch = main
 	path = external/rust/crates/atty
 	url = ../../external/rust/crates/atty
+[submodule "platform/external/rust/crates/axum"]
+	branch = main
+	path = external/rust/crates/axum
+	url = ../../external/rust/crates/axum
+[submodule "platform/external/rust/crates/axum-core"]
+	branch = main
+	path = external/rust/crates/axum-core
+	url = ../../external/rust/crates/axum-core
 [submodule "platform/external/rust/crates/base64"]
 	branch = main
 	path = external/rust/crates/base64
@@ -2587,6 +2595,10 @@
 	branch = main
 	path = external/rust/crates/grpcio-sys
 	url = ../../external/rust/crates/grpcio-sys
+[submodule "platform/external/rust/crates/h2"]
+	branch = main
+	path = external/rust/crates/h2
+	url = ../../external/rust/crates/h2
 [submodule "platform/external/rust/crates/half"]
 	branch = main
 	path = external/rust/crates/half
@@ -2623,6 +2635,14 @@
 	branch = main
 	path = external/rust/crates/httpdate
 	url = ../../external/rust/crates/httpdate
+[submodule "platform/external/rust/crates/hyper"]
+	branch = main
+	path = external/rust/crates/hyper
+	url = ../../external/rust/crates/hyper
+[submodule "platform/external/rust/crates/hyper-timeout"]
+	branch = main
+	path = external/rust/crates/hyper-timeout
+	url = ../../external/rust/crates/hyper-timeout
 [submodule "platform/external/rust/crates/ident_case"]
 	branch = main
 	path = external/rust/crates/ident_case
@@ -2743,6 +2763,10 @@
 	branch = main
 	path = external/rust/crates/matches
 	url = ../../external/rust/crates/matches
+[submodule "platform/external/rust/crates/matchit"]
+	branch = main
+	path = external/rust/crates/matchit
+	url = ../../external/rust/crates/matchit
 [submodule "platform/external/rust/crates/maybe-async"]
 	branch = main
 	path = external/rust/crates/maybe-async
@@ -3231,6 +3255,10 @@
 	branch = main
 	path = external/rust/crates/syn-mid
 	url = ../../external/rust/crates/syn-mid
+[submodule "platform/external/rust/crates/sync_wrapper"]
+	branch = main
+	path = external/rust/crates/sync_wrapper
+	url = ../../external/rust/crates/sync_wrapper
 [submodule "platform/external/rust/crates/synstructure"]
 	branch = main
 	path = external/rust/crates/synstructure
@@ -3295,6 +3323,10 @@
 	branch = main
 	path = external/rust/crates/tokio
 	url = ../../external/rust/crates/tokio
+[submodule "platform/external/rust/crates/tokio-io-timeout"]
+	branch = main
+	path = external/rust/crates/tokio-io-timeout
+	url = ../../external/rust/crates/tokio-io-timeout
 [submodule "platform/external/rust/crates/tokio-macros"]
 	branch = main
 	path = external/rust/crates/tokio-macros
@@ -3323,6 +3355,10 @@
 	branch = main
 	path = external/rust/crates/toml_edit
 	url = ../../external/rust/crates/toml_edit
+[submodule "platform/external/rust/crates/tonic"]
+	branch = main
+	path = external/rust/crates/tonic
+	url = ../../external/rust/crates/tonic
 [submodule "platform/external/rust/crates/tower"]
 	branch = main
 	path = external/rust/crates/tower
