@@ -79,6 +79,19 @@
 	branch = main
 	path = device/generic/x86_64
 	url = ../../../device/generic/x86_64
+[submodule "device/google/akita"]
+	branch = main
+	path = device/google/akita
+	url = ../../../device/google/akita
+[submodule "device/google/akita-kernel"]
+	branch = main
+	shallow = true
+	path = device/google/akita-kernel
+	url = ../../../device/google/akita-kernel
+[submodule "device/google/akita-sepolicy"]
+	branch = main
+	path = device/google/akita-sepolicy
+	url = ../../../device/google/akita-sepolicy
 [submodule "device/google/atv"]
 	branch = main
 	path = device/google/atv
@@ -2071,10 +2084,6 @@
 	branch = main
 	path = external/robolectric
 	url = ../../external/robolectric
-[submodule "platform/external/robolectric-shadows"]
-	branch = main
-	path = external/robolectric-shadows
-	url = ../../external/robolectric-shadows
 [submodule "platform/external/roboto-flex-fonts"]
 	branch = main
 	path = external/roboto-flex-fonts
@@ -4754,6 +4763,10 @@
 	branch = main
 	path = packages/providers/CallLogProvider
 	url = ../../packages/providers/CallLogProvider
+[submodule "platform/packages/providers/ContactsKeysProvider"]
+	branch = main
+	path = packages/providers/ContactsKeysProvider
+	url = ../../packages/providers/ContactsKeysProvider
 [submodule "platform/packages/providers/ContactsProvider"]
 	branch = main
 	path = packages/providers/ContactsProvider

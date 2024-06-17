@@ -18,6 +18,9 @@
 /device/generic/vulkan-cereal pdk
 /device/generic/x86 pdk
 /device/generic/x86_64 pdk
+/device/google/akita akita device
+/device/google/akita-kernel akita device
+/device/google/akita-sepolicy akita device
 /device/google/atv broadcom_pdk generic_fs pdk device
 /device/google/barbet barbet device
 /device/google/barbet-sepolicy barbet device
@@ -39,14 +42,14 @@
 /device/google/gs-common slider pdk-gs-arm bluejay device cloudripper
 /device/google/gs101 slider pdk-gs-arm bluejay device
 /device/google/gs101-sepolicy slider pdk-gs-arm bluejay device
-/device/google/gs201 device cloudripper
-/device/google/gs201-sepolicy device cloudripper
+/device/google/gs201 pdk-gs-arm device cloudripper
+/device/google/gs201-sepolicy pdk-gs-arm device cloudripper
 /device/google/lynx lynx device
 /device/google/lynx-kernel lynx device
 /device/google/lynx-sepolicy lynx device
-/device/google/pantah device cloudripper
-/device/google/pantah-kernel device cloudripper
-/device/google/pantah-sepolicy device cloudripper
+/device/google/pantah pdk-gs-arm device cloudripper
+/device/google/pantah-kernel pdk-gs-arm device cloudripper
+/device/google/pantah-sepolicy pdk-gs-arm device cloudripper
 /device/google/raviole slider pdk-gs-arm device
 /device/google/raviole-kernel slider pdk-gs-arm device
 /device/google/redbull redbull device
@@ -54,9 +57,9 @@
 /device/google/redbull-sepolicy redbull device
 /device/google/redfin redfin device
 /device/google/redfin-sepolicy redfin device
-/device/google/shusky ripcurrent device
-/device/google/shusky-kernel ripcurrent device
-/device/google/shusky-sepolicy ripcurrent device
+/device/google/shusky pdk-gs-arm ripcurrent device
+/device/google/shusky-kernel pdk-gs-arm ripcurrent device
+/device/google/shusky-sepolicy pdk-gs-arm ripcurrent device
 /device/google/sunfish sunfish device
 /device/google/sunfish-kernel sunfish device
 /device/google/sunfish-sepolicy sunfish device
@@ -65,8 +68,8 @@
 /device/google/tangorpro-sepolicy tangorpro device
 /device/google/trout pdk trout device gull
 /device/google/vrservices pdk
-/device/google/zuma ripcurrent device
-/device/google/zuma-sepolicy ripcurrent device
+/device/google/zuma pdk-gs-arm ripcurrent device
+/device/google/zuma-sepolicy pdk-gs-arm ripcurrent device
 /device/google_car pdk
 /device/linaro/dragonboard dragonboard pdk device
 /device/linaro/dragonboard-kernel dragonboard pdk device
@@ -504,8 +507,7 @@
 /external/replicaisland pdk
 /external/rmi4utils pdk
 /external/rnnoise pdk
-/external/robolectric pdk-fs pdk-cw-fs
-/external/robolectric-shadows pdk-fs pdk-cw-fs
+/external/robolectric pdk-fs pdk-cw-fs sysui-studio
 /external/roboto-flex-fonts pdk
 /external/roboto-fonts pdk
 /external/rootdev pdk
@@ -1011,10 +1013,10 @@
 /hardware/google/gfxstream pdk
 /hardware/google/graphics/common pdk-gs-arm pdk-lassen
 /hardware/google/graphics/gs101 pdk-gs-arm pdk-lassen
-/hardware/google/graphics/gs201 cloudripper
-/hardware/google/graphics/zuma ripcurrent
+/hardware/google/graphics/gs201 pdk-gs-arm cloudripper
+/hardware/google/graphics/zuma pdk-gs-arm ripcurrent
 /hardware/google/interfaces pdk
-/hardware/google/pixel generic_fs pixel
+/hardware/google/pixel pdk-gs-arm generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
 /hardware/google/trusty pdk
 /hardware/interfaces pdk
@@ -1095,13 +1097,13 @@
 /packages/apps/HTMLViewer pdk-fs
 /packages/apps/ImsServiceEntitlement pdk-fs
 /packages/apps/KeyChain pdk-fs
-/packages/apps/Launcher3 pdk-fs
+/packages/apps/Launcher3 pdk-fs sysui-studio pdk-cw-tvc
 /packages/apps/LegacyCamera pdk-fs
 /packages/apps/ManagedProvisioning pdk-fs
 /packages/apps/Messaging pdk-fs
 /packages/apps/Music pdk-fs
 /packages/apps/MusicFX pdk-fs
-/packages/apps/Nfc apps_nfc pdk-fs
+/packages/apps/Nfc apps_nfc pdk-fs pdk-cw-fs
 /packages/apps/OnDeviceAppPrediction pdk-fs
 /packages/apps/PhoneCommon pdk-fs pdk-cw-fs
 /packages/apps/Protips pdk-fs
@@ -1110,7 +1112,7 @@
 /packages/apps/QuickSearchBox pdk-fs
 /packages/apps/SafetyRegulatoryInfo pdk-fs
 /packages/apps/SampleLocationAttribution pdk-fs
-/packages/apps/SecureElement pdk-fs apps_se
+/packages/apps/SecureElement pdk-fs apps_se pdk-cw-fs
 /packages/apps/Settings pdk-fs
 /packages/apps/SettingsIntelligence pdk-fs
 /packages/apps/SpareParts pdk-fs
@@ -1120,8 +1122,8 @@
 /packages/apps/TV pdk
 /packages/apps/Tag pdk-fs
 /packages/apps/Test/connectivity pdk
-/packages/apps/ThemePicker pdk-fs
-/packages/apps/Traceur pdk-fs
+/packages/apps/ThemePicker pdk-fs sysui-studio
+/packages/apps/Traceur pdk-fs sysui-studio
 /packages/apps/TvFeedbackConsent pdk-fs
 /packages/apps/TvSettings pdk-fs
 /packages/apps/TvSystemUI pdk-fs
@@ -1167,7 +1169,7 @@
 /packages/modules/ThreadNetwork
 /packages/modules/Uwb pdk-fs pdk-cw-fs
 /packages/modules/Virtualization pdk
-/packages/modules/Wifi pdk-fs pdk-cw-fs
+/packages/modules/Wifi pdk-fs pdk-cw-fs sysui-studio
 /packages/modules/adb pdk
 /packages/modules/common pdk-fs pdk-cw-fs
 /packages/modules/vndk pdk-fs pdk-cw-fs
@@ -1175,6 +1177,7 @@
 /packages/providers/BookmarkProvider pdk-fs
 /packages/providers/CalendarProvider pdk-fs pdk-cw-fs
 /packages/providers/CallLogProvider pdk-fs
+/packages/providers/ContactsKeysProvider pdk-fs pdk-cw-fs
 /packages/providers/ContactsProvider pdk-fs pdk-cw-fs
 /packages/providers/DownloadProvider pdk-fs pdk-cw-fs
 /packages/providers/MediaProvider pdk-fs pdk-cw-fs
@@ -1251,12 +1254,12 @@
 /prebuilts/module_sdk/conscrypt pdk
 /prebuilts/ndk pdk
 /prebuilts/qemu-kernel pdk
-/prebuilts/r8 pdk
+/prebuilts/r8 pdk sysui-studio
 /prebuilts/remoteexecution-client pdk
 /prebuilts/runtime pdk
 /prebuilts/rust pdk
-/prebuilts/sdk pdk
-/prebuilts/tools pdk tools
+/prebuilts/sdk pdk sysui-studio
+/prebuilts/tools pdk sysui-studio tools
 /prebuilts/vndk/v29 pdk
 /prebuilts/vndk/v30 pdk
 /prebuilts/vndk/v31 pdk
