@@ -726,7 +726,6 @@
 /external/rust/crates/pathdiff pdk
 /external/rust/crates/pdl-compiler pdk
 /external/rust/crates/pdl-runtime pdk
-/external/rust/crates/peeking_take_while pdk
 /external/rust/crates/percent-encoding pdk
 /external/rust/crates/pest pdk
 /external/rust/crates/pest_derive pdk
