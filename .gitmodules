@@ -1720,10 +1720,6 @@
 	branch = main
 	path = external/mtools
 	url = ../../external/mtools
-[submodule "platform/external/mtpd"]
-	branch = main
-	path = external/mtpd
-	url = ../../external/mtpd
 [submodule "platform/external/musl"]
 	branch = main
 	path = external/musl
