@@ -2052,6 +2052,10 @@
 	branch = main
 	path = external/python/typing
 	url = ../../external/python/typing
+[submodule "platform/external/python/typing_extensions"]
+	branch = main
+	path = external/python/typing_extensions
+	url = ../../external/python/typing_extensions
 [submodule "platform/external/python/uritemplates"]
 	branch = main
 	path = external/python/uritemplates

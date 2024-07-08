@@ -500,6 +500,7 @@
 /external/python/six vts pdk
 /external/python/timeout-decorator pdk
 /external/python/typing pdk
+/external/python/typing_extensions pdk
 /external/python/uritemplates vts pdk
 /external/rappor pdk
 /external/regex-re2 pdk
