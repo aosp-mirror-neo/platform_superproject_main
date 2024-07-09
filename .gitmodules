@@ -4655,10 +4655,6 @@
 	branch = main
 	path = packages/modules/ModuleMetadata
 	url = ../../packages/modules/ModuleMetadata
-[submodule "platform/packages/modules/NetworkPermissionConfig"]
-	branch = main
-	path = packages/modules/NetworkPermissionConfig
-	url = ../../packages/modules/NetworkPermissionConfig
 [submodule "platform/packages/modules/NetworkStack"]
 	branch = main
 	path = packages/modules/NetworkStack
