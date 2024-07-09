@@ -5695,10 +5695,6 @@
 	branch = main
 	path = trusty/host/common
 	url = ../../../trusty/host/common
-[submodule "trusty/interfaces"]
-	branch = main
-	path = trusty/interfaces
-	url = ../../../trusty/interfaces
 [submodule "trusty/lib"]
 	branch = main
 	path = trusty/user/base
