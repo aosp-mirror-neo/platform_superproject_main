@@ -4006,10 +4006,6 @@
 	branch = main
 	path = frameworks/opt/localepicker
 	url = ../../frameworks/opt/localepicker
-[submodule "platform/frameworks/opt/net/ethernet"]
-	branch = main
-	path = frameworks/opt/net/ethernet
-	url = ../../frameworks/opt/net/ethernet
 [submodule "platform/frameworks/opt/net/ims"]
 	branch = main
 	path = frameworks/opt/net/ims
