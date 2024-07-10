@@ -4607,10 +4607,6 @@
 	branch = main
 	path = packages/modules/CrashRecovery
 	url = ../../packages/modules/CrashRecovery
-[submodule "platform/packages/modules/Cronet"]
-	branch = main
-	path = packages/modules/Cronet
-	url = ../../packages/modules/Cronet
 [submodule "platform/packages/modules/DeviceLock"]
 	branch = main
 	path = packages/modules/DeviceLock
@@ -5233,10 +5229,6 @@
 	branch = main
 	path = system/incremental_delivery
 	url = ../../system/incremental_delivery
-[submodule "platform/system/iorap"]
-	branch = main
-	path = system/iorap
-	url = ../../system/iorap
 [submodule "platform/system/keymaster"]
 	branch = main
 	path = system/keymaster

@@ -1138,7 +1138,6 @@
 /packages/modules/ConfigInfrastructure pdk-fs pdk-cw-fs
 /packages/modules/Connectivity pdk-fs pdk-cw-fs
 /packages/modules/CrashRecovery pdk-fs pdk-cw-fs
-/packages/modules/Cronet pdk-fs pdk-cw-fs
 /packages/modules/DeviceLock pdk-fs pdk-cw-fs
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /packages/modules/ExtServices pdk-fs pdk-cw-fs
@@ -1278,7 +1277,6 @@
 /system/hardware/interfaces pdk
 /system/hwservicemanager pdk
 /system/incremental_delivery pdk
-/system/iorap pdk
 /system/keymaster pdk
 /system/keymint pdk
 /system/libartpalette pdk
