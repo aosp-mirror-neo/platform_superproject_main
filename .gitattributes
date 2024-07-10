@@ -1138,7 +1138,6 @@
 /packages/modules/ConfigInfrastructure pdk-fs pdk-cw-fs
 /packages/modules/Connectivity pdk-fs pdk-cw-fs
 /packages/modules/CrashRecovery pdk-fs pdk-cw-fs
-/packages/modules/Cronet pdk-fs pdk-cw-fs
 /packages/modules/DeviceLock pdk-fs pdk-cw-fs
 /packages/modules/DnsResolver pdk-fs pdk-cw-fs
 /packages/modules/ExtServices pdk-fs pdk-cw-fs
@@ -1157,7 +1156,6 @@
 /packages/modules/Profiling pdk
 /packages/modules/RemoteKeyProvisioning pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
-/packages/modules/SEPolicy pdk-fs pdk-cw-fs
 /packages/modules/Scheduling pdk-fs pdk-cw-fs
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/StatsD pdk-fs pdk-cw-fs
