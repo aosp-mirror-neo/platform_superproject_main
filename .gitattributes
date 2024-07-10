@@ -1162,7 +1162,6 @@
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/StatsD pdk-fs pdk-cw-fs
 /packages/modules/Telephony pdk-fs pdk-cw-fs
-/packages/modules/TestModule
 /packages/modules/ThreadNetwork
 /packages/modules/Uwb pdk-fs pdk-cw-fs
 /packages/modules/Virtualization pdk

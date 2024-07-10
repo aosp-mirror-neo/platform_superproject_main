@@ -4703,10 +4703,6 @@
 	branch = main
 	path = packages/modules/Telephony
 	url = ../../packages/modules/Telephony
-[submodule "platform/packages/modules/TestModule"]
-	branch = main
-	path = packages/modules/TestModule
-	url = ../../packages/modules/TestModule
 [submodule "platform/packages/modules/ThreadNetwork"]
 	branch = main
 	path = packages/modules/ThreadNetwork
