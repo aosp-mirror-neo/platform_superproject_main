@@ -1156,7 +1156,6 @@
 /packages/modules/Profiling pdk
 /packages/modules/RemoteKeyProvisioning pdk-fs pdk-cw-fs
 /packages/modules/RuntimeI18n pdk-fs pdk-cw-fs
-/packages/modules/SEPolicy pdk-fs pdk-cw-fs
 /packages/modules/Scheduling pdk-fs pdk-cw-fs
 /packages/modules/SdkExtensions pdk-fs pdk-cw-fs
 /packages/modules/StatsD pdk-fs pdk-cw-fs
