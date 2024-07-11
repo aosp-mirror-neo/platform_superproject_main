@@ -5401,10 +5401,6 @@
 	branch = main
 	path = test/dittosuite
 	url = ../../test/dittosuite
-[submodule "platform/test/framework"]
-	branch = main
-	path = test/framework
-	url = ../../test/framework
 [submodule "platform/test/mlts/benchmark"]
 	branch = main
 	path = test/mlts/benchmark

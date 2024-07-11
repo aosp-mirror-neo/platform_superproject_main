@@ -1320,7 +1320,6 @@
 /test/catbox
 /test/cts-root
 /test/dittosuite pdk
-/test/framework vts pdk projectarch
 /test/mlts/benchmark pdk
 /test/mlts/models pdk
 /test/mts
