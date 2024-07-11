@@ -66,7 +66,6 @@
 /device/google/tangorpro-kernel tangorpro device
 /device/google/tangorpro-sepolicy tangorpro device
 /device/google/trout pdk trout device gull
-/device/google/vrservices pdk
 /device/google/zuma pdk-gs-arm ripcurrent device
 /device/google/zuma-sepolicy pdk-gs-arm ripcurrent device
 /device/google_car pdk

@@ -284,10 +284,6 @@
 	branch = main
 	path = device/google/trout
 	url = ../../../device/google/trout
-[submodule "device/google/vrservices"]
-	branch = main
-	path = device/google/vrservices
-	url = ../../../device/google/vrservices
 [submodule "device/google/zuma"]
 	branch = main
 	path = device/google/zuma
