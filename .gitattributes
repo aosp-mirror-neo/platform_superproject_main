@@ -1024,16 +1024,7 @@
 /hardware/nxp/secure_element pdk
 /hardware/nxp/uwb pdk
 /hardware/nxp/weaver pdk
-/hardware/qcom/audio qcom_audio qcom pdk-qcom
 /hardware/qcom/bootctrl pdk-qcom
-/hardware/qcom/bt qcom pdk-qcom
-/hardware/qcom/camera qcom_camera pdk-qcom
-/hardware/qcom/data/ipacfg-mgr qcom pdk-qcom
-/hardware/qcom/display qcom qcom_display pdk-qcom
-/hardware/qcom/gps qcom pdk-qcom qcom_gps
-/hardware/qcom/keymaster qcom qcom_keymaster pdk-qcom
-/hardware/qcom/media qcom pdk-qcom
-/hardware/qcom/power qcom pdk-qcom
 /hardware/qcom/sm7150/gps qcom_sm7150
 /hardware/qcom/sm7250/display qcom_sm7250
 /hardware/qcom/sm7250/gps qcom_sm7250

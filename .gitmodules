@@ -4150,46 +4150,10 @@
 	branch = main
 	path = hardware/nxp/weaver
 	url = ../../hardware/nxp/weaver
-[submodule "platform/hardware/qcom/audio"]
-	branch = main
-	path = hardware/qcom/audio
-	url = ../../hardware/qcom/audio
 [submodule "platform/hardware/qcom/bootctrl"]
 	branch = main
 	path = hardware/qcom/bootctrl
 	url = ../../hardware/qcom/bootctrl
-[submodule "platform/hardware/qcom/bt"]
-	branch = main
-	path = hardware/qcom/bt
-	url = ../../hardware/qcom/bt
-[submodule "platform/hardware/qcom/camera"]
-	branch = main
-	path = hardware/qcom/camera
-	url = ../../hardware/qcom/camera
-[submodule "platform/hardware/qcom/data/ipacfg-mgr"]
-	branch = main
-	path = hardware/qcom/data/ipacfg-mgr
-	url = ../../hardware/qcom/data/ipacfg-mgr
-[submodule "platform/hardware/qcom/display"]
-	branch = main
-	path = hardware/qcom/display
-	url = ../../hardware/qcom/display
-[submodule "platform/hardware/qcom/gps"]
-	branch = main
-	path = hardware/qcom/gps
-	url = ../../hardware/qcom/gps
-[submodule "platform/hardware/qcom/keymaster"]
-	branch = main
-	path = hardware/qcom/keymaster
-	url = ../../hardware/qcom/keymaster
-[submodule "platform/hardware/qcom/media"]
-	branch = main
-	path = hardware/qcom/media
-	url = ../../hardware/qcom/media
-[submodule "platform/hardware/qcom/power"]
-	branch = main
-	path = hardware/qcom/power
-	url = ../../hardware/qcom/power
 [submodule "platform/hardware/qcom/sm7150/gps"]
 	branch = main
 	path = hardware/qcom/sm7150/gps
