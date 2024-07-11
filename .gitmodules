@@ -331,11 +331,6 @@
 	branch = main
 	path = kernel/configs
 	url = ../../../kernel/configs
-[submodule "kernel/prebuilts/4.19/arm64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/4.19/arm64
-	url = ../../../kernel/prebuilts/4.19/arm64
 [submodule "kernel/prebuilts/5.10/arm64"]
 	branch = main
 	shallow = true
@@ -386,46 +381,6 @@
 	shallow = true
 	path = kernel/prebuilts/6.6/x86_64
 	url = ../../../kernel/prebuilts/6.6/x86-64
-[submodule "kernel/prebuilts/common-modules/virtual-device/4.19/arm64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/common-modules/virtual-device/4.19/arm64
-	url = ../../../kernel/prebuilts/common-modules/virtual-device/4.19/arm64
-[submodule "kernel/prebuilts/common-modules/virtual-device/4.19/x86-64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/common-modules/virtual-device/4.19/x86-64
-	url = ../../../kernel/prebuilts/common-modules/virtual-device/4.19/x86-64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.10/arm64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/common-modules/virtual-device/5.10/arm64
-	url = ../../../kernel/prebuilts/common-modules/virtual-device/5.10/arm64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.10/x86-64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
-	url = ../../../kernel/prebuilts/common-modules/virtual-device/5.10/x86-64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.15/arm64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/common-modules/virtual-device/5.15/arm64
-	url = ../../../kernel/prebuilts/common-modules/virtual-device/5.15/arm64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.15/x86-64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
-	url = ../../../kernel/prebuilts/common-modules/virtual-device/5.15/x86-64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.4/arm64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/common-modules/virtual-device/5.4/arm64
-	url = ../../../kernel/prebuilts/common-modules/virtual-device/5.4/arm64
-[submodule "kernel/prebuilts/common-modules/virtual-device/5.4/x86-64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/common-modules/virtual-device/5.4/x86-64
-	url = ../../../kernel/prebuilts/common-modules/virtual-device/5.4/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/6.1/arm64"]
 	branch = main
 	shallow = true
