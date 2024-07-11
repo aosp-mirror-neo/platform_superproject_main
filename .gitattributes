@@ -77,7 +77,6 @@
 /device/linaro/poplar-kernel poplar pdk device
 /device/sample pdk
 /kernel/configs vts pdk
-/kernel/prebuilts/4.19/arm64 pdk
 /kernel/prebuilts/5.10/arm64 pdk
 /kernel/prebuilts/5.10/x86_64 pdk
 /kernel/prebuilts/5.15/arm64 pdk
