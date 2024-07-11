@@ -15,7 +15,6 @@
 /device/generic/opengl-transport pdk
 /device/generic/trusty pdk
 /device/generic/uml pdk device
-/device/generic/vulkan-cereal pdk
 /device/generic/x86 pdk
 /device/generic/x86_64 pdk
 /device/google/akita akita device
