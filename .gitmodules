@@ -3753,10 +3753,6 @@
 	branch = main
 	path = external/v4l2_codec2
 	url = ../../external/v4l2_codec2
-[submodule "platform/external/vboot_reference"]
-	branch = main
-	path = external/vboot_reference
-	url = ../../external/vboot_reference
 [submodule "platform/external/virglrenderer"]
 	branch = main
 	path = external/virglrenderer
