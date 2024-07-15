@@ -3033,6 +3033,10 @@
 	branch = main
 	path = external/rust/crates/rusqlite
 	url = ../../external/rust/crates/rusqlite
+[submodule "platform/external/rust/crates/rust-stemmers"]
+	branch = main
+	path = external/rust/crates/rust-stemmers
+	url = ../../external/rust/crates/rust-stemmers
 [submodule "platform/external/rust/crates/rustc-demangle"]
 	branch = main
 	path = external/rust/crates/rustc-demangle
