@@ -1167,7 +1167,6 @@
 /packages/services/Mtp pdk-fs pdk-cw-fs
 /packages/services/Telecomm pdk-fs pdk-cw-fs
 /packages/services/Telephony pdk-fs pdk-cw-fs
-/packages/wallpapers/ImageWallpaper pdk-fs
 /packages/wallpapers/LivePicker pdk-fs
 /pdk pdk
 /platform_testing pdk-fs cts pdk-cw-fs
