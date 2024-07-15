@@ -4057,10 +4057,6 @@
 	branch = main
 	path = hardware/google/pixel-sepolicy
 	url = ../../hardware/google/pixel-sepolicy
-[submodule "platform/hardware/google/trusty"]
-	branch = main
-	path = hardware/google/trusty
-	url = ../../hardware/google/trusty
 [submodule "platform/hardware/interfaces"]
 	branch = main
 	path = hardware/interfaces
