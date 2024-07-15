@@ -331,36 +331,6 @@
 	branch = main
 	path = kernel/configs
 	url = ../../../kernel/configs
-[submodule "kernel/prebuilts/5.10/arm64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/5.10/arm64
-	url = ../../../kernel/prebuilts/5.10/arm64
-[submodule "kernel/prebuilts/5.10/x86-64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/5.10/x86_64
-	url = ../../../kernel/prebuilts/5.10/x86-64
-[submodule "kernel/prebuilts/5.15/arm64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/5.15/arm64
-	url = ../../../kernel/prebuilts/5.15/arm64
-[submodule "kernel/prebuilts/5.15/x86-64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/5.15/x86_64
-	url = ../../../kernel/prebuilts/5.15/x86-64
-[submodule "kernel/prebuilts/5.4/arm64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/5.4/arm64
-	url = ../../../kernel/prebuilts/5.4/arm64
-[submodule "kernel/prebuilts/5.4/x86-64"]
-	branch = main
-	shallow = true
-	path = kernel/prebuilts/5.4/x86_64
-	url = ../../../kernel/prebuilts/5.4/x86-64
 [submodule "kernel/prebuilts/6.1/arm64"]
 	branch = main
 	shallow = true
