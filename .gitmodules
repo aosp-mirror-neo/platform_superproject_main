@@ -63,10 +63,6 @@
 	branch = main
 	path = device/generic/trusty
 	url = ../../../device/generic/trusty
-[submodule "device/generic/uml"]
-	branch = main
-	path = device/generic/uml
-	url = ../../../device/generic/uml
 [submodule "device/generic/x86"]
 	branch = main
 	path = device/generic/x86
