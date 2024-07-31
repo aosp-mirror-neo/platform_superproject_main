@@ -444,7 +444,6 @@
 /external/ply pdk
 /external/private-join-and-compute pdk
 /external/protobuf pdk
-/external/psimd pdk
 /external/pthreadpool pdk
 /external/puffin pdk
 /external/python/absl-py pdk
