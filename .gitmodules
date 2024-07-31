@@ -2865,6 +2865,10 @@
 	branch = main
 	path = external/rust/crates/percent-encoding
 	url = ../../external/rust/crates/percent-encoding
+[submodule "platform/external/rust/crates/percore"]
+	branch = main
+	path = external/rust/crates/percore
+	url = ../../external/rust/crates/percore
 [submodule "platform/external/rust/crates/pest"]
 	branch = main
 	path = external/rust/crates/pest

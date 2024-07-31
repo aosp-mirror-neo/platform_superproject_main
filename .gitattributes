@@ -707,6 +707,7 @@
 /external/rust/crates/pdl-compiler pdk
 /external/rust/crates/pdl-runtime pdk
 /external/rust/crates/percent-encoding pdk
+/external/rust/crates/percore pdk
 /external/rust/crates/pest pdk
 /external/rust/crates/pest_derive pdk
 /external/rust/crates/pest_generator pdk
