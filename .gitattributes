@@ -313,6 +313,7 @@
 /external/ksoap2 pdk
 /external/ksp pdk
 /external/ktfmt pdk
+/external/leakcanary2 pdk
 /external/leveldb pdk
 /external/libaom pdk
 /external/libavc pdk
