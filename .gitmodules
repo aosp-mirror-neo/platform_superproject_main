@@ -1737,10 +1737,6 @@
 	branch = main
 	path = external/openwrt-prebuilts
 	url = ../../external/openwrt-prebuilts
-[submodule "platform/external/oss-fuzz"]
-	branch = main
-	path = external/oss-fuzz
-	url = ../../external/oss-fuzz
 [submodule "platform/external/ot-br-posix"]
 	branch = main
 	path = external/ot-br-posix

@@ -425,7 +425,6 @@
 /external/openscreen pdk
 /external/openthread pdk
 /external/openwrt-prebuilts pdk
-/external/oss-fuzz pdk
 /external/ot-br-posix pdk
 /external/ow2-asm pdk
 /external/owasp/java-encoder pdk
