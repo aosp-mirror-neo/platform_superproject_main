@@ -1170,21 +1170,21 @@
 /prebuilts/android-emulator pdk-fs
 /prebuilts/asuite pdk
 /prebuilts/bazel/common pdk
-/prebuilts/bazel/darwin-x86_64 darwin pdk
+/prebuilts/bazel/darwin-x86_64 darwin pdk notdefault platform-darwin
 /prebuilts/bazel/linux-x86_64 pdk linux
 /prebuilts/build-tools pdk
 /prebuilts/bundletool pdk
 /prebuilts/checkcolor pdk
 /prebuilts/checkstyle pdk
 /prebuilts/clang-tools pdk
-/prebuilts/clang/host/darwin-x86 pdk darwin
+/prebuilts/clang/host/darwin-x86 pdk darwin notdefault platform-darwin
 /prebuilts/clang/host/linux-x86 pdk
 /prebuilts/cmake/linux-x86 pdk
 /prebuilts/cmdline-tools pdk-fs
 /prebuilts/devtools pdk-fs
 /prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8 pdk linux
 /prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8 pdk-fs
-/prebuilts/go/darwin-x86 tradefed darwin pdk
+/prebuilts/go/darwin-x86 tradefed darwin pdk notdefault platform-darwin
 /prebuilts/go/linux-x86 tradefed pdk linux
 /prebuilts/gradle-plugin pdk-fs pdk-cw-fs pdk
 /prebuilts/jdk/jdk17 pdk
