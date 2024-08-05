@@ -5378,10 +5378,6 @@
 	branch = main
 	path = tools/external_updater
 	url = ../../tools/external_updater
-[submodule "platform/tools/lint_checks"]
-	branch = main
-	path = tools/lint_checks
-	url = ../../tools/lint_checks
 [submodule "platform/tools/loganalysis"]
 	branch = main
 	path = tools/loganalysis

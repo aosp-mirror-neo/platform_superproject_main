@@ -1318,7 +1318,6 @@
 /tools/doc_generation pdk tools
 /tools/external/fat32lib tools
 /tools/external_updater tools
-/tools/lint_checks pdk
 /tools/loganalysis tradefed pdk nopresubmit
 /tools/metalava pdk tools
 /tools/ndkports pdk
