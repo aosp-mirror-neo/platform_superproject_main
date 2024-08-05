@@ -494,6 +494,7 @@
 /external/rust/android-crates-io pdk
 /external/rust/autocxx pdk
 /external/rust/beto-rust pdk
+/external/rust/crabbyavif pdk
 /external/rust/crates/aarch64-paging pdk
 /external/rust/crates/acpi pdk
 /external/rust/crates/ahash pdk
