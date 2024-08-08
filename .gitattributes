@@ -375,7 +375,6 @@
 /external/linux-kselftest vts pdk
 /external/llvm pdk
 /external/llvm-libc pdk
-/external/lmfit pdk
 /external/lottie pdk
 /external/ltp vts pdk
 /external/lua pdk
