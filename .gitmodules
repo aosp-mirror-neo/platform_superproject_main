@@ -1537,6 +1537,10 @@
 	branch = main
 	path = external/llvm-libc
 	url = ../../external/llvm-libc
+[submodule "platform/external/lmfit"]
+	branch = main
+	path = external/lmfit
+	url = ../../external/lmfit
 [submodule "platform/external/lottie"]
 	branch = main
 	path = external/lottie
