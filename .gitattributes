@@ -1187,7 +1187,6 @@
 /prebuilts/go/darwin-x86 tradefed darwin pdk notdefault platform-darwin
 /prebuilts/go/linux-x86 tradefed pdk linux
 /prebuilts/gradle-plugin pdk-fs pdk-cw-fs pdk
-/prebuilts/jdk/jdk17 pdk
 /prebuilts/jdk/jdk21 pdk
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/ktlint pdk

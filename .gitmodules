@@ -4811,11 +4811,6 @@
 	shallow = true
 	path = prebuilts/gradle-plugin
 	url = ../../prebuilts/gradle-plugin
-[submodule "platform/prebuilts/jdk/jdk17"]
-	branch = main
-	shallow = true
-	path = prebuilts/jdk/jdk17
-	url = ../../prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
 	branch = main
 	shallow = true
