@@ -1274,6 +1274,7 @@
 /system/nvram pdk
 /system/secretkeeper pdk
 /system/security pdk
+/system/see/authmgr pdk
 /system/sepolicy pdk
 /system/server_configurable_flags pdk
 /system/teeui pdk

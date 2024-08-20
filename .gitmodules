@@ -5201,6 +5201,10 @@
 	branch = main
 	path = system/security
 	url = ../../system/security
+[submodule "platform/system/see/authmgr"]
+	branch = main
+	path = system/see/authmgr
+	url = ../../system/see/authmgr
 [submodule "platform/system/sepolicy"]
 	branch = main
 	path = system/sepolicy
