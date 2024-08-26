@@ -221,6 +221,7 @@
 /external/fft2d pdk
 /external/firebase-messaging pdk
 /external/flac pdk
+/external/flashrom pdk
 /external/flatbuffers pdk
 /external/fmtlib pdk
 /external/fonttools pdk
@@ -434,6 +435,7 @@
 /external/pandora/bt-test-interfaces pdk
 /external/pandora/mmi2grpc pdk
 /external/parameter-framework pdk
+/external/pciutils pdk
 /external/pcre pdk
 /external/pdfium pdk
 /external/perfetto pdk
@@ -922,6 +924,7 @@
 /external/universal-tween-engine
 /external/uwb pdk
 /external/v4l2_codec2 pdk
+/external/vboot_reference pdk
 /external/virglrenderer pdk
 /external/vixl pdk
 /external/vogar pdk
