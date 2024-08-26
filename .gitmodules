@@ -5515,6 +5515,10 @@
 	branch = main
 	path = trusty/device/arm/vexpress-a15
 	url = ../../../trusty/device/arm/vexpress-a15
+[submodule "trusty/device/desktop"]
+	branch = main
+	path = trusty/device/desktop
+	url = ../../../trusty/device/desktop
 [submodule "trusty/device/nxp/imx7d"]
 	branch = main
 	path = trusty/device/nxp/imx7d
@@ -5559,6 +5563,10 @@
 	branch = main
 	path = trusty/kernel
 	url = ../../../trusty/lk/trusty
+[submodule "trusty/user/desktop"]
+	branch = main
+	path = trusty/user/desktop
+	url = ../../../trusty/user/desktop
 [submodule "trusty/vendor/google/aosp"]
 	branch = main
 	path = trusty/vendor/google/aosp
