@@ -276,6 +276,7 @@
 /external/igt-gpu-tools pdk
 /external/image_io pdk
 /external/ims pdk
+/external/intel-media-driver pdk
 /external/iperf3 pdk
 /external/iproute2 pdk
 /external/ipsec-tools pdk

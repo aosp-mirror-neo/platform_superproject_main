@@ -1140,6 +1140,10 @@
 	branch = main
 	path = external/ims
 	url = ../../external/ims
+[submodule "platform/external/intel-media-driver"]
+	branch = main
+	path = external/intel-media-driver
+	url = ../../external/intel-media-driver
 [submodule "platform/external/iperf3"]
 	branch = main
 	path = external/iperf3
