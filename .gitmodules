@@ -972,6 +972,10 @@
 	branch = main
 	path = external/glide
 	url = ../../external/glide
+[submodule "platform/external/gmmlib"]
+	branch = main
+	path = external/gmmlib
+	url = ../../external/gmmlib
 [submodule "platform/external/go-cmp"]
 	branch = main
 	path = external/go-cmp
