@@ -2045,6 +2045,34 @@
 	branch = main
 	path = external/rust/crates/acpi
 	url = ../../external/rust/crates/acpi
+[submodule "platform/external/rust/crates/ahash"]
+	branch = main
+	path = external/rust/crates/ahash
+	url = ../../external/rust/crates/ahash
+[submodule "platform/external/rust/crates/aho-corasick"]
+	branch = main
+	path = external/rust/crates/aho-corasick
+	url = ../../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/android_log-sys"]
+	branch = main
+	path = external/rust/crates/android_log-sys
+	url = ../../external/rust/crates/android_log-sys
+[submodule "platform/external/rust/crates/android_logger"]
+	branch = main
+	path = external/rust/crates/android_logger
+	url = ../../external/rust/crates/android_logger
+[submodule "platform/external/rust/crates/anes"]
+	branch = main
+	path = external/rust/crates/anes
+	url = ../../external/rust/crates/anes
+[submodule "platform/external/rust/crates/annotate-snippets"]
+	branch = main
+	path = external/rust/crates/annotate-snippets
+	url = ../../external/rust/crates/annotate-snippets
+[submodule "platform/external/rust/crates/anyhow"]
+	branch = main
+	path = external/rust/crates/anyhow
+	url = ../../external/rust/crates/anyhow
 [submodule "platform/external/rust/crates/arbitrary"]
 	branch = main
 	path = external/rust/crates/arbitrary
@@ -2053,14 +2081,70 @@
 	branch = main
 	path = external/rust/crates/arc-swap
 	url = ../../external/rust/crates/arc-swap
+[submodule "platform/external/rust/crates/argh"]
+	branch = main
+	path = external/rust/crates/argh
+	url = ../../external/rust/crates/argh
+[submodule "platform/external/rust/crates/argh_derive"]
+	branch = main
+	path = external/rust/crates/argh_derive
+	url = ../../external/rust/crates/argh_derive
+[submodule "platform/external/rust/crates/argh_shared"]
+	branch = main
+	path = external/rust/crates/argh_shared
+	url = ../../external/rust/crates/argh_shared
 [submodule "platform/external/rust/crates/arrayvec"]
 	branch = main
 	path = external/rust/crates/arrayvec
 	url = ../../external/rust/crates/arrayvec
+[submodule "platform/external/rust/crates/ash"]
+	branch = main
+	path = external/rust/crates/ash
+	url = ../../external/rust/crates/ash
+[submodule "platform/external/rust/crates/async-stream"]
+	branch = main
+	path = external/rust/crates/async-stream
+	url = ../../external/rust/crates/async-stream
+[submodule "platform/external/rust/crates/async-stream-impl"]
+	branch = main
+	path = external/rust/crates/async-stream-impl
+	url = ../../external/rust/crates/async-stream-impl
+[submodule "platform/external/rust/crates/async-task"]
+	branch = main
+	path = external/rust/crates/async-task
+	url = ../../external/rust/crates/async-task
+[submodule "platform/external/rust/crates/async-trait"]
+	branch = main
+	path = external/rust/crates/async-trait
+	url = ../../external/rust/crates/async-trait
+[submodule "platform/external/rust/crates/atomic"]
+	branch = main
+	path = external/rust/crates/atomic
+	url = ../../external/rust/crates/atomic
+[submodule "platform/external/rust/crates/atty"]
+	branch = main
+	path = external/rust/crates/atty
+	url = ../../external/rust/crates/atty
+[submodule "platform/external/rust/crates/axum"]
+	branch = main
+	path = external/rust/crates/axum
+	url = ../../external/rust/crates/axum
 [submodule "platform/external/rust/crates/axum-core"]
 	branch = main
 	path = external/rust/crates/axum-core
 	url = ../../external/rust/crates/axum-core
+[submodule "platform/external/rust/crates/base64"]
+	branch = main
+	path = external/rust/crates/base64
+	url = ../../external/rust/crates/base64
+[submodule "platform/external/rust/crates/bencher"]
+	branch = main
+	path = external/rust/crates/bencher
+	url = ../../external/rust/crates/bencher
+[submodule "platform/external/rust/crates/bincode"]
+	branch = main
+	path = external/rust/crates/bincode
+	url = ../../external/rust/crates/bincode
 [submodule "platform/external/rust/crates/bindgen"]
 	branch = main
 	path = external/rust/crates/bindgen
@@ -2077,14 +2161,70 @@
 	branch = main
 	path = external/rust/crates/bitflags
 	url = ../../external/rust/crates/bitflags
+[submodule "platform/external/rust/crates/bitreader"]
+	branch = main
+	path = external/rust/crates/bitreader
+	url = ../../external/rust/crates/bitreader
+[submodule "platform/external/rust/crates/bstr"]
+	branch = main
+	path = external/rust/crates/bstr
+	url = ../../external/rust/crates/bstr
+[submodule "platform/external/rust/crates/buddy_system_allocator"]
+	branch = main
+	path = external/rust/crates/buddy_system_allocator
+	url = ../../external/rust/crates/buddy_system_allocator
 [submodule "platform/external/rust/crates/bytemuck"]
 	branch = main
 	path = external/rust/crates/bytemuck
 	url = ../../external/rust/crates/bytemuck
+[submodule "platform/external/rust/crates/bytemuck_derive"]
+	branch = main
+	path = external/rust/crates/bytemuck_derive
+	url = ../../external/rust/crates/bytemuck_derive
+[submodule "platform/external/rust/crates/byteorder"]
+	branch = main
+	path = external/rust/crates/byteorder
+	url = ../../external/rust/crates/byteorder
+[submodule "platform/external/rust/crates/bytes"]
+	branch = main
+	path = external/rust/crates/bytes
+	url = ../../external/rust/crates/bytes
+[submodule "platform/external/rust/crates/camino"]
+	branch = main
+	path = external/rust/crates/camino
+	url = ../../external/rust/crates/camino
+[submodule "platform/external/rust/crates/cast"]
+	branch = main
+	path = external/rust/crates/cast
+	url = ../../external/rust/crates/cast
+[submodule "platform/external/rust/crates/cesu8"]
+	branch = main
+	path = external/rust/crates/cesu8
+	url = ../../external/rust/crates/cesu8
+[submodule "platform/external/rust/crates/cexpr"]
+	branch = main
+	path = external/rust/crates/cexpr
+	url = ../../external/rust/crates/cexpr
+[submodule "platform/external/rust/crates/cfg-if"]
+	branch = main
+	path = external/rust/crates/cfg-if
+	url = ../../external/rust/crates/cfg-if
 [submodule "platform/external/rust/crates/chrono"]
 	branch = main
 	path = external/rust/crates/chrono
 	url = ../../external/rust/crates/chrono
+[submodule "platform/external/rust/crates/ciborium"]
+	branch = main
+	path = external/rust/crates/ciborium
+	url = ../../external/rust/crates/ciborium
+[submodule "platform/external/rust/crates/ciborium-io"]
+	branch = main
+	path = external/rust/crates/ciborium-io
+	url = ../../external/rust/crates/ciborium-io
+[submodule "platform/external/rust/crates/ciborium-ll"]
+	branch = main
+	path = external/rust/crates/ciborium-ll
+	url = ../../external/rust/crates/ciborium-ll
 [submodule "platform/external/rust/crates/clang-sys"]
 	branch = main
 	path = external/rust/crates/clang-sys
@@ -2093,10 +2233,30 @@
 	branch = main
 	path = external/rust/crates/clap
 	url = ../../external/rust/crates/clap
+[submodule "platform/external/rust/crates/clap_complete"]
+	branch = main
+	path = external/rust/crates/clap_complete
+	url = ../../external/rust/crates/clap_complete
+[submodule "platform/external/rust/crates/clap_derive"]
+	branch = main
+	path = external/rust/crates/clap_derive
+	url = ../../external/rust/crates/clap_derive
+[submodule "platform/external/rust/crates/clap_lex"]
+	branch = main
+	path = external/rust/crates/clap_lex
+	url = ../../external/rust/crates/clap_lex
 [submodule "platform/external/rust/crates/codespan-reporting"]
 	branch = main
 	path = external/rust/crates/codespan-reporting
 	url = ../../external/rust/crates/codespan-reporting
+[submodule "platform/external/rust/crates/combine"]
+	branch = main
+	path = external/rust/crates/combine
+	url = ../../external/rust/crates/combine
+[submodule "platform/external/rust/crates/command-fds"]
+	branch = main
+	path = external/rust/crates/command-fds
+	url = ../../external/rust/crates/command-fds
 [submodule "platform/external/rust/crates/config"]
 	branch = main
 	path = external/rust/crates/config
@@ -2105,6 +2265,46 @@
 	branch = main
 	path = external/rust/crates/configparser
 	url = ../../external/rust/crates/configparser
+[submodule "platform/external/rust/crates/const-oid"]
+	branch = main
+	path = external/rust/crates/const-oid
+	url = ../../external/rust/crates/const-oid
+[submodule "platform/external/rust/crates/coset"]
+	branch = main
+	path = external/rust/crates/coset
+	url = ../../external/rust/crates/coset
+[submodule "platform/external/rust/crates/crc32fast"]
+	branch = main
+	path = external/rust/crates/crc32fast
+	url = ../../external/rust/crates/crc32fast
+[submodule "platform/external/rust/crates/criterion"]
+	branch = main
+	path = external/rust/crates/criterion
+	url = ../../external/rust/crates/criterion
+[submodule "platform/external/rust/crates/criterion-plot"]
+	branch = main
+	path = external/rust/crates/criterion-plot
+	url = ../../external/rust/crates/criterion-plot
+[submodule "platform/external/rust/crates/crossbeam-channel"]
+	branch = main
+	path = external/rust/crates/crossbeam-channel
+	url = ../../external/rust/crates/crossbeam-channel
+[submodule "platform/external/rust/crates/crossbeam-deque"]
+	branch = main
+	path = external/rust/crates/crossbeam-deque
+	url = ../../external/rust/crates/crossbeam-deque
+[submodule "platform/external/rust/crates/crossbeam-epoch"]
+	branch = main
+	path = external/rust/crates/crossbeam-epoch
+	url = ../../external/rust/crates/crossbeam-epoch
+[submodule "platform/external/rust/crates/crossbeam-queue"]
+	branch = main
+	path = external/rust/crates/crossbeam-queue
+	url = ../../external/rust/crates/crossbeam-queue
+[submodule "platform/external/rust/crates/crossbeam-utils"]
+	branch = main
+	path = external/rust/crates/crossbeam-utils
+	url = ../../external/rust/crates/crossbeam-utils
 [submodule "platform/external/rust/crates/csv"]
 	branch = main
 	path = external/rust/crates/csv
@@ -2117,14 +2317,58 @@
 	branch = main
 	path = external/rust/crates/darling
 	url = ../../external/rust/crates/darling
+[submodule "platform/external/rust/crates/darling_core"]
+	branch = main
+	path = external/rust/crates/darling_core
+	url = ../../external/rust/crates/darling_core
+[submodule "platform/external/rust/crates/darling_macro"]
+	branch = main
+	path = external/rust/crates/darling_macro
+	url = ../../external/rust/crates/darling_macro
+[submodule "platform/external/rust/crates/dashmap"]
+	branch = main
+	path = external/rust/crates/dashmap
+	url = ../../external/rust/crates/dashmap
+[submodule "platform/external/rust/crates/data-encoding"]
+	branch = main
+	path = external/rust/crates/data-encoding
+	url = ../../external/rust/crates/data-encoding
 [submodule "platform/external/rust/crates/debug_tree"]
 	branch = main
 	path = external/rust/crates/debug_tree
 	url = ../../external/rust/crates/debug_tree
+[submodule "platform/external/rust/crates/der"]
+	branch = main
+	path = external/rust/crates/der
+	url = ../../external/rust/crates/der
+[submodule "platform/external/rust/crates/der_derive"]
+	branch = main
+	path = external/rust/crates/der_derive
+	url = ../../external/rust/crates/der_derive
+[submodule "platform/external/rust/crates/derive_arbitrary"]
+	branch = main
+	path = external/rust/crates/derive_arbitrary
+	url = ../../external/rust/crates/derive_arbitrary
+[submodule "platform/external/rust/crates/displaydoc"]
+	branch = main
+	path = external/rust/crates/displaydoc
+	url = ../../external/rust/crates/displaydoc
+[submodule "platform/external/rust/crates/document-features"]
+	branch = main
+	path = external/rust/crates/document-features
+	url = ../../external/rust/crates/document-features
 [submodule "platform/external/rust/crates/downcast"]
 	branch = main
 	path = external/rust/crates/downcast
 	url = ../../external/rust/crates/downcast
+[submodule "platform/external/rust/crates/downcast-rs"]
+	branch = main
+	path = external/rust/crates/downcast-rs
+	url = ../../external/rust/crates/downcast-rs
+[submodule "platform/external/rust/crates/drm"]
+	branch = main
+	path = external/rust/crates/drm
+	url = ../../external/rust/crates/drm
 [submodule "platform/external/rust/crates/drm-ffi"]
 	branch = main
 	path = external/rust/crates/drm-ffi
@@ -2133,6 +2377,42 @@
 	branch = main
 	path = external/rust/crates/drm-fourcc
 	url = ../../external/rust/crates/drm-fourcc
+[submodule "platform/external/rust/crates/either"]
+	branch = main
+	path = external/rust/crates/either
+	url = ../../external/rust/crates/either
+[submodule "platform/external/rust/crates/enumn"]
+	branch = main
+	path = external/rust/crates/enumn
+	url = ../../external/rust/crates/enumn
+[submodule "platform/external/rust/crates/env_logger"]
+	branch = main
+	path = external/rust/crates/env_logger
+	url = ../../external/rust/crates/env_logger
+[submodule "platform/external/rust/crates/epoll"]
+	branch = main
+	path = external/rust/crates/epoll
+	url = ../../external/rust/crates/epoll
+[submodule "platform/external/rust/crates/errno"]
+	branch = main
+	path = external/rust/crates/errno
+	url = ../../external/rust/crates/errno
+[submodule "platform/external/rust/crates/fallible-iterator"]
+	branch = main
+	path = external/rust/crates/fallible-iterator
+	url = ../../external/rust/crates/fallible-iterator
+[submodule "platform/external/rust/crates/fallible-streaming-iterator"]
+	branch = main
+	path = external/rust/crates/fallible-streaming-iterator
+	url = ../../external/rust/crates/fallible-streaming-iterator
+[submodule "platform/external/rust/crates/fastrand"]
+	branch = main
+	path = external/rust/crates/fastrand
+	url = ../../external/rust/crates/fastrand
+[submodule "platform/external/rust/crates/flagset"]
+	branch = main
+	path = external/rust/crates/flagset
+	url = ../../external/rust/crates/flagset
 [submodule "platform/external/rust/crates/flate2"]
 	branch = main
 	path = external/rust/crates/flate2
@@ -2153,14 +2433,62 @@
 	branch = main
 	path = external/rust/crates/form_urlencoded
 	url = ../../external/rust/crates/form_urlencoded
+[submodule "platform/external/rust/crates/fragile"]
+	branch = main
+	path = external/rust/crates/fragile
+	url = ../../external/rust/crates/fragile
+[submodule "platform/external/rust/crates/fs-err"]
+	branch = main
+	path = external/rust/crates/fs-err
+	url = ../../external/rust/crates/fs-err
+[submodule "platform/external/rust/crates/futures"]
+	branch = main
+	path = external/rust/crates/futures
+	url = ../../external/rust/crates/futures
 [submodule "platform/external/rust/crates/futures-channel"]
 	branch = main
 	path = external/rust/crates/futures-channel
 	url = ../../external/rust/crates/futures-channel
+[submodule "platform/external/rust/crates/futures-core"]
+	branch = main
+	path = external/rust/crates/futures-core
+	url = ../../external/rust/crates/futures-core
+[submodule "platform/external/rust/crates/futures-executor"]
+	branch = main
+	path = external/rust/crates/futures-executor
+	url = ../../external/rust/crates/futures-executor
+[submodule "platform/external/rust/crates/futures-io"]
+	branch = main
+	path = external/rust/crates/futures-io
+	url = ../../external/rust/crates/futures-io
+[submodule "platform/external/rust/crates/futures-macro"]
+	branch = main
+	path = external/rust/crates/futures-macro
+	url = ../../external/rust/crates/futures-macro
+[submodule "platform/external/rust/crates/futures-sink"]
+	branch = main
+	path = external/rust/crates/futures-sink
+	url = ../../external/rust/crates/futures-sink
+[submodule "platform/external/rust/crates/futures-task"]
+	branch = main
+	path = external/rust/crates/futures-task
+	url = ../../external/rust/crates/futures-task
+[submodule "platform/external/rust/crates/futures-test"]
+	branch = main
+	path = external/rust/crates/futures-test
+	url = ../../external/rust/crates/futures-test
+[submodule "platform/external/rust/crates/futures-util"]
+	branch = main
+	path = external/rust/crates/futures-util
+	url = ../../external/rust/crates/futures-util
 [submodule "platform/external/rust/crates/fxhash"]
 	branch = main
 	path = external/rust/crates/fxhash
 	url = ../../external/rust/crates/fxhash
+[submodule "platform/external/rust/crates/gbm"]
+	branch = main
+	path = external/rust/crates/gbm
+	url = ../../external/rust/crates/gbm
 [submodule "platform/external/rust/crates/gdbstub"]
 	branch = main
 	path = external/rust/crates/gdbstub
@@ -2169,10 +2497,26 @@
 	branch = main
 	path = external/rust/crates/gdbstub_arch
 	url = ../../external/rust/crates/gdbstub_arch
+[submodule "platform/external/rust/crates/getrandom"]
+	branch = main
+	path = external/rust/crates/getrandom
+	url = ../../external/rust/crates/getrandom
 [submodule "platform/external/rust/crates/glam"]
 	branch = main
 	path = external/rust/crates/glam
 	url = ../../external/rust/crates/glam
+[submodule "platform/external/rust/crates/glob"]
+	branch = main
+	path = external/rust/crates/glob
+	url = ../../external/rust/crates/glob
+[submodule "platform/external/rust/crates/googletest"]
+	branch = main
+	path = external/rust/crates/googletest
+	url = ../../external/rust/crates/googletest
+[submodule "platform/external/rust/crates/googletest_macro"]
+	branch = main
+	path = external/rust/crates/googletest_macro
+	url = ../../external/rust/crates/googletest_macro
 [submodule "platform/external/rust/crates/gpio-cdev"]
 	branch = main
 	path = external/rust/crates/gpio-cdev
@@ -2189,10 +2533,22 @@
 	branch = main
 	path = external/rust/crates/grpcio-sys
 	url = ../../external/rust/crates/grpcio-sys
+[submodule "platform/external/rust/crates/h2"]
+	branch = main
+	path = external/rust/crates/h2
+	url = ../../external/rust/crates/h2
 [submodule "platform/external/rust/crates/half"]
 	branch = main
 	path = external/rust/crates/half
 	url = ../../external/rust/crates/half
+[submodule "platform/external/rust/crates/hashbrown"]
+	branch = main
+	path = external/rust/crates/hashbrown
+	url = ../../external/rust/crates/hashbrown
+[submodule "platform/external/rust/crates/hashlink"]
+	branch = main
+	path = external/rust/crates/hashlink
+	url = ../../external/rust/crates/hashlink
 [submodule "platform/external/rust/crates/heck"]
 	branch = main
 	path = external/rust/crates/heck
@@ -2205,6 +2561,18 @@
 	branch = main
 	path = external/rust/crates/http
 	url = ../../external/rust/crates/http
+[submodule "platform/external/rust/crates/http-body"]
+	branch = main
+	path = external/rust/crates/http-body
+	url = ../../external/rust/crates/http-body
+[submodule "platform/external/rust/crates/httparse"]
+	branch = main
+	path = external/rust/crates/httparse
+	url = ../../external/rust/crates/httparse
+[submodule "platform/external/rust/crates/httpdate"]
+	branch = main
+	path = external/rust/crates/httpdate
+	url = ../../external/rust/crates/httpdate
 [submodule "platform/external/rust/crates/hyper"]
 	branch = main
 	path = external/rust/crates/hyper
@@ -2217,10 +2585,26 @@
 	branch = main
 	path = external/rust/crates/ident_case
 	url = ../../external/rust/crates/ident_case
+[submodule "platform/external/rust/crates/idna"]
+	branch = main
+	path = external/rust/crates/idna
+	url = ../../external/rust/crates/idna
 [submodule "platform/external/rust/crates/indexmap"]
 	branch = main
 	path = external/rust/crates/indexmap
 	url = ../../external/rust/crates/indexmap
+[submodule "platform/external/rust/crates/instant"]
+	branch = main
+	path = external/rust/crates/instant
+	url = ../../external/rust/crates/instant
+[submodule "platform/external/rust/crates/intrusive-collections"]
+	branch = main
+	path = external/rust/crates/intrusive-collections
+	url = ../../external/rust/crates/intrusive-collections
+[submodule "platform/external/rust/crates/itertools"]
+	branch = main
+	path = external/rust/crates/itertools
+	url = ../../external/rust/crates/itertools
 [submodule "platform/external/rust/crates/itoa"]
 	branch = main
 	path = external/rust/crates/itoa
@@ -2229,18 +2613,34 @@
 	branch = main
 	path = external/rust/crates/jni
 	url = ../../external/rust/crates/jni
+[submodule "platform/external/rust/crates/jni-sys"]
+	branch = main
+	path = external/rust/crates/jni-sys
+	url = ../../external/rust/crates/jni-sys
 [submodule "platform/external/rust/crates/kernlog"]
 	branch = main
 	path = external/rust/crates/kernlog
 	url = ../../external/rust/crates/kernlog
+[submodule "platform/external/rust/crates/lazy_static"]
+	branch = main
+	path = external/rust/crates/lazy_static
+	url = ../../external/rust/crates/lazy_static
 [submodule "platform/external/rust/crates/lazycell"]
 	branch = main
 	path = external/rust/crates/lazycell
 	url = ../../external/rust/crates/lazycell
+[submodule "platform/external/rust/crates/libc"]
+	branch = main
+	path = external/rust/crates/libc
+	url = ../../external/rust/crates/libc
 [submodule "platform/external/rust/crates/libfuzzer-sys"]
 	branch = main
 	path = external/rust/crates/libfuzzer-sys
 	url = ../../external/rust/crates/libfuzzer-sys
+[submodule "platform/external/rust/crates/libloading"]
+	branch = main
+	path = external/rust/crates/libloading
+	url = ../../external/rust/crates/libloading
 [submodule "platform/external/rust/crates/libm"]
 	branch = main
 	path = external/rust/crates/libm
@@ -2257,10 +2657,46 @@
 	branch = main
 	path = external/rust/crates/libz-sys
 	url = ../../external/rust/crates/libz-sys
+[submodule "platform/external/rust/crates/linked-hash-map"]
+	branch = main
+	path = external/rust/crates/linked-hash-map
+	url = ../../external/rust/crates/linked-hash-map
+[submodule "platform/external/rust/crates/linkme"]
+	branch = main
+	path = external/rust/crates/linkme
+	url = ../../external/rust/crates/linkme
 [submodule "platform/external/rust/crates/linkme-impl"]
 	branch = main
 	path = external/rust/crates/linkme-impl
 	url = ../../external/rust/crates/linkme-impl
+[submodule "platform/external/rust/crates/litrs"]
+	branch = main
+	path = external/rust/crates/litrs
+	url = ../../external/rust/crates/litrs
+[submodule "platform/external/rust/crates/lock_api"]
+	branch = main
+	path = external/rust/crates/lock_api
+	url = ../../external/rust/crates/lock_api
+[submodule "platform/external/rust/crates/log"]
+	branch = main
+	path = external/rust/crates/log
+	url = ../../external/rust/crates/log
+[submodule "platform/external/rust/crates/lru-cache"]
+	branch = main
+	path = external/rust/crates/lru-cache
+	url = ../../external/rust/crates/lru-cache
+[submodule "platform/external/rust/crates/lz4_flex"]
+	branch = main
+	path = external/rust/crates/lz4_flex
+	url = ../../external/rust/crates/lz4_flex
+[submodule "platform/external/rust/crates/macaddr"]
+	branch = main
+	path = external/rust/crates/macaddr
+	url = ../../external/rust/crates/macaddr
+[submodule "platform/external/rust/crates/managed"]
+	branch = main
+	path = external/rust/crates/managed
+	url = ../../external/rust/crates/managed
 [submodule "platform/external/rust/crates/matches"]
 	branch = main
 	path = external/rust/crates/matches
@@ -2269,10 +2705,22 @@
 	branch = main
 	path = external/rust/crates/matchit
 	url = ../../external/rust/crates/matchit
+[submodule "platform/external/rust/crates/maybe-async"]
+	branch = main
+	path = external/rust/crates/maybe-async
+	url = ../../external/rust/crates/maybe-async
+[submodule "platform/external/rust/crates/memchr"]
+	branch = main
+	path = external/rust/crates/memchr
+	url = ../../external/rust/crates/memchr
 [submodule "platform/external/rust/crates/memmap2"]
 	branch = main
 	path = external/rust/crates/memmap2
 	url = ../../external/rust/crates/memmap2
+[submodule "platform/external/rust/crates/memoffset"]
+	branch = main
+	path = external/rust/crates/memoffset
+	url = ../../external/rust/crates/memoffset
 [submodule "platform/external/rust/crates/merge"]
 	branch = main
 	path = external/rust/crates/merge
