@@ -2629,6 +2629,14 @@
 	branch = main
 	path = external/rust/crates/lazycell
 	url = ../../external/rust/crates/lazycell
+[submodule "platform/external/rust/crates/libbpf-rs"]
+	branch = main
+	path = external/rust/crates/libbpf-rs
+	url = ../../external/rust/crates/libbpf-rs
+[submodule "platform/external/rust/crates/libbpf-sys"]
+	branch = main
+	path = external/rust/crates/libbpf-sys
+	url = ../../external/rust/crates/libbpf-sys
 [submodule "platform/external/rust/crates/libc"]
 	branch = main
 	path = external/rust/crates/libc
@@ -2825,6 +2833,14 @@
 	branch = main
 	path = external/rust/crates/num_cpus
 	url = ../../external/rust/crates/num_cpus
+[submodule "platform/external/rust/crates/num_enum"]
+	branch = main
+	path = external/rust/crates/num_enum
+	url = ../../external/rust/crates/num_enum
+[submodule "platform/external/rust/crates/num_enum_derive"]
+	branch = main
+	path = external/rust/crates/num_enum_derive
+	url = ../../external/rust/crates/num_enum_derive
 [submodule "platform/external/rust/crates/octets"]
 	branch = main
 	path = external/rust/crates/octets
@@ -3457,6 +3473,10 @@
 	branch = main
 	path = external/rust/crates/vsock
 	url = ../../external/rust/crates/vsock
+[submodule "platform/external/rust/crates/vsprintf"]
+	branch = main
+	path = external/rust/crates/vsprintf
+	url = ../../external/rust/crates/vsprintf
 [submodule "platform/external/rust/crates/vulkano"]
 	branch = main
 	path = external/rust/crates/vulkano

@@ -648,6 +648,8 @@
 /external/rust/crates/kernlog pdk
 /external/rust/crates/lazy_static pdk
 /external/rust/crates/lazycell pdk
+/external/rust/crates/libbpf-rs pdk
+/external/rust/crates/libbpf-sys pdk
 /external/rust/crates/libc pdk
 /external/rust/crates/libfuzzer-sys pdk
 /external/rust/crates/libloading pdk
@@ -697,6 +699,8 @@
 /external/rust/crates/num-integer pdk
 /external/rust/crates/num-traits pdk
 /external/rust/crates/num_cpus pdk
+/external/rust/crates/num_enum pdk
+/external/rust/crates/num_enum_derive pdk
 /external/rust/crates/octets pdk
 /external/rust/crates/once_cell pdk
 /external/rust/crates/oneshot-uniffi pdk
@@ -855,6 +859,7 @@
 /external/rust/crates/vm-memory pdk
 /external/rust/crates/vmm-sys-util pdk
 /external/rust/crates/vsock pdk
+/external/rust/crates/vsprintf pdk
 /external/rust/crates/vulkano pdk
 /external/rust/crates/walkdir pdk
 /external/rust/crates/want pdk
