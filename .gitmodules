@@ -1092,6 +1092,14 @@
 	branch = main
 	path = external/gson
 	url = ../../external/gson
+[submodule "platform/external/gturri-aXMLRPC"]
+	branch = main
+	path = external/gturri-aXMLRPC
+	url = ../../external/gturri-aXMLRPC
+[submodule "platform/external/gturri-jISO8601"]
+	branch = main
+	path = external/gturri-jISO8601
+	url = ../../external/gturri-jISO8601
 [submodule "platform/external/guava"]
 	branch = main
 	path = external/guava
