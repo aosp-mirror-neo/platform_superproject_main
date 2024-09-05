@@ -264,8 +264,6 @@
 /external/grpc-grpc tradefed pdk
 /external/grpc-grpc-java tradefed pdk
 /external/gson tradefed pdk
-/external/gturri-aXMLRPC pdk-desktop
-/external/gturri-jISO8601 pdk-desktop
 /external/guava pdk
 /external/guice pdk
 /external/gwp_asan pdk
