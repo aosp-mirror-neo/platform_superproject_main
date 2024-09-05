@@ -589,10 +589,12 @@
 /external/rust/crates/enumn pdk
 /external/rust/crates/env_logger pdk
 /external/rust/crates/epoll pdk
+/external/rust/crates/equivalent pdk
 /external/rust/crates/errno pdk
 /external/rust/crates/fallible-iterator pdk
 /external/rust/crates/fallible-streaming-iterator pdk
 /external/rust/crates/fastrand pdk
+/external/rust/crates/fixedbitset pdk
 /external/rust/crates/flagset pdk
 /external/rust/crates/flate2 pdk
 /external/rust/crates/fnv pdk
@@ -630,6 +632,7 @@
 /external/rust/crates/hashlink pdk
 /external/rust/crates/heck pdk
 /external/rust/crates/hex pdk
+/external/rust/crates/hound pdk
 /external/rust/crates/http pdk
 /external/rust/crates/http-body pdk
 /external/rust/crates/httparse pdk
@@ -722,6 +725,7 @@
 /external/rust/crates/pest_derive pdk
 /external/rust/crates/pest_generator pdk
 /external/rust/crates/pest_meta pdk
+/external/rust/crates/petgraph pdk
 /external/rust/crates/pin-project pdk
 /external/rust/crates/pin-project-internal pdk
 /external/rust/crates/pin-project-lite pdk

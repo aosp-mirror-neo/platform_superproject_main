@@ -2393,6 +2393,10 @@
 	branch = main
 	path = external/rust/crates/epoll
 	url = ../../external/rust/crates/epoll
+[submodule "platform/external/rust/crates/equivalent"]
+	branch = main
+	path = external/rust/crates/equivalent
+	url = ../../external/rust/crates/equivalent
 [submodule "platform/external/rust/crates/errno"]
 	branch = main
 	path = external/rust/crates/errno
@@ -2409,6 +2413,10 @@
 	branch = main
 	path = external/rust/crates/fastrand
 	url = ../../external/rust/crates/fastrand
+[submodule "platform/external/rust/crates/fixedbitset"]
+	branch = main
+	path = external/rust/crates/fixedbitset
+	url = ../../external/rust/crates/fixedbitset
 [submodule "platform/external/rust/crates/flagset"]
 	branch = main
 	path = external/rust/crates/flagset
@@ -2557,6 +2565,10 @@
 	branch = main
 	path = external/rust/crates/hex
 	url = ../../external/rust/crates/hex
+[submodule "platform/external/rust/crates/hound"]
+	branch = main
+	path = external/rust/crates/hound
+	url = ../../external/rust/crates/hound
 [submodule "platform/external/rust/crates/http"]
 	branch = main
 	path = external/rust/crates/http
@@ -2925,6 +2937,10 @@
 	branch = main
 	path = external/rust/crates/pest_meta
 	url = ../../external/rust/crates/pest_meta
+[submodule "platform/external/rust/crates/petgraph"]
+	branch = main
+	path = external/rust/crates/petgraph
+	url = ../../external/rust/crates/petgraph
 [submodule "platform/external/rust/crates/pin-project"]
 	branch = main
 	path = external/rust/crates/pin-project
