@@ -75,11 +75,11 @@
 	branch = main
 	path = device/google/akita
 	url = ../../../device/google/akita
-[submodule "device/google/akita-kernel"]
+[submodule "device/google/akita-kernels/5.15"]
 	branch = main
 	shallow = true
-	path = device/google/akita-kernel
-	url = ../../../device/google/akita-kernel
+	path = device/google/akita-kernels/5.15
+	url = ../../../device/google/akita-kernels/5.15
 [submodule "device/google/akita-sepolicy"]
 	branch = main
 	path = device/google/akita-sepolicy
@@ -100,23 +100,15 @@
 	branch = main
 	path = device/google/bluejay
 	url = ../../../device/google/bluejay
-[submodule "device/google/bluejay-kernel"]
+[submodule "device/google/bluejay-kernels/5.10"]
 	branch = main
 	shallow = true
-	path = device/google/bluejay-kernel
-	url = ../../../device/google/bluejay-kernel
+	path = device/google/bluejay-kernels/5.10
+	url = ../../../device/google/bluejay-kernels/5.10
 [submodule "device/google/bluejay-sepolicy"]
 	branch = main
 	path = device/google/bluejay-sepolicy
 	url = ../../../device/google/bluejay-sepolicy
-[submodule "device/google/bramble"]
-	branch = main
-	path = device/google/bramble
-	url = ../../../device/google/bramble
-[submodule "device/google/bramble-sepolicy"]
-	branch = main
-	path = device/google/bramble-sepolicy
-	url = ../../../device/google/bramble-sepolicy
 [submodule "device/google/contexthub"]
 	branch = main
 	path = device/google/contexthub
@@ -152,11 +144,11 @@
 	branch = main
 	path = device/google/felix
 	url = ../../../device/google/felix
-[submodule "device/google/felix-kernel"]
+[submodule "device/google/felix-kernels/5.10"]
 	branch = main
 	shallow = true
-	path = device/google/felix-kernel
-	url = ../../../device/google/felix-kernel
+	path = device/google/felix-kernels/5.10
+	url = ../../../device/google/felix-kernels/5.10
 [submodule "device/google/felix-sepolicy"]
 	branch = main
 	path = device/google/felix-sepolicy
@@ -185,11 +177,11 @@
 	branch = main
 	path = device/google/lynx
 	url = ../../../device/google/lynx
-[submodule "device/google/lynx-kernel"]
+[submodule "device/google/lynx-kernels/5.10"]
 	branch = main
 	shallow = true
-	path = device/google/lynx-kernel
-	url = ../../../device/google/lynx-kernel
+	path = device/google/lynx-kernels/5.10
+	url = ../../../device/google/lynx-kernels/5.10
 [submodule "device/google/lynx-sepolicy"]
 	branch = main
 	path = device/google/lynx-sepolicy
@@ -198,11 +190,11 @@
 	branch = main
 	path = device/google/pantah
 	url = ../../../device/google/pantah
-[submodule "device/google/pantah-kernel"]
+[submodule "device/google/pantah-kernels/5.10"]
 	branch = main
 	shallow = true
-	path = device/google/pantah-kernel
-	url = ../../../device/google/pantah-kernel
+	path = device/google/pantah-kernels/5.10
+	url = ../../../device/google/pantah-kernels/5.10
 [submodule "device/google/pantah-sepolicy"]
 	branch = main
 	path = device/google/pantah-sepolicy
@@ -211,11 +203,11 @@
 	branch = main
 	path = device/google/raviole
 	url = ../../../device/google/raviole
-[submodule "device/google/raviole-kernel"]
+[submodule "device/google/raviole-kernels/5.10"]
 	branch = main
 	shallow = true
-	path = device/google/raviole-kernel
-	url = ../../../device/google/raviole-kernel
+	path = device/google/raviole-kernels/5.10
+	url = ../../../device/google/raviole-kernels/5.10
 [submodule "device/google/redbull"]
 	branch = main
 	path = device/google/redbull
@@ -241,11 +233,11 @@
 	branch = main
 	path = device/google/shusky
 	url = ../../../device/google/shusky
-[submodule "device/google/shusky-kernel"]
+[submodule "device/google/shusky-kernels/5.15"]
 	branch = main
 	shallow = true
-	path = device/google/shusky-kernel
-	url = ../../../device/google/shusky-kernel
+	path = device/google/shusky-kernels/5.15
+	url = ../../../device/google/shusky-kernels/5.15
 [submodule "device/google/shusky-sepolicy"]
 	branch = main
 	path = device/google/shusky-sepolicy
@@ -267,11 +259,11 @@
 	branch = main
 	path = device/google/tangorpro
 	url = ../../../device/google/tangorpro
-[submodule "device/google/tangorpro-kernel"]
+[submodule "device/google/tangorpro-kernels/5.10"]
 	branch = main
 	shallow = true
-	path = device/google/tangorpro-kernel
-	url = ../../../device/google/tangorpro-kernel
+	path = device/google/tangorpro-kernels/5.10
+	url = ../../../device/google/tangorpro-kernels/5.10
 [submodule "device/google/tangorpro-sepolicy"]
 	branch = main
 	path = device/google/tangorpro-sepolicy
@@ -491,6 +483,10 @@
 	branch = main
 	path = external/OpenCL-Headers
 	url = ../../external/OpenCL-Headers
+[submodule "platform/external/OpenCL-ICD-Loader"]
+	branch = main
+	path = external/OpenCL-ICD-Loader
+	url = ../../external/OpenCL-ICD-Loader
 [submodule "platform/external/OpenCSD"]
 	branch = main
 	path = external/OpenCSD
@@ -511,6 +507,10 @@
 	branch = main
 	path = external/abseil-cpp
 	url = ../../external/abseil-cpp
+[submodule "platform/external/accessibility-test-framework"]
+	branch = main
+	path = external/accessibility-test-framework
+	url = ../../external/accessibility-test-framework
 [submodule "platform/external/accompanist"]
 	branch = main
 	path = external/accompanist
@@ -611,6 +611,18 @@
 	branch = main
 	path = external/avb
 	url = ../../external/avb
+[submodule "platform/external/aws-crt-java"]
+	branch = main
+	path = external/aws-crt-java
+	url = ../../external/aws-crt-java
+[submodule "platform/external/aws-eventstream-java"]
+	branch = main
+	path = external/aws-eventstream-java
+	url = ../../external/aws-eventstream-java
+[submodule "platform/external/aws-sdk-java-v2"]
+	branch = main
+	path = external/aws-sdk-java-v2
+	url = ../../external/aws-sdk-java-v2
 [submodule "platform/external/bazel-skylib"]
 	branch = main
 	path = external/bazel-skylib
@@ -984,6 +996,10 @@
 	branch = main
 	path = external/golang-protobuf
 	url = ../../external/golang-protobuf
+[submodule "platform/external/google-auth-library-java"]
+	branch = main
+	path = external/google-auth-library-java
+	url = ../../external/google-auth-library-java
 [submodule "platform/external/google-benchmark"]
 	branch = main
 	path = external/google-benchmark
@@ -992,6 +1008,10 @@
 	branch = main
 	path = external/google-breakpad
 	url = ../../external/google-breakpad
+[submodule "platform/external/google-cloud-java"]
+	branch = main
+	path = external/google-cloud-java
+	url = ../../external/google-cloud-java
 [submodule "platform/external/google-fonts/arbutus-slab"]
 	branch = main
 	path = external/google-fonts/arbutus-slab
@@ -1244,6 +1264,14 @@
 	branch = main
 	path = external/jsoncpp
 	url = ../../external/jsoncpp
+[submodule "platform/external/jsoup"]
+	branch = main
+	path = external/jsoup
+	url = ../../external/jsoup
+[submodule "platform/external/jsoup-1p-stubs"]
+	branch = main
+	path = external/jsoup-1p-stubs
+	url = ../../external/jsoup-1p-stubs
 [submodule "platform/external/jsr305"]
 	branch = main
 	path = external/jsr305
@@ -3589,6 +3617,10 @@
 	branch = main
 	path = external/scudo
 	url = ../../external/scudo
+[submodule "platform/external/sdk-platform-java"]
+	branch = main
+	path = external/sdk-platform-java
+	url = ../../external/sdk-platform-java
 [submodule "platform/external/sdv/vsomeip"]
 	branch = main
 	path = external/sdv/vsomeip
@@ -3613,10 +3645,6 @@
 	branch = main
 	path = external/setupdesign
 	url = ../../external/setupdesign
-[submodule "platform/external/sfntly"]
-	branch = main
-	path = external/sfntly
-	url = ../../external/sfntly
 [submodule "platform/external/sg3_utils"]
 	branch = main
 	path = external/sg3_utils
@@ -3718,6 +3746,10 @@
 	branch = main
 	path = external/tflite-support
 	url = ../../external/tflite-support
+[submodule "platform/external/threetenbp"]
+	branch = main
+	path = external/threetenbp
+	url = ../../external/threetenbp
 [submodule "platform/external/timezone-boundary-builder"]
 	branch = main
 	shallow = true
@@ -4247,6 +4279,10 @@
 	branch = main
 	path = packages/apps/Car/Cluster
 	url = ../../packages/apps/Car/Cluster
+[submodule "platform/packages/apps/Car/DataSubscriptionReference"]
+	branch = main
+	path = packages/apps/Car/DataSubscriptionReference
+	url = ../../packages/apps/Car/DataSubscriptionReference
 [submodule "platform/packages/apps/Car/DebuggingRestrictionController"]
 	branch = main
 	path = packages/apps/Car/DebuggingRestrictionController
@@ -4287,10 +4323,10 @@
 	branch = main
 	path = packages/apps/Car/Provision
 	url = ../../packages/apps/Car/Provision
-[submodule "platform/packages/apps/Car/Radio"]
+[submodule "platform/packages/apps/Car/RadioPrebuilt"]
 	branch = main
-	path = packages/apps/Car/Radio
-	url = ../../packages/apps/Car/Radio
+	path = packages/apps/Car/RadioPrebuilt
+	url = ../../packages/apps/Car/RadioPrebuilt
 [submodule "platform/packages/apps/Car/RotaryController"]
 	branch = main
 	path = packages/apps/Car/RotaryController
