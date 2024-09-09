@@ -206,6 +206,7 @@
 /external/dynamic_depth pdk
 /external/e2fsprogs pdk
 /external/easymock pdk
+/external/edid-decode pdk
 /external/eigen pdk
 /external/elfutils pdk
 /external/emma pdk

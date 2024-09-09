@@ -860,6 +860,10 @@
 	branch = main
 	path = external/easymock
 	url = ../../external/easymock
+[submodule "platform/external/edid-decode"]
+	branch = main
+	path = external/edid-decode
+	url = ../../external/edid-decode
 [submodule "platform/external/eigen"]
 	branch = main
 	path = external/eigen
