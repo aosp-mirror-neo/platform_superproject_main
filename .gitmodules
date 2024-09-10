@@ -5133,6 +5133,10 @@
 	branch = main
 	path = sdk
 	url = ../../sdk
+[submodule "platform/system/acpi/bert_collector"]
+	branch = main
+	path = system/acpi/bert_collector
+	url = ../../system/acpi/bert_collector
 [submodule "platform/system/apex"]
 	branch = main
 	path = system/apex

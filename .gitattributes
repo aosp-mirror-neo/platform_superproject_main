@@ -1257,6 +1257,7 @@
 /prebuilts/vndk/v33 pdk
 /prebuilts/vndk/v34 pdk
 /sdk pdk-fs pdk-cw-fs
+/system/acpi/bert_collector pdk
 /system/apex pdk
 /system/authgraph pdk
 /system/bpf pdk
