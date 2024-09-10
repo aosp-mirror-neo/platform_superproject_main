@@ -5521,6 +5521,10 @@
 	branch = main
 	path = tools/test/connectivity
 	url = ../../tools/test/connectivity
+[submodule "platform/tools/test/graphicsbenchmark"]
+	branch = main
+	path = tools/test/graphicsbenchmark
+	url = ../../tools/test/graphicsbenchmark
 [submodule "platform/tools/test/mobly_extensions"]
 	branch = main
 	path = tools/test/mobly_extensions

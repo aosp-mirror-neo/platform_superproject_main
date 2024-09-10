@@ -1354,6 +1354,7 @@
 /tools/rr_prebuilt pdk
 /tools/security pdk tools
 /tools/test/connectivity pdk
+/tools/test/graphicsbenchmark pdk
 /tools/test/mobly_extensions pdk
 /tools/test/mobly_snippets pdk
 /tools/test/openhst tools
