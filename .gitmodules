@@ -4095,10 +4095,6 @@
 	branch = main
 	path = hardware/google/camera
 	url = ../../hardware/google/camera
-[submodule "platform/hardware/google/easel"]
-	branch = main
-	path = hardware/google/easel
-	url = ../../hardware/google/easel
 [submodule "platform/hardware/google/gchips"]
 	branch = main
 	path = hardware/google/gchips
