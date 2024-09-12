@@ -2313,6 +2313,10 @@
 	branch = main
 	path = external/rust/crates/coset
 	url = ../../external/rust/crates/coset
+[submodule "platform/external/rust/crates/cov-mark"]
+	branch = main
+	path = external/rust/crates/cov-mark
+	url = ../../external/rust/crates/cov-mark
 [submodule "platform/external/rust/crates/crc32fast"]
 	branch = main
 	path = external/rust/crates/crc32fast
