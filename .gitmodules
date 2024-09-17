@@ -1112,6 +1112,10 @@
 	branch = main
 	path = external/grpc-grpc-java
 	url = ../../external/grpc-grpc-java
+[submodule "platform/external/gsc-utils"]
+	branch = main
+	path = external/gsc-utils
+	url = ../../external/gsc-utils
 [submodule "platform/external/gson"]
 	branch = main
 	path = external/gson

@@ -269,6 +269,7 @@
 /external/gptfdisk pdk
 /external/grpc-grpc tradefed pdk
 /external/grpc-grpc-java tradefed pdk
+/external/gsc-utils pdk
 /external/gson tradefed pdk
 /external/gturri-aXMLRPC pdk-desktop
 /external/gturri-jISO8601 pdk-desktop
