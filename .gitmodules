@@ -55,10 +55,6 @@
 	branch = main
 	path = device/generic/mini-emulator-x86_64
 	url = ../../../device/generic/mini-emulator-x86_64
-[submodule "device/generic/opengl-transport"]
-	branch = main
-	path = device/generic/opengl-transport
-	url = ../../../device/generic/opengl-transport
 [submodule "device/generic/trusty"]
 	branch = main
 	path = device/generic/trusty
