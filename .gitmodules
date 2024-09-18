@@ -800,10 +800,6 @@
 	branch = main
 	path = external/deqp-deps/glslang
 	url = ../../external/deqp-deps/glslang
-[submodule "platform/external/desugar"]
-	branch = main
-	path = external/desugar
-	url = ../../external/desugar
 [submodule "platform/external/dexmaker"]
 	branch = main
 	path = external/dexmaker

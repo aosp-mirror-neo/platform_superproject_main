@@ -191,7 +191,6 @@
 /external/deqp-deps/SPIRV-Tools pdk-fs
 /external/deqp-deps/amber pdk-fs
 /external/deqp-deps/glslang pdk-fs
-/external/desugar pdk
 /external/dexmaker pdk
 /external/dlmalloc pdk
 /external/dng_sdk pdk
