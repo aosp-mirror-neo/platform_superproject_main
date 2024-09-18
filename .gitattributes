@@ -307,6 +307,7 @@
 /external/jline pdk-fs tradefed pdk
 /external/jsilver pdk
 /external/jsmn pdk
+/external/json-schema-validator pdk
 /external/jsoncpp pdk
 /external/jsoup pdk
 /external/jsoup-1p-stubs pdk
