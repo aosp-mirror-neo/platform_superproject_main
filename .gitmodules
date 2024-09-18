@@ -1264,10 +1264,6 @@
 	branch = main
 	path = external/jsmn
 	url = ../../external/jsmn
-[submodule "platform/external/json-schema-validator"]
-	branch = main
-	path = external/json-schema-validator
-	url = ../../external/json-schema-validator
 [submodule "platform/external/jsoncpp"]
 	branch = main
 	path = external/jsoncpp
