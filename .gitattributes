@@ -77,6 +77,7 @@
 /kernel/prebuilts/6.1/x86_64 pdk
 /kernel/prebuilts/6.6/arm64 pdk
 /kernel/prebuilts/6.6/x86_64 pdk
+/kernel/prebuilts/common-modules/trusty/6.6/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.1/arm64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.1/x86-64 pdk
 /kernel/prebuilts/common-modules/virtual-device/6.6/arm64 pdk
