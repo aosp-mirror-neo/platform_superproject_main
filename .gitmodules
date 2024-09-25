@@ -3122,10 +3122,6 @@
 	branch = main
 	path = external/rust/crates/remain
 	url = ../../external/rust/crates/remain
-[submodule "platform/external/rust/crates/remove_dir_all"]
-	branch = main
-	path = external/rust/crates/remove_dir_all
-	url = ../../external/rust/crates/remove_dir_all
 [submodule "platform/external/rust/crates/ring"]
 	branch = main
 	path = external/rust/crates/ring

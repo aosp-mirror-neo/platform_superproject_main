@@ -771,7 +771,6 @@
 /external/rust/crates/regex-automata pdk
 /external/rust/crates/regex-syntax pdk
 /external/rust/crates/remain pdk
-/external/rust/crates/remove_dir_all pdk
 /external/rust/crates/ring pdk
 /external/rust/crates/rusqlite pdk
 /external/rust/crates/rust-stemmers pdk
