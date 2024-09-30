@@ -105,6 +105,32 @@
 	branch = main
 	path = device/google/bluejay-sepolicy
 	url = ../../../device/google/bluejay-sepolicy
+[submodule "device/google/caimito"]
+	branch = main
+	path = device/google/caimito
+	url = ../../../device/google/caimito
+[submodule "device/google/caimito-kernels/6.1"]
+	branch = main
+	shallow = true
+	path = device/google/caimito-kernels/6.1
+	url = ../../../device/google/caimito-kernels/6.1
+[submodule "device/google/caimito-sepolicy"]
+	branch = main
+	path = device/google/caimito-sepolicy
+	url = ../../../device/google/caimito-sepolicy
+[submodule "device/google/comet"]
+	branch = main
+	path = device/google/comet
+	url = ../../../device/google/comet
+[submodule "device/google/comet-kernels/6.1"]
+	branch = main
+	shallow = true
+	path = device/google/comet-kernels/6.1
+	url = ../../../device/google/comet-kernels/6.1
+[submodule "device/google/comet-sepolicy"]
+	branch = main
+	path = device/google/comet-sepolicy
+	url = ../../../device/google/comet-sepolicy
 [submodule "device/google/contexthub"]
 	branch = main
 	path = device/google/contexthub
@@ -276,6 +302,14 @@
 	branch = main
 	path = device/google/zuma-sepolicy
 	url = ../../../device/google/zuma-sepolicy
+[submodule "device/google/zumapro"]
+	branch = main
+	path = device/google/zumapro
+	url = ../../../device/google/zumapro
+[submodule "device/google/zumapro-sepolicy"]
+	branch = main
+	path = device/google/zumapro-sepolicy
+	url = ../../../device/google/zumapro-sepolicy
 [submodule "device/google_car"]
 	branch = main
 	path = device/google_car
@@ -4124,6 +4158,10 @@
 	branch = main
 	path = hardware/google/graphics/zuma
 	url = ../../hardware/google/graphics/zuma
+[submodule "platform/hardware/google/graphics/zumapro"]
+	branch = main
+	path = hardware/google/graphics/zumapro
+	url = ../../hardware/google/graphics/zumapro
 [submodule "platform/hardware/google/interfaces"]
 	branch = main
 	path = hardware/google/interfaces

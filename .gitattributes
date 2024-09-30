@@ -24,6 +24,12 @@
 /device/google/bluejay bluejay device
 /device/google/bluejay-kernels/5.10 bluejay device
 /device/google/bluejay-sepolicy bluejay device
+/device/google/caimito caimito device
+/device/google/caimito-kernels/6.1 caimito device
+/device/google/caimito-sepolicy caimito device
+/device/google/comet comet device
+/device/google/comet-kernels/6.1 comet device
+/device/google/comet-sepolicy comet device
 /device/google/contexthub pdk device
 /device/google/coral generic_fs coral device
 /device/google/coral-kernel generic_fs coral device
@@ -64,6 +70,8 @@
 /device/google/trout pdk trout device gull
 /device/google/zuma pdk-gs-arm ripcurrent device
 /device/google/zuma-sepolicy pdk-gs-arm ripcurrent device
+/device/google/zumapro ripcurrentpro device
+/device/google/zumapro-sepolicy ripcurrentpro device
 /device/google_car pdk
 /device/linaro/dragonboard dragonboard pdk device
 /device/linaro/dragonboard-kernel dragonboard pdk device
@@ -1021,6 +1029,7 @@
 /hardware/google/graphics/gs101 pdk-gs-arm pdk-lassen
 /hardware/google/graphics/gs201 pdk-gs-arm cloudripper
 /hardware/google/graphics/zuma pdk-gs-arm ripcurrent
+/hardware/google/graphics/zumapro ripcurrentpro
 /hardware/google/interfaces pdk sysui-studio
 /hardware/google/pixel pdk-gs-arm generic_fs pixel
 /hardware/google/pixel-sepolicy generic_fs pixel
