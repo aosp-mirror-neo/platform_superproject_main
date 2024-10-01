@@ -1392,7 +1392,7 @@
 /external/trusty/musl trusty
 /external/trusty/arm-trusted-firmware trusty
 /external/trusty/bootloader trusty
-/trusty/host/common trusty
+/trusty/host/common pdk trusty
 /trusty/user/base trusty
 /external/trusty/lk trusty
 /trusty/hardware/nxp trusty
