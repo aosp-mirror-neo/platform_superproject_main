@@ -2124,6 +2124,34 @@
 	branch = main
 	path = external/rust/crates/acpi
 	url = ../../external/rust/crates/acpi
+[submodule "platform/external/rust/crates/ahash"]
+	branch = main
+	path = external/rust/crates/ahash
+	url = ../../external/rust/crates/ahash
+[submodule "platform/external/rust/crates/aho-corasick"]
+	branch = main
+	path = external/rust/crates/aho-corasick
+	url = ../../external/rust/crates/aho-corasick
+[submodule "platform/external/rust/crates/android_log-sys"]
+	branch = main
+	path = external/rust/crates/android_log-sys
+	url = ../../external/rust/crates/android_log-sys
+[submodule "platform/external/rust/crates/android_logger"]
+	branch = main
+	path = external/rust/crates/android_logger
+	url = ../../external/rust/crates/android_logger
+[submodule "platform/external/rust/crates/anes"]
+	branch = main
+	path = external/rust/crates/anes
+	url = ../../external/rust/crates/anes
+[submodule "platform/external/rust/crates/annotate-snippets"]
+	branch = main
+	path = external/rust/crates/annotate-snippets
+	url = ../../external/rust/crates/annotate-snippets
+[submodule "platform/external/rust/crates/anyhow"]
+	branch = main
+	path = external/rust/crates/anyhow
+	url = ../../external/rust/crates/anyhow
 [submodule "platform/external/rust/crates/arbitrary"]
 	branch = main
 	path = external/rust/crates/arbitrary
@@ -2132,14 +2160,66 @@
 	branch = main
 	path = external/rust/crates/arc-swap
 	url = ../../external/rust/crates/arc-swap
+[submodule "platform/external/rust/crates/argh"]
+	branch = main
+	path = external/rust/crates/argh
+	url = ../../external/rust/crates/argh
+[submodule "platform/external/rust/crates/argh_derive"]
+	branch = main
+	path = external/rust/crates/argh_derive
+	url = ../../external/rust/crates/argh_derive
+[submodule "platform/external/rust/crates/argh_shared"]
+	branch = main
+	path = external/rust/crates/argh_shared
+	url = ../../external/rust/crates/argh_shared
 [submodule "platform/external/rust/crates/arrayvec"]
 	branch = main
 	path = external/rust/crates/arrayvec
 	url = ../../external/rust/crates/arrayvec
+[submodule "platform/external/rust/crates/ash"]
+	branch = main
+	path = external/rust/crates/ash
+	url = ../../external/rust/crates/ash
+[submodule "platform/external/rust/crates/async-stream"]
+	branch = main
+	path = external/rust/crates/async-stream
+	url = ../../external/rust/crates/async-stream
+[submodule "platform/external/rust/crates/async-stream-impl"]
+	branch = main
+	path = external/rust/crates/async-stream-impl
+	url = ../../external/rust/crates/async-stream-impl
+[submodule "platform/external/rust/crates/async-task"]
+	branch = main
+	path = external/rust/crates/async-task
+	url = ../../external/rust/crates/async-task
+[submodule "platform/external/rust/crates/async-trait"]
+	branch = main
+	path = external/rust/crates/async-trait
+	url = ../../external/rust/crates/async-trait
+[submodule "platform/external/rust/crates/atomic"]
+	branch = main
+	path = external/rust/crates/atomic
+	url = ../../external/rust/crates/atomic
+[submodule "platform/external/rust/crates/atty"]
+	branch = main
+	path = external/rust/crates/atty
+	url = ../../external/rust/crates/atty
+[submodule "platform/external/rust/crates/axum"]
+	branch = main
+	path = external/rust/crates/axum
+	url = ../../external/rust/crates/axum
 [submodule "platform/external/rust/crates/axum-core"]
 	branch = main
 	path = external/rust/crates/axum-core
 	url = ../../external/rust/crates/axum-core
+[submodule "platform/external/rust/crates/base64"]
+	branch = main
+	path = external/rust/crates/base64
+	url = ../../external/rust/crates/base64
+[submodule "platform/external/rust/crates/bencher"]
+	branch = main
+	path = external/rust/crates/bencher
+	url = ../../external/rust/crates/bencher
 [submodule "platform/external/rust/crates/bincode"]
 	branch = main
 	path = external/rust/crates/bincode
