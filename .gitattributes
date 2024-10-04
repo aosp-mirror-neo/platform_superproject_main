@@ -1386,7 +1386,7 @@
 /trusty/user/app/storage trusty
 /trusty/device/arm/generic-arm64 trusty
 /trusty/device/arm/vexpress-a15 trusty
-/trusty/device/desktop android-desktop trusty
+/trusty/device/desktop pdk-desktop android-desktop trusty
 /trusty/device/nxp/imx7d trusty
 /trusty/device/x86/generic-x86_64 trusty
 /external/trusty/headers trusty
@@ -1398,5 +1398,5 @@
 /external/trusty/lk trusty
 /trusty/hardware/nxp trusty
 /trusty/kernel trusty
-/trusty/user/desktop android-desktop trusty
+/trusty/user/desktop pdk-desktop android-desktop trusty
 /trusty/vendor/google/aosp trusty
