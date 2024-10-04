@@ -5404,6 +5404,10 @@
 	branch = main
 	path = system/update_engine
 	url = ../../system/update_engine
+[submodule "platform/system/usb_info_tools"]
+	branch = main
+	path = system/usb_info_tools
+	url = ../../system/usb_info_tools
 [submodule "platform/system/vold"]
 	branch = main
 	path = system/vold

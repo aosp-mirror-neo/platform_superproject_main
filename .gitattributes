@@ -1324,6 +1324,7 @@
 /system/tools/xsdc pdk
 /system/unwinding pdk
 /system/update_engine pdk
+/system/usb_info_tools pdk
 /system/vold pdk
 /test/app_compat/csuite pdk
 /test/catbox
