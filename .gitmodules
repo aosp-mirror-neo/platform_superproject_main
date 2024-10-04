@@ -2484,6 +2484,10 @@
 	branch = main
 	path = external/rust/crates/errno
 	url = ../../external/rust/crates/errno
+[submodule "platform/external/rust/crates/etherparse"]
+	branch = main
+	path = external/rust/crates/etherparse
+	url = ../../external/rust/crates/etherparse
 [submodule "platform/external/rust/crates/fallible-iterator"]
 	branch = main
 	path = external/rust/crates/fallible-iterator

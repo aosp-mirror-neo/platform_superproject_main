@@ -611,6 +611,7 @@
 /external/rust/crates/epoll pdk
 /external/rust/crates/equivalent pdk
 /external/rust/crates/errno pdk
+/external/rust/crates/etherparse pdk
 /external/rust/crates/fallible-iterator pdk
 /external/rust/crates/fallible-streaming-iterator pdk
 /external/rust/crates/fastrand pdk
