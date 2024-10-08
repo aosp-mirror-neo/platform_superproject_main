@@ -533,7 +533,7 @@
 /external/rust/crates/argh pdk
 /external/rust/crates/argh_derive pdk
 /external/rust/crates/argh_shared pdk
-/external/rust/crates/arrayvec trusty
+/external/rust/crates/arrayvec pdk trusty
 /external/rust/crates/ash pdk
 /external/rust/crates/async-stream pdk
 /external/rust/crates/async-stream-impl pdk
@@ -691,7 +691,7 @@
 /external/rust/crates/lz4_flex pdk
 /external/rust/crates/macaddr pdk
 /external/rust/crates/managed pdk
-/external/rust/crates/matches trusty
+/external/rust/crates/matches pdk trusty
 /external/rust/crates/matchit pdk
 /external/rust/crates/maybe-async pdk
 /external/rust/crates/memchr pdk
