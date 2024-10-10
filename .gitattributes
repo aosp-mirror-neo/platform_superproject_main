@@ -873,6 +873,7 @@
 /external/rust/crates/userfaultfd-sys pdk
 /external/rust/crates/utf-8 pdk
 /external/rust/crates/uuid pdk
+/external/rust/crates/v4l2r pdk
 /external/rust/crates/vhost pdk
 /external/rust/crates/vhost-device-vsock pdk
 /external/rust/crates/vhost-user-backend pdk

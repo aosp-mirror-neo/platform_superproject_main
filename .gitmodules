@@ -3532,6 +3532,10 @@
 	branch = main
 	path = external/rust/crates/uuid
 	url = ../../external/rust/crates/uuid
+[submodule "platform/external/rust/crates/v4l2r"]
+	branch = main
+	path = external/rust/crates/v4l2r
+	url = ../../external/rust/crates/v4l2r
 [submodule "platform/external/rust/crates/vhost"]
 	branch = main
 	path = external/rust/crates/vhost
