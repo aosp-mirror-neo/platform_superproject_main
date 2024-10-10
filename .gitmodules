@@ -4430,6 +4430,10 @@
 	branch = main
 	path = packages/apps/DevCamera
 	url = ../../packages/apps/DevCamera
+[submodule "platform/packages/apps/DeviceDiagnostics"]
+	branch = main
+	path = packages/apps/DeviceDiagnostics
+	url = ../../packages/apps/DeviceDiagnostics
 [submodule "platform/packages/apps/Dialer"]
 	branch = main
 	path = packages/apps/Dialer

@@ -1097,6 +1097,7 @@
 /packages/apps/Contacts pdk-fs
 /packages/apps/DeskClock pdk-fs
 /packages/apps/DevCamera pdk
+/packages/apps/DeviceDiagnostics pdk
 /packages/apps/Dialer pdk-fs
 /packages/apps/DocumentsUI pdk-fs pdk-cw-fs
 /packages/apps/EmergencyInfo pdk-fs
