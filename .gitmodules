@@ -2060,6 +2060,10 @@
 	branch = main
 	path = external/python/uritemplates
 	url = ../../external/python/uritemplates
+[submodule "platform/external/python/watchdog"]
+	branch = main
+	path = external/python/watchdog
+	url = ../../external/python/watchdog
 [submodule "platform/external/rappor"]
 	branch = main
 	path = external/rappor
