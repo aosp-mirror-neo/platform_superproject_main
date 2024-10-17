@@ -1379,6 +1379,7 @@
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
 /toolchain/pgo-profiles pdk
 /tools/platform-compat pdk-fs pdk-cw-fs pdk sysui-studio
+/trusty/user/app/authmgr trusty
 /trusty/user/app/avb trusty
 /trusty/user/app/cast-auth trusty
 /trusty/user/app/confirmationui trusty

@@ -5626,6 +5626,10 @@
 	branch = main
 	path = tools/platform-compat
 	url = ../../../tools/platform-compat
+[submodule "trusty/app/authmgr"]
+	branch = main
+	path = trusty/user/app/authmgr
+	url = ../../../trusty/app/authmgr
 [submodule "trusty/app/avb"]
 	branch = main
 	path = trusty/user/app/avb
