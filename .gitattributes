@@ -961,6 +961,7 @@
 /external/v4l2_codec2 pdk
 /external/vboot_reference pdk
 /external/virglrenderer pdk
+/external/virtio-media pdk
 /external/vixl pdk
 /external/vogar pdk
 /external/volley pdk

@@ -3886,6 +3886,10 @@
 	branch = main
 	path = external/virglrenderer
 	url = ../../external/virglrenderer
+[submodule "platform/external/virtio-media"]
+	branch = main
+	path = external/virtio-media
+	url = ../../external/virtio-media
 [submodule "platform/external/vixl"]
 	branch = main
 	path = external/vixl
