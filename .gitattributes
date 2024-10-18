@@ -371,6 +371,7 @@
 /external/libnfnetlink pdk
 /external/libnl pdk
 /external/libogg pdk
+/external/libopenapv pdk
 /external/libopus pdk
 /external/libpalmrejection pdk
 /external/libpcap pdk

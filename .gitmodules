@@ -1523,6 +1523,10 @@
 	branch = main
 	path = external/libogg
 	url = ../../external/libogg
+[submodule "platform/external/libopenapv"]
+	branch = main
+	path = external/libopenapv
+	url = ../../external/libopenapv
 [submodule "platform/external/libopus"]
 	branch = main
 	path = external/libopus
