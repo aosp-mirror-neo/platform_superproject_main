@@ -3396,6 +3396,10 @@
 	branch = main
 	path = external/rust/crates/tokio-macros
 	url = ../../external/rust/crates/tokio-macros
+[submodule "platform/external/rust/crates/tokio-openssl"]
+	branch = main
+	path = external/rust/crates/tokio-openssl
+	url = ../../external/rust/crates/tokio-openssl
 [submodule "platform/external/rust/crates/tokio-stream"]
 	branch = main
 	path = external/rust/crates/tokio-stream

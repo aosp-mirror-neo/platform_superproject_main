@@ -839,6 +839,7 @@
 /external/rust/crates/tokio pdk
 /external/rust/crates/tokio-io-timeout pdk
 /external/rust/crates/tokio-macros pdk
+/external/rust/crates/tokio-openssl pdk
 /external/rust/crates/tokio-stream pdk
 /external/rust/crates/tokio-test pdk
 /external/rust/crates/tokio-util pdk
