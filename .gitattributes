@@ -319,6 +319,7 @@
 /external/jsoncpp pdk
 /external/jsoup pdk
 /external/jsoup-1p-stubs pdk
+/external/jspecify pdk
 /external/jsr305 pdk
 /external/jsr330 pdk
 /external/junit pdk
