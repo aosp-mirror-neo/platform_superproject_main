@@ -1311,10 +1311,6 @@
 	branch = main
 	path = external/jsoup
 	url = ../../external/jsoup
-[submodule "platform/external/jsoup-1p-stubs"]
-	branch = main
-	path = external/jsoup-1p-stubs
-	url = ../../external/jsoup-1p-stubs
 [submodule "platform/external/jspecify"]
 	branch = main
 	path = external/jspecify
