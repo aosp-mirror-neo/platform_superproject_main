@@ -1623,6 +1623,10 @@
 	branch = main
 	path = external/licenseclassifier
 	url = ../../external/licenseclassifier
+[submodule "platform/external/linux-firmware"]
+	branch = main
+	path = external/linux-firmware
+	url = ../../external/linux-firmware
 [submodule "platform/external/linux-kselftest"]
 	branch = main
 	shallow = true
