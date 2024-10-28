@@ -1314,6 +1314,7 @@
 /system/memory/libmemtrack pdk
 /system/memory/libmemunreachable pdk
 /system/memory/lmkd pdk
+/system/memory/mmd pdk
 /system/netd pdk
 /system/nfc pdk
 /system/nvram pdk

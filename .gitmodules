@@ -5364,6 +5364,10 @@
 	branch = main
 	path = system/memory/lmkd
 	url = ../../system/memory/lmkd
+[submodule "platform/system/memory/mmd"]
+	branch = main
+	path = system/memory/mmd
+	url = ../../system/memory/mmd
 [submodule "platform/system/netd"]
 	branch = main
 	path = system/netd
