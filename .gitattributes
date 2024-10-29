@@ -508,6 +508,7 @@
 /external/python/typing_extensions pdk
 /external/python/uritemplates vts pdk
 /external/python/watchdog pdk
+/external/pytorch pdk
 /external/rappor pdk
 /external/regex-re2 pdk
 /external/renderscript-intrinsics-replacement-toolkit pdk sysui-studio
