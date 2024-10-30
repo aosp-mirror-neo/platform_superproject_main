@@ -760,6 +760,7 @@
 /external/rust/crates/plotters pdk
 /external/rust/crates/plotters-backend pdk
 /external/rust/crates/plotters-svg pdk
+/external/rust/crates/poll_token_derive pdk
 /external/rust/crates/ppv-lite86 pdk
 /external/rust/crates/predicates pdk
 /external/rust/crates/predicates-core pdk

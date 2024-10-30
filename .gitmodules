@@ -3080,6 +3080,10 @@
 	branch = main
 	path = external/rust/crates/plotters-svg
 	url = ../../external/rust/crates/plotters-svg
+[submodule "platform/external/rust/crates/poll_token_derive"]
+	branch = main
+	path = external/rust/crates/poll_token_derive
+	url = ../../external/rust/crates/poll_token_derive
 [submodule "platform/external/rust/crates/ppv-lite86"]
 	branch = main
 	path = external/rust/crates/ppv-lite86
