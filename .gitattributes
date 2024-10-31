@@ -325,6 +325,7 @@
 /external/junit-params pdk
 /external/kernel-headers pdk
 /external/kmod pdk
+/external/kotlin-compose-compiler pdk
 /external/kotlinc pdk
 /external/kotlinpoet pdk
 /external/kotlinx.atomicfu pdk
