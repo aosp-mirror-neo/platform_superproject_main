@@ -221,6 +221,7 @@
 /external/error_prone pdk
 /external/escapevelocity pdk
 /external/ethtool pdk
+/external/executorch pdk
 /external/exfatprogs pdk
 /external/exoplayer pdk
 /external/expat pdk

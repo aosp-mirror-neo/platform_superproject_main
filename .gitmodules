@@ -923,6 +923,10 @@
 	branch = main
 	path = external/ethtool
 	url = ../../external/ethtool
+[submodule "platform/external/executorch"]
+	branch = main
+	path = external/executorch
+	url = ../../external/executorch
 [submodule "platform/external/exfatprogs"]
 	branch = main
 	path = external/exfatprogs
