@@ -1328,29 +1328,29 @@
 /tools/trebuchet pdk-fs cts pdk-cw-fs pdk tools
 /toolchain/pgo-profiles pdk
 /tools/platform-compat pdk-fs pdk-cw-fs pdk sysui-studio
-/trusty/user/app/authmgr trusty
-/trusty/user/app/avb trusty
-/trusty/user/app/cast-auth trusty
-/trusty/user/app/confirmationui trusty
-/trusty/user/app/gatekeeper trusty
-/trusty/user/app/keymaster trusty
-/trusty/user/app/keymint trusty
-/trusty/user/app/sample trusty
-/trusty/user/app/secretkeeper trusty
-/trusty/user/app/storage trusty
-/trusty/device/arm/generic-arm64 trusty
-/trusty/device/arm/vexpress-a15 trusty
+/trusty/user/app/authmgr pdk trusty
+/trusty/user/app/avb pdk trusty
+/trusty/user/app/cast-auth pdk trusty
+/trusty/user/app/confirmationui pdk trusty
+/trusty/user/app/gatekeeper pdk trusty
+/trusty/user/app/keymaster pdk trusty
+/trusty/user/app/keymint pdk trusty
+/trusty/user/app/sample pdk trusty
+/trusty/user/app/secretkeeper pdk trusty
+/trusty/user/app/storage pdk trusty
+/trusty/device/arm/generic-arm64 pdk trusty
+/trusty/device/arm/vexpress-a15 pdk trusty
 /trusty/device/desktop pdk-desktop android-desktop trusty
-/trusty/device/nxp/imx7d trusty
-/trusty/device/x86/generic-x86_64 trusty
-/external/trusty/headers trusty
-/external/trusty/musl trusty
-/external/trusty/arm-trusted-firmware trusty
-/external/trusty/bootloader trusty
+/trusty/device/nxp/imx7d pdk trusty
+/trusty/device/x86/generic-x86_64 pdk trusty
+/external/trusty/headers pdk trusty
+/external/trusty/musl pdk trusty
+/external/trusty/arm-trusted-firmware pdk trusty
+/external/trusty/bootloader pdk trusty
 /trusty/host/common pdk trusty
-/trusty/user/base trusty
-/external/trusty/lk trusty
-/trusty/hardware/nxp trusty
-/trusty/kernel trusty
+/trusty/user/base pdk trusty
+/external/trusty/lk pdk trusty
+/trusty/hardware/nxp pdk trusty
+/trusty/kernel pdk trusty
 /trusty/user/desktop pdk-desktop android-desktop trusty
-/trusty/vendor/google/aosp trusty
+/trusty/vendor/google/aosp pdk trusty
