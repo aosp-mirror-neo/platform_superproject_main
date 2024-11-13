@@ -3235,6 +3235,10 @@
 	branch = main
 	path = packages/modules/NeuralNetworks
 	url = ../../packages/modules/NeuralNetworks
+[submodule "platform/packages/modules/Nfc"]
+	branch = main
+	path = packages/modules/Nfc
+	url = ../../packages/modules/Nfc
 [submodule "platform/packages/modules/OnDevicePersonalization"]
 	branch = main
 	path = packages/modules/OnDevicePersonalization
@@ -3603,6 +3607,11 @@
 	shallow = true
 	path = prebuilts/module_sdk/MediaProvider
 	url = ../../prebuilts/module_sdk/MediaProvider
+[submodule "platform/prebuilts/module_sdk/Nfc"]
+	branch = main
+	shallow = true
+	path = prebuilts/module_sdk/Nfc
+	url = ../../prebuilts/module_sdk/Nfc
 [submodule "platform/prebuilts/module_sdk/OnDevicePersonalization"]
 	branch = main
 	shallow = true

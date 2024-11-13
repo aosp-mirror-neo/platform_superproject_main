@@ -798,6 +798,7 @@
 /packages/modules/ModuleMetadata pdk
 /packages/modules/NetworkStack pdk-fs pdk-cw-fs
 /packages/modules/NeuralNetworks pdk-fs pdk-cw-fs
+/packages/modules/Nfc pdk-fs pdk-cw-fs
 /packages/modules/OnDevicePersonalization pdk-fs pdk-cw-fs
 /packages/modules/Permission pdk-fs pdk-cw-fs
 /packages/modules/Profiling pdk
@@ -880,6 +881,7 @@
 /prebuilts/module_sdk/IPsec pdk
 /prebuilts/module_sdk/Media pdk
 /prebuilts/module_sdk/MediaProvider pdk
+/prebuilts/module_sdk/Nfc pdk
 /prebuilts/module_sdk/OnDevicePersonalization pdk
 /prebuilts/module_sdk/Permission pdk
 /prebuilts/module_sdk/Profiling pdk
