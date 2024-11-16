@@ -535,6 +535,11 @@
 /external/rust/crates/quiche pdk
 /external/rust/crates/ring pdk
 /external/rust/crates/tinyjson pdk
+/external/rust/crates/ucs2 pdk
+/external/rust/crates/uefi pdk
+/external/rust/crates/uefi-macros pdk
+/external/rust/crates/uefi-raw pdk
+/external/rust/crates/uguid pdk
 /external/rust/crates/v4l2r pdk
 /external/rust/crates/vhost-device-vsock pdk
 /external/rust/cxx pdk
