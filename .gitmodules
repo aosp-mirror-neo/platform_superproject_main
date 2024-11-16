@@ -2184,6 +2184,18 @@
 	branch = main
 	path = external/rust/crates/ucs2
 	url = ../../external/rust/crates/ucs2
+[submodule "platform/external/rust/crates/uefi"]
+	branch = main
+	path = external/rust/crates/uefi
+	url = ../../external/rust/crates/uefi
+[submodule "platform/external/rust/crates/uefi-macros"]
+	branch = main
+	path = external/rust/crates/uefi-macros
+	url = ../../external/rust/crates/uefi-macros
+[submodule "platform/external/rust/crates/uefi-raw"]
+	branch = main
+	path = external/rust/crates/uefi-raw
+	url = ../../external/rust/crates/uefi-raw
 [submodule "platform/external/rust/crates/uguid"]
 	branch = main
 	path = external/rust/crates/uguid
