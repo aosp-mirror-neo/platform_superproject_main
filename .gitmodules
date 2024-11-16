@@ -2164,6 +2164,10 @@
 	branch = main
 	path = external/rust/crates/ptr_meta
 	url = ../../external/rust/crates/ptr_meta
+[submodule "platform/external/rust/crates/ptr_meta_derive"]
+	branch = main
+	path = external/rust/crates/ptr_meta_derive
+	url = ../../external/rust/crates/ptr_meta_derive
 [submodule "platform/external/rust/crates/quiche"]
 	branch = main
 	path = external/rust/crates/quiche
