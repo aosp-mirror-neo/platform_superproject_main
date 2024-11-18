@@ -528,6 +528,7 @@
 /external/rust/crates/clap pdk
 /external/rust/crates/libbpf-sys pdk
 /external/rust/crates/libsqlite3-sys pdk
+/external/rust/crates/libusb1-sys pdk
 /external/rust/crates/mls-rs-uniffi pdk
 /external/rust/crates/openssl pdk
 /external/rust/crates/ptr_meta pdk
