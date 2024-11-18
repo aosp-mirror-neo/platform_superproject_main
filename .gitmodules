@@ -2152,10 +2152,6 @@
 	branch = main
 	path = external/rust/crates/libsqlite3-sys
 	url = ../../external/rust/crates/libsqlite3-sys
-[submodule "platform/external/rust/crates/libusb1-sys"]
-	branch = main
-	path = external/rust/crates/libusb1-sys
-	url = ../../external/rust/crates/libusb1-sys
 [submodule "platform/external/rust/crates/mls-rs-uniffi"]
 	branch = main
 	path = external/rust/crates/mls-rs-uniffi
