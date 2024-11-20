@@ -525,15 +525,11 @@
 /external/rust/autocxx pdk
 /external/rust/beto-rust pdk
 /external/rust/crabbyavif pdk
-/external/rust/crates/clap pdk
-/external/rust/crates/libbpf-sys pdk
 /external/rust/crates/libsqlite3-sys pdk
-/external/rust/crates/mls-rs-uniffi pdk
 /external/rust/crates/openssl pdk
 /external/rust/crates/ptr_meta pdk
 /external/rust/crates/ptr_meta_derive pdk
 /external/rust/crates/quiche pdk
-/external/rust/crates/ring pdk
 /external/rust/crates/ucs2 pdk
 /external/rust/crates/uefi pdk
 /external/rust/crates/uefi-macros pdk

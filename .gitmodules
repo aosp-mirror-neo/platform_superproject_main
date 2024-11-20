@@ -2140,22 +2140,10 @@
 	branch = main
 	path = external/rust/crabbyavif
 	url = ../../external/rust/crabbyavif
-[submodule "platform/external/rust/crates/clap"]
-	branch = main
-	path = external/rust/crates/clap
-	url = ../../external/rust/crates/clap
-[submodule "platform/external/rust/crates/libbpf-sys"]
-	branch = main
-	path = external/rust/crates/libbpf-sys
-	url = ../../external/rust/crates/libbpf-sys
 [submodule "platform/external/rust/crates/libsqlite3-sys"]
 	branch = main
 	path = external/rust/crates/libsqlite3-sys
 	url = ../../external/rust/crates/libsqlite3-sys
-[submodule "platform/external/rust/crates/mls-rs-uniffi"]
-	branch = main
-	path = external/rust/crates/mls-rs-uniffi
-	url = ../../external/rust/crates/mls-rs-uniffi
 [submodule "platform/external/rust/crates/openssl"]
 	branch = main
 	path = external/rust/crates/openssl
@@ -2172,10 +2160,6 @@
 	branch = main
 	path = external/rust/crates/quiche
 	url = ../../external/rust/crates/quiche
-[submodule "platform/external/rust/crates/ring"]
-	branch = main
-	path = external/rust/crates/ring
-	url = ../../external/rust/crates/ring
 [submodule "platform/external/rust/crates/ucs2"]
 	branch = main
 	path = external/rust/crates/ucs2
