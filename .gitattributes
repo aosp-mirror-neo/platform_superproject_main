@@ -526,6 +526,7 @@
 /external/rust/beto-rust pdk
 /external/rust/crabbyavif pdk
 /external/rust/crates/libsqlite3-sys pdk
+/external/rust/crates/libusb1-sys pdk
 /external/rust/crates/openssl pdk
 /external/rust/crates/ptr_meta pdk
 /external/rust/crates/ptr_meta_derive pdk
