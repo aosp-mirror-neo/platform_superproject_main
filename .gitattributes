@@ -296,7 +296,6 @@
 /external/intel-media-driver pdk
 /external/iperf3 pdk
 /external/iproute2 pdk
-/external/ipsec-tools pdk
 /external/iptables pdk
 /external/iputils pdk
 /external/iw pdk

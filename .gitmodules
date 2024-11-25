@@ -1223,10 +1223,6 @@
 	branch = main
 	path = external/iproute2
 	url = ../../external/iproute2
-[submodule "platform/external/ipsec-tools"]
-	branch = main
-	path = external/ipsec-tools
-	url = ../../external/ipsec-tools
 [submodule "platform/external/iptables"]
 	branch = main
 	path = external/iptables
