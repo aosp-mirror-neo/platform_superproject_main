@@ -2164,6 +2164,10 @@
 	branch = main
 	path = external/rust/crates/quiche
 	url = ../../external/rust/crates/quiche
+[submodule "platform/external/rust/crates/rusb"]
+	branch = main
+	path = external/rust/crates/rusb
+	url = ../../external/rust/crates/rusb
 [submodule "platform/external/rust/crates/ucs2"]
 	branch = main
 	path = external/rust/crates/ucs2

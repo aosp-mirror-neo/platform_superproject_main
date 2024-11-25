@@ -531,6 +531,7 @@
 /external/rust/crates/ptr_meta pdk
 /external/rust/crates/ptr_meta_derive pdk
 /external/rust/crates/quiche pdk
+/external/rust/crates/rusb pdk
 /external/rust/crates/ucs2 pdk
 /external/rust/crates/uefi pdk
 /external/rust/crates/uefi-macros pdk
