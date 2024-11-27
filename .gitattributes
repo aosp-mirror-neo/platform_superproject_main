@@ -905,7 +905,6 @@
 /prebuilts/rust pdk
 /prebuilts/sdk pdk sysui-studio
 /prebuilts/tools pdk sysui-studio tools
-/prebuilts/vndk/v29 pdk
 /prebuilts/vndk/v30 pdk
 /prebuilts/vndk/v31 pdk
 /prebuilts/vndk/v32 pdk
