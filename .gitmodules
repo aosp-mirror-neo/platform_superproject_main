@@ -2136,6 +2136,14 @@
 	branch = main
 	path = external/rust/crabbyavif
 	url = ../../external/rust/crabbyavif
+[submodule "platform/external/rust/crates/inotify"]
+	branch = main
+	path = external/rust/crates/inotify
+	url = ../../external/rust/crates/inotify
+[submodule "platform/external/rust/crates/inotify-sys"]
+	branch = main
+	path = external/rust/crates/inotify-sys
+	url = ../../external/rust/crates/inotify-sys
 [submodule "platform/external/rust/crates/libsqlite3-sys"]
 	branch = main
 	path = external/rust/crates/libsqlite3-sys
@@ -2144,6 +2152,10 @@
 	branch = main
 	path = external/rust/crates/libusb1-sys
 	url = ../../external/rust/crates/libusb1-sys
+[submodule "platform/external/rust/crates/maplit"]
+	branch = main
+	path = external/rust/crates/maplit
+	url = ../../external/rust/crates/maplit
 [submodule "platform/external/rust/crates/openssl"]
 	branch = main
 	path = external/rust/crates/openssl
