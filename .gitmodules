@@ -947,6 +947,10 @@
 	branch = main
 	path = external/fastrpc
 	url = ../../external/fastrpc
+[submodule "platform/external/fbjni"]
+	branch = main
+	path = external/fbjni
+	url = ../../external/fbjni
 [submodule "platform/external/fdlibm"]
 	branch = main
 	path = external/fdlibm

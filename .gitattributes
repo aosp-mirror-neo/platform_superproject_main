@@ -227,6 +227,7 @@
 /external/expat pdk
 /external/f2fs-tools pdk
 /external/fastrpc pdk
+/external/fbjni pdk
 /external/fdlibm pdk
 /external/fec pdk
 /external/federated-compute pdk
