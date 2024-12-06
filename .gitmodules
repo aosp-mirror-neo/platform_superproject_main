@@ -2208,6 +2208,10 @@
 	branch = main
 	path = external/rust/crates/vhost-device-vsock
 	url = ../../external/rust/crates/vhost-device-vsock
+[submodule "platform/external/rust/cros-libva"]
+	branch = main
+	path = external/rust/cros-libva
+	url = ../../external/rust/cros-libva
 [submodule "platform/external/rust/cxx"]
 	branch = main
 	path = external/rust/cxx

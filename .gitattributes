@@ -542,6 +542,7 @@
 /external/rust/crates/uguid pdk
 /external/rust/crates/v4l2r pdk
 /external/rust/crates/vhost-device-vsock pdk
+/external/rust/cros-libva pdk
 /external/rust/cxx pdk
 /external/rust/pica pdk
 /external/ruy pdk
