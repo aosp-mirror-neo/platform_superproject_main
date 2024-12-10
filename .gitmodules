@@ -1447,6 +1447,10 @@
 	branch = main
 	path = external/libdav1d
 	url = ../../external/libdav1d
+[submodule "platform/external/libdisplay-info"]
+	branch = main
+	path = external/libdisplay-info
+	url = ../../external/libdisplay-info
 [submodule "platform/external/libdivsufsort"]
 	branch = main
 	path = external/libdivsufsort
