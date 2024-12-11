@@ -1599,6 +1599,10 @@
 	branch = main
 	path = external/libva
 	url = ../../external/libva
+[submodule "platform/external/libva-utils"]
+	branch = main
+	path = external/libva-utils
+	url = ../../external/libva-utils
 [submodule "platform/external/libvpx"]
 	branch = main
 	path = external/libvpx

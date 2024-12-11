@@ -390,6 +390,7 @@
 /external/libusb pdk
 /external/libutf pdk
 /external/libva pdk
+/external/libva-utils pdk
 /external/libvpx pdk
 /external/libwebm pdk
 /external/libwebsockets pdk
