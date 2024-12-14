@@ -17,12 +17,12 @@
 /device/generic/x86_64 pdk
 /device/google/akita akita device
 /device/google/akita-kernels/5.15 akita device
+/device/google/akita-kernels/6.1 akita device
 /device/google/akita-sepolicy akita device
 /device/google/atv broadcom_pdk generic_fs pdk device
-/device/google/barbet barbet device
-/device/google/barbet-sepolicy barbet device
 /device/google/bluejay bluejay device
 /device/google/bluejay-kernels/5.10 bluejay device
+/device/google/bluejay-kernels/6.1 bluejay device
 /device/google/bluejay-sepolicy bluejay device
 /device/google/caimito caimito device
 /device/google/caimito-kernels/6.1 caimito device
@@ -31,43 +31,38 @@
 /device/google/comet-kernels/6.1 comet device
 /device/google/comet-sepolicy comet device
 /device/google/contexthub pdk device
-/device/google/coral generic_fs coral device
-/device/google/coral-kernel generic_fs coral device
-/device/google/coral-sepolicy generic_fs coral device
 /device/google/cuttlefish pdk device
 /device/google/cuttlefish_prebuilts pdk device
 /device/google/cuttlefish_vmm pdk device
 /device/google/felix felix device
 /device/google/felix-kernels/5.10 felix device
+/device/google/felix-kernels/6.1 felix device
 /device/google/felix-sepolicy felix device
-/device/google/gs-common slider pdk-gs-arm bluejay device cloudripper
+/device/google/gs-common slider pdk-gs-arm bluejay pdk-cw-tvc device cloudripper
 /device/google/gs101 slider pdk-gs-arm bluejay device
 /device/google/gs101-sepolicy slider pdk-gs-arm bluejay device
 /device/google/gs201 pdk-gs-arm device cloudripper
 /device/google/gs201-sepolicy pdk-gs-arm device cloudripper
 /device/google/lynx lynx device
 /device/google/lynx-kernels/5.10 lynx device
+/device/google/lynx-kernels/6.1 lynx device
 /device/google/lynx-sepolicy lynx device
 /device/google/pantah pdk-gs-arm device cloudripper
 /device/google/pantah-kernels/5.10 pdk-gs-arm device cloudripper
+/device/google/pantah-kernels/6.1 device cloudripper
 /device/google/pantah-sepolicy pdk-gs-arm device cloudripper
 /device/google/raviole slider pdk-gs-arm device
 /device/google/raviole-kernels/5.10 slider pdk-gs-arm device
-/device/google/redbull redbull device
-/device/google/redbull-kernel bramble redfin device
-/device/google/redbull-sepolicy redbull device
-/device/google/redfin redfin device
-/device/google/redfin-sepolicy redfin device
+/device/google/raviole-kernels/6.1 slider device
 /device/google/shusky pdk-gs-arm ripcurrent device
 /device/google/shusky-kernels/5.15 pdk-gs-arm ripcurrent device
+/device/google/shusky-kernels/6.1 ripcurrent device
 /device/google/shusky-sepolicy pdk-gs-arm ripcurrent device
-/device/google/sunfish sunfish device
-/device/google/sunfish-kernel sunfish device
-/device/google/sunfish-sepolicy sunfish device
 /device/google/tangorpro tangorpro device
 /device/google/tangorpro-kernels/5.10 tangorpro device
+/device/google/tangorpro-kernels/6.1 tangorpro device
 /device/google/tangorpro-sepolicy tangorpro device
-/device/google/trout pdk trout device gull
+/device/google/trout pdk device
 /device/google/zuma pdk-gs-arm ripcurrent device
 /device/google/zuma-sepolicy pdk-gs-arm ripcurrent device
 /device/google/zumapro ripcurrentpro device
@@ -99,19 +94,19 @@
 /bionic pdk
 /bootable/libbootloader vts pdk
 /bootable/recovery pdk
-/build/make pdk
+/build/make pdk sysui-studio
 /build/bazel pdk
 /build/bazel_common_rules pdk
 /build/blueprint tradefed pdk
 /build/pesto pdk
-/build/release tradefed pdk
+/build/release tradefed pdk sysui-studio
 /build/soong tradefed pdk
 /cts pdk-fs cts pdk-cw-fs
 /dalvik pdk-fs pdk-cw-fs
 /developers/build developers pdk
 /developers/demos developers
 /developers/samples/android developers
-/development pdk-fs pdk-cw-fs developers
+/development pdk-fs pdk-cw-fs developers sysui-studio
 /external/AFLplusplus pdk
 /external/ComputeLibrary pdk-gs-arm pdk-lassen
 /external/FP16 pdk
@@ -184,10 +179,12 @@
 /external/chromium-webview pdk
 /external/clang pdk
 /external/cldr pdk
+/external/clpeak
 /external/cn-cbor pdk
 /external/compiler-rt pdk
 /external/connectedappssdk pdk
 /external/conscrypt pdk
+/external/coreboot pdk
 /external/cpu_features pdk
 /external/cpuinfo pdk
 /external/crcalc pdk
@@ -216,6 +213,7 @@
 /external/edid-decode pdk
 /external/eigen pdk
 /external/elfutils pdk
+/external/emboss pdk
 /external/emma pdk
 /external/erofs-utils pdk
 /external/error_prone pdk
@@ -287,7 +285,6 @@
 /external/gwp_asan pdk
 /external/hamcrest pdk
 /external/harfbuzz_ng pdk qcom_msm8x26
-/external/horologist pdk
 /external/hyphenation-patterns pdk
 /external/icing pdk
 /external/icu pdk
@@ -675,7 +672,6 @@
 /hardware/google/pixel-sepolicy generic_fs pixel
 /hardware/interfaces pdk sysui-studio
 /hardware/invensense invensense pdk
-/hardware/knowles/athletico/sound_trigger_hal generic_fs coral
 /hardware/libhardware pdk
 /hardware/libhardware_legacy pdk
 /hardware/nxp/keymint pdk
@@ -683,18 +679,6 @@
 /hardware/nxp/secure_element pdk
 /hardware/nxp/uwb
 /hardware/nxp/weaver pdk
-/hardware/qcom/bootctrl pdk-qcom
-/hardware/qcom/sm7150/gps qcom_sm7150
-/hardware/qcom/sm7250/display qcom_sm7250
-/hardware/qcom/sm7250/gps qcom_sm7250
-/hardware/qcom/sm7250/media qcom_sm7250
-/hardware/qcom/sm8150/data/ipacfg-mgr qcom_sm8150
-/hardware/qcom/sm8150/display qcom_sm8150
-/hardware/qcom/sm8150/gps qcom_sm8150
-/hardware/qcom/sm8150/media qcom_sm8150
-/hardware/qcom/sm8150/thermal qcom_sm8150
-/hardware/qcom/sm8150/vr qcom_sm8150
-/hardware/qcom/sm8150p/gps qcom_sm8150p
 /hardware/qcom/wlan qcom_wlan pdk-qcom
 /hardware/ril pdk
 /hardware/samsung/nfc pdk
@@ -723,12 +707,13 @@
 /packages/apps/Car/Notification pdk-fs
 /packages/apps/Car/Provision pdk-fs
 /packages/apps/Car/RadioPrebuilt pdk-fs
+/packages/apps/Car/References pdk-fs
 /packages/apps/Car/RotaryController pdk-fs
 /packages/apps/Car/Settings pdk-fs
 /packages/apps/Car/SettingsIntelligence pdk-fs
 /packages/apps/Car/SystemUI pdk-fs
 /packages/apps/Car/SystemUpdater pdk-fs
-/packages/apps/Car/systemlibs pdk-fs
+/packages/apps/Car/systemlibs pdk-fs pdk-cw-tvc
 /packages/apps/CarrierConfig pdk-fs pdk-cw-fs
 /packages/apps/CellBroadcastReceiver pdk-fs pdk-cw-fs
 /packages/apps/CertInstaller pdk-fs pdk-cw-fs
@@ -760,7 +745,7 @@
 /packages/apps/SafetyRegulatoryInfo pdk-fs
 /packages/apps/SampleLocationAttribution pdk-fs
 /packages/apps/SecureElement pdk-fs apps_se pdk-cw-fs
-/packages/apps/Settings pdk-fs
+/packages/apps/Settings pdk-fs pdk-cw-tvc
 /packages/apps/SettingsIntelligence pdk-fs
 /packages/apps/SpareParts pdk-fs
 /packages/apps/Stk apps_stk pdk-fs
@@ -811,6 +796,7 @@
 /packages/modules/StatsD pdk-fs pdk-cw-fs
 /packages/modules/Telephony pdk-fs pdk-cw-fs
 /packages/modules/ThreadNetwork pdk-fs pdk-cw-fs
+/packages/modules/UprobeStats pdk-fs pdk-cw-fs
 /packages/modules/Uwb pdk-fs pdk-cw-fs
 /packages/modules/Virtualization pdk
 /packages/modules/Wifi pdk-fs pdk-cw-fs sysui-studio
@@ -866,7 +852,7 @@
 /prebuilts/go/darwin-x86 tradefed darwin pdk notdefault platform-darwin
 /prebuilts/go/linux-x86 tradefed pdk linux
 /prebuilts/gradle-plugin pdk-fs pdk-cw-fs pdk
-/prebuilts/jdk/jdk21 pdk
+/prebuilts/jdk/jdk21 pdk sysui-studio
 /prebuilts/jdk/jdk8 pdk
 /prebuilts/ktlint pdk sysui-studio
 /prebuilts/manifest-merger pdk
@@ -891,6 +877,7 @@
 /prebuilts/module_sdk/Scheduling pdk
 /prebuilts/module_sdk/SdkExtensions pdk
 /prebuilts/module_sdk/StatsD pdk
+/prebuilts/module_sdk/UprobeStats pdk
 /prebuilts/module_sdk/Uwb pdk
 /prebuilts/module_sdk/Wifi pdk
 /prebuilts/module_sdk/art pdk
@@ -970,7 +957,7 @@
 /system/usb_info_tools pdk
 /system/vold pdk
 /test/app_compat/csuite pdk
-/test/catbox
+/test/catbox pdk
 /test/cts-root
 /test/dittosuite pdk
 /test/mlts/benchmark pdk
@@ -992,6 +979,7 @@
 /tools/apksig tradefed pdk
 /tools/apkzlib tradefed pdk
 /tools/asuite pdk
+/tools/camera pdk tools
 /tools/carrier_settings tools
 /tools/content_addressed_storage/prebuilts pdk tools
 /tools/currysrc pdk
@@ -1004,7 +992,7 @@
 /tools/metalava pdk tools
 /tools/ndkports pdk
 /tools/netsim pdk
-/tools/repohooks cts tradefed developers pdk tools adt-infra motodev
+/tools/repohooks cts tradefed developers pdk sysui-studio tools adt-infra motodev
 /tools/rr_prebuilt pdk
 /tools/security pdk tools
 /tools/test/connectivity pdk

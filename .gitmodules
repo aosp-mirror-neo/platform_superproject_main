@@ -76,6 +76,11 @@
 	shallow = true
 	path = device/google/akita-kernels/5.15
 	url = ../../../device/google/akita-kernels/5.15
+[submodule "device/google/akita-kernels/6.1"]
+	branch = main
+	shallow = true
+	path = device/google/akita-kernels/6.1
+	url = ../../../device/google/akita-kernels/6.1
 [submodule "device/google/akita-sepolicy"]
 	branch = main
 	path = device/google/akita-sepolicy
@@ -84,14 +89,6 @@
 	branch = main
 	path = device/google/atv
 	url = ../../../device/google/atv
-[submodule "device/google/barbet"]
-	branch = main
-	path = device/google/barbet
-	url = ../../../device/google/barbet
-[submodule "device/google/barbet-sepolicy"]
-	branch = main
-	path = device/google/barbet-sepolicy
-	url = ../../../device/google/barbet-sepolicy
 [submodule "device/google/bluejay"]
 	branch = main
 	path = device/google/bluejay
@@ -101,6 +98,11 @@
 	shallow = true
 	path = device/google/bluejay-kernels/5.10
 	url = ../../../device/google/bluejay-kernels/5.10
+[submodule "device/google/bluejay-kernels/6.1"]
+	branch = main
+	shallow = true
+	path = device/google/bluejay-kernels/6.1
+	url = ../../../device/google/bluejay-kernels/6.1
 [submodule "device/google/bluejay-sepolicy"]
 	branch = main
 	path = device/google/bluejay-sepolicy
@@ -135,19 +137,6 @@
 	branch = main
 	path = device/google/contexthub
 	url = ../../../device/google/contexthub
-[submodule "device/google/coral"]
-	branch = main
-	path = device/google/coral
-	url = ../../../device/google/coral
-[submodule "device/google/coral-kernel"]
-	branch = main
-	shallow = true
-	path = device/google/coral-kernel
-	url = ../../../device/google/coral-kernel
-[submodule "device/google/coral-sepolicy"]
-	branch = main
-	path = device/google/coral-sepolicy
-	url = ../../../device/google/coral-sepolicy
 [submodule "device/google/cuttlefish"]
 	branch = main
 	path = device/google/cuttlefish
@@ -171,6 +160,11 @@
 	shallow = true
 	path = device/google/felix-kernels/5.10
 	url = ../../../device/google/felix-kernels/5.10
+[submodule "device/google/felix-kernels/6.1"]
+	branch = main
+	shallow = true
+	path = device/google/felix-kernels/6.1
+	url = ../../../device/google/felix-kernels/6.1
 [submodule "device/google/felix-sepolicy"]
 	branch = main
 	path = device/google/felix-sepolicy
@@ -204,6 +198,11 @@
 	shallow = true
 	path = device/google/lynx-kernels/5.10
 	url = ../../../device/google/lynx-kernels/5.10
+[submodule "device/google/lynx-kernels/6.1"]
+	branch = main
+	shallow = true
+	path = device/google/lynx-kernels/6.1
+	url = ../../../device/google/lynx-kernels/6.1
 [submodule "device/google/lynx-sepolicy"]
 	branch = main
 	path = device/google/lynx-sepolicy
@@ -217,6 +216,11 @@
 	shallow = true
 	path = device/google/pantah-kernels/5.10
 	url = ../../../device/google/pantah-kernels/5.10
+[submodule "device/google/pantah-kernels/6.1"]
+	branch = main
+	shallow = true
+	path = device/google/pantah-kernels/6.1
+	url = ../../../device/google/pantah-kernels/6.1
 [submodule "device/google/pantah-sepolicy"]
 	branch = main
 	path = device/google/pantah-sepolicy
@@ -230,27 +234,11 @@
 	shallow = true
 	path = device/google/raviole-kernels/5.10
 	url = ../../../device/google/raviole-kernels/5.10
-[submodule "device/google/redbull"]
-	branch = main
-	path = device/google/redbull
-	url = ../../../device/google/redbull
-[submodule "device/google/redbull-kernel"]
+[submodule "device/google/raviole-kernels/6.1"]
 	branch = main
 	shallow = true
-	path = device/google/redbull-kernel
-	url = ../../../device/google/redbull-kernel
-[submodule "device/google/redbull-sepolicy"]
-	branch = main
-	path = device/google/redbull-sepolicy
-	url = ../../../device/google/redbull-sepolicy
-[submodule "device/google/redfin"]
-	branch = main
-	path = device/google/redfin
-	url = ../../../device/google/redfin
-[submodule "device/google/redfin-sepolicy"]
-	branch = main
-	path = device/google/redfin-sepolicy
-	url = ../../../device/google/redfin-sepolicy
+	path = device/google/raviole-kernels/6.1
+	url = ../../../device/google/raviole-kernels/6.1
 [submodule "device/google/shusky"]
 	branch = main
 	path = device/google/shusky
@@ -260,23 +248,15 @@
 	shallow = true
 	path = device/google/shusky-kernels/5.15
 	url = ../../../device/google/shusky-kernels/5.15
+[submodule "device/google/shusky-kernels/6.1"]
+	branch = main
+	shallow = true
+	path = device/google/shusky-kernels/6.1
+	url = ../../../device/google/shusky-kernels/6.1
 [submodule "device/google/shusky-sepolicy"]
 	branch = main
 	path = device/google/shusky-sepolicy
 	url = ../../../device/google/shusky-sepolicy
-[submodule "device/google/sunfish"]
-	branch = main
-	path = device/google/sunfish
-	url = ../../../device/google/sunfish
-[submodule "device/google/sunfish-kernel"]
-	branch = main
-	shallow = true
-	path = device/google/sunfish-kernel
-	url = ../../../device/google/sunfish-kernel
-[submodule "device/google/sunfish-sepolicy"]
-	branch = main
-	path = device/google/sunfish-sepolicy
-	url = ../../../device/google/sunfish-sepolicy
 [submodule "device/google/tangorpro"]
 	branch = main
 	path = device/google/tangorpro
@@ -286,12 +266,18 @@
 	shallow = true
 	path = device/google/tangorpro-kernels/5.10
 	url = ../../../device/google/tangorpro-kernels/5.10
+[submodule "device/google/tangorpro-kernels/6.1"]
+	branch = main
+	shallow = true
+	path = device/google/tangorpro-kernels/6.1
+	url = ../../../device/google/tangorpro-kernels/6.1
 [submodule "device/google/tangorpro-sepolicy"]
 	branch = main
 	path = device/google/tangorpro-sepolicy
 	url = ../../../device/google/tangorpro-sepolicy
 [submodule "device/google/trout"]
 	branch = main
+	shallow = true
 	path = device/google/trout
 	url = ../../../device/google/trout
 [submodule "device/google/zuma"]
@@ -775,6 +761,10 @@
 	branch = main
 	path = external/cldr
 	url = ../../external/cldr
+[submodule "platform/external/clpeak"]
+	branch = main
+	path = external/clpeak
+	url = ../../external/clpeak
 [submodule "platform/external/cn-cbor"]
 	branch = main
 	path = external/cn-cbor
@@ -791,6 +781,10 @@
 	branch = main
 	path = external/conscrypt
 	url = ../../external/conscrypt
+[submodule "platform/external/coreboot"]
+	branch = main
+	path = external/coreboot
+	url = ../../external/coreboot
 [submodule "platform/external/cpu_features"]
 	branch = main
 	path = external/cpu_features
@@ -903,6 +897,10 @@
 	branch = main
 	path = external/elfutils
 	url = ../../external/elfutils
+[submodule "platform/external/emboss"]
+	branch = main
+	path = external/emboss
+	url = ../../external/emboss
 [submodule "platform/external/emma"]
 	branch = main
 	path = external/emma
@@ -1187,10 +1185,6 @@
 	branch = main
 	path = external/harfbuzz_ng
 	url = ../../external/harfbuzz_ng
-[submodule "platform/external/horologist"]
-	branch = main
-	path = external/horologist
-	url = ../../external/horologist
 [submodule "platform/external/hyphenation-patterns"]
 	branch = main
 	path = external/hyphenation-patterns
@@ -2742,10 +2736,6 @@
 	branch = main
 	path = hardware/invensense
 	url = ../../hardware/invensense
-[submodule "platform/hardware/knowles/athletico/sound_trigger_hal"]
-	branch = main
-	path = hardware/knowles/athletico/sound_trigger_hal
-	url = ../../hardware/knowles/athletico/sound_trigger_hal
 [submodule "platform/hardware/libhardware"]
 	branch = main
 	path = hardware/libhardware
@@ -2774,54 +2764,6 @@
 	branch = main
 	path = hardware/nxp/weaver
 	url = ../../hardware/nxp/weaver
-[submodule "platform/hardware/qcom/bootctrl"]
-	branch = main
-	path = hardware/qcom/bootctrl
-	url = ../../hardware/qcom/bootctrl
-[submodule "platform/hardware/qcom/sm7150/gps"]
-	branch = main
-	path = hardware/qcom/sm7150/gps
-	url = ../../hardware/qcom/sm7150/gps
-[submodule "platform/hardware/qcom/sm7250/display"]
-	branch = main
-	path = hardware/qcom/sm7250/display
-	url = ../../hardware/qcom/sm7250/display
-[submodule "platform/hardware/qcom/sm7250/gps"]
-	branch = main
-	path = hardware/qcom/sm7250/gps
-	url = ../../hardware/qcom/sm7250/gps
-[submodule "platform/hardware/qcom/sm7250/media"]
-	branch = main
-	path = hardware/qcom/sm7250/media
-	url = ../../hardware/qcom/sm7250/media
-[submodule "platform/hardware/qcom/sm8150/data/ipacfg-mgr"]
-	branch = main
-	path = hardware/qcom/sm8150/data/ipacfg-mgr
-	url = ../../hardware/qcom/sm8150/data/ipacfg-mgr
-[submodule "platform/hardware/qcom/sm8150/display"]
-	branch = main
-	path = hardware/qcom/sm8150/display
-	url = ../../hardware/qcom/sm8150/display
-[submodule "platform/hardware/qcom/sm8150/gps"]
-	branch = main
-	path = hardware/qcom/sm8150/gps
-	url = ../../hardware/qcom/sm8150/gps
-[submodule "platform/hardware/qcom/sm8150/media"]
-	branch = main
-	path = hardware/qcom/sm8150/media
-	url = ../../hardware/qcom/sm8150/media
-[submodule "platform/hardware/qcom/sm8150/thermal"]
-	branch = main
-	path = hardware/qcom/sm8150/thermal
-	url = ../../hardware/qcom/sm8150/thermal
-[submodule "platform/hardware/qcom/sm8150/vr"]
-	branch = main
-	path = hardware/qcom/sm8150/vr
-	url = ../../hardware/qcom/sm8150/vr
-[submodule "platform/hardware/qcom/sm8150p/gps"]
-	branch = main
-	path = hardware/qcom/sm8150p/gps
-	url = ../../hardware/qcom/sm8150p/gps
 [submodule "platform/hardware/qcom/wlan"]
 	branch = main
 	path = hardware/qcom/wlan
@@ -2934,6 +2876,10 @@
 	branch = main
 	path = packages/apps/Car/RadioPrebuilt
 	url = ../../packages/apps/Car/RadioPrebuilt
+[submodule "platform/packages/apps/Car/References"]
+	branch = main
+	path = packages/apps/Car/References
+	url = ../../packages/apps/Car/References
 [submodule "platform/packages/apps/Car/RotaryController"]
 	branch = main
 	path = packages/apps/Car/RotaryController
@@ -3287,6 +3233,10 @@
 	branch = main
 	path = packages/modules/ThreadNetwork
 	url = ../../packages/modules/ThreadNetwork
+[submodule "platform/packages/modules/UprobeStats"]
+	branch = main
+	path = packages/modules/UprobeStats
+	url = ../../packages/modules/UprobeStats
 [submodule "platform/packages/modules/Uwb"]
 	branch = main
 	path = packages/modules/Uwb
@@ -3655,6 +3605,11 @@
 	shallow = true
 	path = prebuilts/module_sdk/StatsD
 	url = ../../prebuilts/module_sdk/StatsD
+[submodule "platform/prebuilts/module_sdk/UprobeStats"]
+	branch = main
+	shallow = true
+	path = prebuilts/module_sdk/UprobeStats
+	url = ../../prebuilts/module_sdk/UprobeStats
 [submodule "platform/prebuilts/module_sdk/Uwb"]
 	branch = main
 	shallow = true
@@ -4076,6 +4031,10 @@
 	branch = main
 	path = tools/asuite
 	url = ../../tools/asuite
+[submodule "platform/tools/camera"]
+	branch = main
+	path = tools/camera
+	url = ../../tools/camera
 [submodule "platform/tools/carrier_settings"]
 	branch = main
 	path = tools/carrier_settings
