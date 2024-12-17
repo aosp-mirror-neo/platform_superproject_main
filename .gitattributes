@@ -175,6 +175,7 @@
 /external/capstone pdk
 /external/cblas pdk
 /external/cbor-java pdk
+/external/chromium-crossbench pdk
 /external/chromium-trace pdk
 /external/chromium-webview pdk
 /external/clang pdk

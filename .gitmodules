@@ -744,6 +744,10 @@
 	branch = main
 	path = external/cbor-java
 	url = ../../external/cbor-java
+[submodule "platform/external/chromium-crossbench"]
+	branch = main
+	path = external/chromium-crossbench
+	url = ../../external/chromium-crossbench
 [submodule "platform/external/chromium-trace"]
 	branch = main
 	path = external/chromium-trace
