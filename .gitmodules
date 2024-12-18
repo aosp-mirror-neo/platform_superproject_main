@@ -3727,6 +3727,10 @@
 	branch = main
 	path = system/core
 	url = ../../system/core
+[submodule "platform/system/cros-codecs"]
+	branch = main
+	path = system/cros-codecs
+	url = ../../system/cros-codecs
 [submodule "platform/system/dmesgd"]
 	branch = main
 	path = system/dmesgd

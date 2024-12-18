@@ -903,6 +903,7 @@
 /system/chre pdk
 /system/connectivity/wificond pdk
 /system/core pdk
+/system/cros-codecs pdk
 /system/dmesgd pdk
 /system/extras pdk
 /system/gatekeeper pdk
