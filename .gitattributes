@@ -527,7 +527,6 @@
 /external/rust/crabbyavif pdk
 /external/rust/crates/libsqlite3-sys pdk
 /external/rust/crates/openssl pdk
-/external/rust/crates/quiche pdk
 /external/rust/crates/v4l2r pdk
 /external/rust/crates/vhost-device-vsock pdk
 /external/rust/cros-libva pdk
