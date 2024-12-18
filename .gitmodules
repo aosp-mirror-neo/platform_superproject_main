@@ -345,6 +345,16 @@
 	shallow = true
 	path = kernel/prebuilts/6.1/x86_64
 	url = ../../../kernel/prebuilts/6.1/x86-64
+[submodule "kernel/prebuilts/6.12/arm64"]
+	branch = main
+	shallow = true
+	path = kernel/prebuilts/6.12/arm64
+	url = ../../../kernel/prebuilts/6.12/arm64
+[submodule "kernel/prebuilts/6.12/x86-64"]
+	branch = main
+	shallow = true
+	path = kernel/prebuilts/6.12/x86_64
+	url = ../../../kernel/prebuilts/6.12/x86-64
 [submodule "kernel/prebuilts/6.6/arm64"]
 	branch = main
 	shallow = true
@@ -370,6 +380,16 @@
 	shallow = true
 	path = kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
 	url = ../../../kernel/prebuilts/common-modules/virtual-device/6.1/x86-64
+[submodule "kernel/prebuilts/common-modules/virtual-device/6.12/arm64"]
+	branch = main
+	shallow = true
+	path = kernel/prebuilts/common-modules/virtual-device/6.12/arm64
+	url = ../../../kernel/prebuilts/common-modules/virtual-device/6.12/arm64
+[submodule "kernel/prebuilts/common-modules/virtual-device/6.12/x86-64"]
+	branch = main
+	shallow = true
+	path = kernel/prebuilts/common-modules/virtual-device/6.12/x86-64
+	url = ../../../kernel/prebuilts/common-modules/virtual-device/6.12/x86-64
 [submodule "kernel/prebuilts/common-modules/virtual-device/6.6/arm64"]
 	branch = main
 	shallow = true
