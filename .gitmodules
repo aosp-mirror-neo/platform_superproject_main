@@ -2404,10 +2404,6 @@
 	branch = main
 	path = external/unicode
 	url = ../../external/unicode
-[submodule "platform/external/universal-tween-engine"]
-	branch = main
-	path = external/universal-tween-engine
-	url = ../../external/universal-tween-engine
 [submodule "platform/external/uwb"]
 	branch = main
 	path = external/uwb
