@@ -1269,6 +1269,10 @@
 	branch = main
 	path = external/jacoco
 	url = ../../external/jacoco
+[submodule "platform/external/jakarta.inject"]
+	branch = main
+	path = external/jakarta.inject
+	url = ../../external/jakarta.inject
 [submodule "platform/external/jarjar"]
 	branch = main
 	path = external/jarjar
@@ -1361,6 +1365,10 @@
 	branch = main
 	path = external/kotlin-compose-compiler
 	url = ../../external/kotlin-compose-compiler
+[submodule "platform/external/kotlin.metadata"]
+	branch = main
+	path = external/kotlin.metadata
+	url = ../../external/kotlin.metadata
 [submodule "platform/external/kotlinc"]
 	branch = main
 	path = external/kotlinc

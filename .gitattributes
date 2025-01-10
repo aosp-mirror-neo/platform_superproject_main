@@ -305,6 +305,7 @@
 /external/jackson-core pdk
 /external/jackson-databind pdk
 /external/jacoco pdk
+/external/jakarta.inject pdk
 /external/jarjar pdk
 /external/javaparser pdk
 /external/javapoet pdk
@@ -328,6 +329,7 @@
 /external/kernel-headers pdk
 /external/kmod pdk
 /external/kotlin-compose-compiler pdk
+/external/kotlin.metadata pdk
 /external/kotlinc pdk
 /external/kotlinpoet pdk
 /external/kotlinx.atomicfu pdk
