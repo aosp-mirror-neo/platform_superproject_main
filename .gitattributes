@@ -507,7 +507,6 @@
 /external/python/python-api-core pdk
 /external/python/pyyaml pdk
 /external/python/rsa vts pdk
-/external/python/setuptools vts pdk
 /external/python/six vts pdk
 /external/python/timeout-decorator pdk
 /external/python/typing pdk
