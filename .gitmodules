@@ -3811,6 +3811,10 @@
 	branch = main
 	path = system/libufdt
 	url = ../../system/libufdt
+[submodule "platform/system/liburingutils"]
+	branch = main
+	path = system/liburingutils
+	url = ../../system/liburingutils
 [submodule "platform/system/libvintf"]
 	branch = main
 	path = system/libvintf
