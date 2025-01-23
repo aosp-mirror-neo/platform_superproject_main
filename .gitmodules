@@ -365,6 +365,11 @@
 	shallow = true
 	path = kernel/prebuilts/6.6/x86_64
 	url = ../../../kernel/prebuilts/6.6/x86-64
+[submodule "kernel/prebuilts/common-modules/trusty/6.12/arm64"]
+	branch = main
+	shallow = true
+	path = kernel/prebuilts/common-modules/trusty/6.12/arm64
+	url = ../../../kernel/prebuilts/common-modules/trusty/6.12/arm64
 [submodule "kernel/prebuilts/common-modules/trusty/6.6/arm64"]
 	branch = main
 	shallow = true
