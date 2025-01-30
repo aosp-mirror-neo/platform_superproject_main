@@ -1771,6 +1771,10 @@
 	branch = main
 	path = external/mp4parser
 	url = ../../external/mp4parser
+[submodule "platform/external/mpdecimal"]
+	branch = main
+	path = external/mpdecimal
+	url = ../../external/mpdecimal
 [submodule "platform/external/ms-tpm-20-ref"]
 	branch = main
 	path = external/ms-tpm-20-ref

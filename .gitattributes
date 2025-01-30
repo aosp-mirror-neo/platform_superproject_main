@@ -430,6 +430,7 @@
 /external/modp_b64 pdk
 /external/moshi pdk
 /external/mp4parser pdk
+/external/mpdecimal pdk
 /external/ms-tpm-20-ref pdk
 /external/mtools pdk
 /external/musl pdk
