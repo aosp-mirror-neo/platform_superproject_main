@@ -291,6 +291,7 @@
 /external/hamcrest pdk
 /external/harfbuzz_ng pdk qcom_msm8x26
 /external/hyphenation-patterns pdk
+/external/iamf_tools pdk
 /external/icing pdk
 /external/icu pdk
 /external/igt-gpu-tools pdk
