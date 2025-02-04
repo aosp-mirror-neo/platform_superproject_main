@@ -1019,6 +1019,7 @@
 /trusty/user/app/storage pdk trusty
 /trusty/device/arm/generic-arm64 pdk trusty
 /trusty/device/arm/vexpress-a15 pdk trusty
+/trusty/device/common pdk trusty
 /trusty/device/desktop pdk-desktop android-desktop trusty
 /trusty/device/nxp/imx7d pdk trusty
 /trusty/device/x86/generic-x86_64 pdk trusty
