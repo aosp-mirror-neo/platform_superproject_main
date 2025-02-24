@@ -182,6 +182,7 @@
 /external/chromium-crossbench pdk
 /external/chromium-trace pdk
 /external/chromium-webview pdk
+/external/chromiumos-config pdk
 /external/clang pdk
 /external/cldr pdk
 /external/clpeak

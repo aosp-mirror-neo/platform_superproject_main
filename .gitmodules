@@ -778,6 +778,11 @@
 	shallow = true
 	path = external/chromium-webview
 	url = ../../external/chromium-webview
+[submodule "platform/external/chromiumos-config"]
+	branch = main
+	shallow = true
+	path = external/chromiumos-config
+	url = ../../external/chromiumos-config
 [submodule "platform/external/clang"]
 	branch = main
 	path = external/clang
