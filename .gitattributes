@@ -942,6 +942,7 @@
 /system/nfc pdk
 /system/nvram pdk
 /system/secretkeeper pdk
+/system/secure_element pdk
 /system/security pdk
 /system/see/authmgr pdk
 /system/sepolicy pdk

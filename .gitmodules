@@ -3889,6 +3889,10 @@
 	branch = main
 	path = system/secretkeeper
 	url = ../../system/secretkeeper
+[submodule "platform/system/secure_element"]
+	branch = main
+	path = system/secure_element
+	url = ../../system/secure_element
 [submodule "platform/system/security"]
 	branch = main
 	path = system/security
