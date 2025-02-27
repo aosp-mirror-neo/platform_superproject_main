@@ -2362,6 +2362,10 @@
 	branch = main
 	path = external/tink
 	url = ../../external/tink
+[submodule "platform/external/tink-java"]
+	branch = main
+	path = external/tink-java
+	url = ../../external/tink-java
 [submodule "platform/external/tinyalsa"]
 	branch = main
 	path = external/tinyalsa
