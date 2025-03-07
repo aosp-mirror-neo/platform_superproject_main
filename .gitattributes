@@ -1023,7 +1023,7 @@
 /trusty/device/arm/generic-arm64 pdk trusty
 /trusty/device/arm/vexpress-a15 pdk trusty
 /trusty/device/common pdk trusty
-/trusty/device/desktop pdk-desktop android-desktop trusty
+/trusty/device/desktop pdk android-desktop trusty
 /trusty/device/nxp/imx7d pdk trusty
 /trusty/device/x86/generic-x86_64 pdk trusty
 /external/trusty/headers pdk trusty
@@ -1035,5 +1035,5 @@
 /external/trusty/lk pdk trusty
 /trusty/hardware/nxp pdk trusty
 /trusty/kernel pdk trusty
-/trusty/user/desktop pdk-desktop android-desktop trusty
+/trusty/user/desktop pdk android-desktop trusty
 /trusty/vendor/google/aosp pdk trusty
