@@ -38,7 +38,7 @@
 /device/google/felix-kernels/5.10 felix device
 /device/google/felix-kernels/6.1 felix device
 /device/google/felix-sepolicy felix device
-/device/google/gs-common slider pdk-gs-arm bluejay pdk-cw-tvc device cloudripper
+/device/google/gs-common slider pdk-gs-arm bluejay pdk-gs-imgtec pdk-cw-tvc device cloudripper
 /device/google/gs101 slider pdk-gs-arm bluejay device
 /device/google/gs101-sepolicy slider pdk-gs-arm bluejay device
 /device/google/gs201 pdk-gs-arm device cloudripper
@@ -105,7 +105,7 @@
 /build/blueprint tradefed pdk
 /build/pesto pdk
 /build/release tradefed pdk sysui-studio
-/build/soong tradefed pdk
+/build/soong tradefed pdk sysui-studio
 /cts pdk-fs cts pdk-cw-fs
 /dalvik pdk-fs pdk-cw-fs
 /developers/build developers pdk
@@ -236,6 +236,7 @@
 /external/fec pdk
 /external/federated-compute pdk
 /external/fft2d pdk
+/external/fhir/spec/r4 pdk
 /external/firebase-messaging pdk
 /external/flac pdk
 /external/flashrom pdk
@@ -322,6 +323,7 @@
 /external/jline pdk-fs tradefed pdk
 /external/jsilver pdk
 /external/jsmn pdk
+/external/json-schema-validator pdk
 /external/jsoncpp pdk
 /external/jsoup pdk
 /external/jspecify pdk
@@ -592,6 +594,7 @@
 /external/ublksrv pdk
 /external/unicode pdk
 /external/uwb pdk
+/external/v4l-utils pdk
 /external/v4l2_codec2 pdk
 /external/vboot_reference pdk
 /external/virglrenderer pdk
@@ -661,16 +664,17 @@
 /hardware/google/apf pdk
 /hardware/google/av pdk
 /hardware/google/camera pdk
-/hardware/google/gchips pdk-gs-arm pdk-lassen
+/hardware/google/display/common
+/hardware/google/gchips pdk-gs-arm pdk-gs-imgtec pdk-lassen
 /hardware/google/gfxstream pdk
-/hardware/google/graphics/common pdk-gs-arm pdk-lassen
+/hardware/google/graphics/common pdk-gs-arm pdk-gs-imgtec pdk-lassen
 /hardware/google/graphics/gs101 pdk-gs-arm pdk-lassen
 /hardware/google/graphics/gs201 pdk-gs-arm cloudripper
 /hardware/google/graphics/zuma pdk-gs-arm ripcurrent
 /hardware/google/graphics/zumapro ripcurrentpro
 /hardware/google/interfaces pdk sysui-studio
-/hardware/google/pixel pdk-gs-arm generic_fs pixel
-/hardware/google/pixel-sepolicy generic_fs pixel
+/hardware/google/pixel pdk-gs-arm generic_fs pdk-gs-imgtec pdk-desktop pixel
+/hardware/google/pixel-sepolicy generic_fs pdk-desktop pixel
 /hardware/interfaces pdk sysui-studio
 /hardware/invensense invensense pdk
 /hardware/libhardware pdk
@@ -734,6 +738,7 @@
 /packages/apps/LegacyCamera pdk-fs
 /packages/apps/ManagedProvisioning pdk-fs
 /packages/apps/Messaging pdk-fs
+/packages/apps/Multiuser pdk-fs
 /packages/apps/Music pdk-fs
 /packages/apps/MusicFX pdk-fs
 /packages/apps/Nfc apps_nfc pdk-fs pdk-cw-fs
@@ -982,7 +987,7 @@
 /tools/apifinder pdk tools
 /tools/apksig tradefed pdk
 /tools/apkzlib tradefed pdk
-/tools/asuite pdk
+/tools/asuite pdk sysui-studio
 /tools/camera pdk tools
 /tools/carrier_settings tools
 /tools/content_addressed_storage/prebuilts pdk tools
