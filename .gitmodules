@@ -3981,6 +3981,10 @@
 	branch = main
 	path = system/vold
 	url = ../../system/vold
+[submodule "platform/system/zygote"]
+	branch = main
+	path = system/zygote
+	url = ../../system/zygote
 [submodule "platform/test/app_compat/csuite"]
 	branch = main
 	path = test/app_compat/csuite
